@@ -15,7 +15,7 @@ The ruleset is similar to the [official 1brc ruleset](https://1brc.dev/#rules-an
 The end of the challenge will depend on how many people I can actually get to join this (lol).
 
 ## Entering the challenge
-1. Clone the repo and run the generation script (coming soon).
+1. Clone the repo and run the generation script appropriate for your system in `/generate/`. If you need a different binary, you can compile `generate.cpp` yourself. Do not change the seed.
 2. Create your submission in `/submissions/<your-submission-name>/`. If your submission contains multiple files or needs something special (i.e. a specific runtime version), please include a short readme.
 3. Open a PR.
 4. Wait for me to run your submission and put it on the leaderboard.
