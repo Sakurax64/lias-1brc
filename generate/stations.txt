@@ -30,8 +30,8 @@ Nanjing
 Shenyang
 Foshan
 London
-New York City
-Jakarta
+New York
+Sunda Kelapa
 Bengaluru
 Jinan
 Hanoi
@@ -57,10 +57,10 @@ Shijiazhuang
 Changchun
 Pudong
 Sydney
-Singapore
+Temasek
 Melbourne
 Dar es Salaam
-Saint Petersburg
+St Petersburg
 Taiyuan
 Alexandria
 Bangkok
@@ -71,7 +71,7 @@ Peshawar
 Zibo
 Jeddah
 Chennai
-Kolkata
+Calcutta
 Xiamen
 Surat
 Yangzhou
@@ -87,26 +87,27 @@ Riyadh
 Fuzhou
 New Taipei City
 New Territories
-Chattogram
+Chittagong
 Addis Ababa
 Zaozhuang
 Zhongshan
 Shantou
 Los Angeles
 Faisalabad
-Dubai
+Dubai City
 Yokohama
 Ningbo
 Nanhai
-Casablanca
+White House
 Ibadan
-Puyang
+Pujiang
 Ankara
 Shiyan
 Hohhot
 Berlin
 Tangshan
 Rawalpindi
+Lueliang
 Durban
 Anshan
 Changzhou
@@ -125,6 +126,7 @@ Incheon
 Haikou
 Caracas
 Kyiv
+Izmir
 Huizhou
 Buenos Aires
 Yinchuan
@@ -138,7 +140,7 @@ Baotou
 Osaka
 Linyi
 Baoding
-Kaohsiung
+Kaohsiung City
 Brooklyn
 Guayaquil
 Belo Horizonte
@@ -172,7 +174,7 @@ Nanchang
 Baku
 Nagoya
 Rome
-Queens
+Queens County
 Houston
 Mashhad
 Shaoxing
@@ -197,11 +199,12 @@ Pretoria
 Mbuji-Mayi
 Aleppo
 Kunshan
+Al Mawsil al Jadidah
 Zunyi
 La Paz
 Lianyungang
 Puning
-Indore
+Indhur
 Brazzaville
 Tashkent
 Ganzhou
@@ -216,10 +219,9 @@ Sanaa
 Conakry
 Tangerang
 Tijuana
-Hyderabad
 Beirut
 Jieyang
-Jilin
+Jilin City
 Jiading
 Bucharest
 Camayenne
@@ -229,34 +231,37 @@ Nanchong
 Tainan
 Kaduna
 Omdurman
-Davao
+Davao City
+Thane
 Iztapalapa
 Santa Cruz de la Sierra
 Vadodara
-Adana
+Antioch on Sarus
 Nanyang
-Abu Dhabi
+Abu Dhabi Island and Internal Islands City
 Palembang
-Sharjah
+Sharjah city
 Bhopal
-Nanshan Residential
+Nanshan District
 Jiangmen
 Benin City
 Jiangyin
 Fuyang
+Montreal
 Bayan Nur
-Chengtangcun
+Tengzhou
 Maracaibo
 Chaozhou
 Minsk
 Budapest
 Qingyuan
+Rasapudipalem
 Pimpri-Chinchwad
 Caloocan
 Warsaw
 Soweto
 Semarang
-Puebla
+Puebla City
 Vienna
 Barcelona
 Patna
@@ -268,7 +273,7 @@ Rabat
 Recife
 Phoenix
 Suzhou
-Ecatepec de Morelos
+Ecatepec
 Valencia
 Ludhiana
 Yancheng
@@ -280,13 +285,13 @@ Daqing
 Manila
 Wuhu
 Dazhou
-Makkah
+Mecca
 Philadelphia
 Phnom Penh
 Guilin
 Damascus
 Quetta
-Zhaoqing
+Shiu Hing
 Onitsha
 Mianyang
 Auckland
@@ -301,6 +306,7 @@ San Antonio
 Kobe
 Jinzhou
 Stockholm
+Can Tho
 Munich
 Khulna
 Yekaterinburg
@@ -317,7 +323,7 @@ Madurai
 Jinhua
 Kyoto
 Cixi
-Changde
+Changteh
 Kuala Lumpur
 Kayseri
 Kaifeng
@@ -343,6 +349,7 @@ San Diego
 Gwangju
 Zhanjiang
 Fushun
+Rajkot
 Luoyang
 Guadalajara
 The Bronx
@@ -360,16 +367,16 @@ Abobo
 Jamshedpur
 Douala
 Antalya
-Basrah
+Basra
 Dallas
 Saitama
 Niamey
 Liupanshui
-Taguig
+City of Taguig
 Maoming
 Calgary
 Tripoli
-Madinah
+Al-Madinah al-Munawwarah
 Batam
 Qinzhou
 Luohe
@@ -381,11 +388,13 @@ Da Nang
 Amman
 Budta
 Belgrade
+Bien Hoa
 Qingpu
 Montevideo
 Xuchang
+Kalyan
 Zigong
-Nizhniy Novgorod
+Nizhny Novgorod
 Jepara
 Maputo
 Xuzhou
@@ -395,9 +404,9 @@ Shiraz
 Heshan
 Dombivali
 Kananga
-Kazan
 Jining
 Barquisimeto
+Shubra al Khaymah
 Putuo
 Port-au-Prince
 Suwon
@@ -405,6 +414,7 @@ Liaocheng
 Jinzhong
 Callao
 Meerut
+Virar
 Nowrangapur
 Karbala
 Changzhi
@@ -420,6 +430,7 @@ Hiroshima
 Santiago de los Caballeros
 Shymkent
 Weinan
+Ghaziabad
 Matola
 Dhanbad
 Arequipa
@@ -448,7 +459,7 @@ Sofia
 Anyang
 Yerevan
 Luohu District
-Vijayawada
+Bejawada
 Fengxiang
 Bijie
 Monterrey
@@ -488,7 +499,7 @@ Yulin
 Jodhpur
 Gwalior
 Jingzhou
-Gqeberha
+Port Elizabeth
 Tbilisi
 Voronezh
 Xinxiang
@@ -496,13 +507,14 @@ Yichun
 Sokoto
 Jos
 Tangier
-Teni
+Theni
 Xianyang
 Mexicali
 Pointe-Noire
+Macelo
 Campinas
 Sanya
-Rangpur
+Rangpur City
 Kirkuk
 Ashgabat
 Shaoguan
@@ -510,16 +522,17 @@ Howrah
 Raipur
 Changwon
 Longyan
+Cologne
 Dublin
-Tiruchirappalli
+Tiruchchirappalli
 Yongzhou
 Brussels
-Zamboanga
+Zamboanga City
 Ottawa
 Huzhou
 Xinyi
 Volgograd
-Khartoum North
+Bahri
 Edmonton
 Odesa
 Wuwei
@@ -535,7 +548,7 @@ Shivaji Nagar
 Dongying
 Luzhou
 San Jose
-Sholapur
+Solapur
 Marrakesh
 Guatemala City
 Meizhou
@@ -559,7 +572,7 @@ Feicheng
 Cebu City
 Sanhe
 Guli
-Tiruppur
+Tirupur
 Guwahati
 Xiangtan
 Linfen
@@ -567,22 +580,24 @@ Victoria
 Zhenjiang
 Enugu
 Rosario
+Sultanah
 Huludao
 Hubballi
 Padang
 Kitakyushu
 Taiz
-Setagaya
+Setagaya City
 Kingston
 Baoshan
-Chihuahua
+Chihuahua City
 Nay Pyi Taw
 Mysuru
 Chengde
 Salem
+Maranham
 Seongnam-si
 Cartagena
-Antipolo
+Antipolo City
 Columbus
 Sialkot
 Charlotte
@@ -598,6 +613,7 @@ Bahawalpur
 Quzhou
 Blantyre
 Donetsk
+Abu Ghraib
 Qom
 Bishkek
 Krasnodar
@@ -605,7 +621,7 @@ Natal
 Pingxiang
 Malang
 Indianapolis
-Gurugram
+Gurgaon
 Bhubaneswar
 Zhoushan
 Qiqihar
@@ -628,10 +644,10 @@ Jiaozuo
 Samarinda
 Benxi
 Rohini
-Wanxian
+Wanshien
 Johor Bahru
 Arifwala
-Pasig City
+Pasig
 Cheongju-si
 Kanayannur
 Tegucigalpa
@@ -640,17 +656,17 @@ Turin
 Al Ain City
 Libreville
 Saratov
-Ulan Bator
+Ulaanbaatar
 Weihai
 Takeo
 Cochabamba
-Ahvaz
 Vientiane
 Zhabei
 Shangyu
 Xinyu
 Pietermaritzburg
 Yibin
+Naucalpan
 Kampung Baru Subang
 Taicang
 San Francisco
@@ -660,6 +676,7 @@ Valencia
 Jinshan
 Chenzhou
 Bukavu
+Krakow
 Dandong
 Barcelona
 Bangui
@@ -675,6 +692,8 @@ Xingtai
 Niigata
 Muscat
 Zarqa
+Cankaya
+Kuecuekcekmece
 Hamamatsu
 Kolwezi
 Vinh
@@ -702,12 +721,13 @@ Wuzhou
 Ipoh
 Qinhuangdao
 Benghazi
+Aligarh
 Shaoyang
 Malatya
 Winnipeg
-Andijon
+Andijan
 Bareilly
-Buraydah
+Buraidah
 Hegang
 Morelia
 Riga
@@ -715,25 +735,30 @@ Zhuanghe
 Amsterdam
 Cagayan de Oro
 Shah Alam
+Bagcilar
 Shizuishan
 Kumamoto
 Oyo
 Serang
 Deyang
 Abeokuta
+Al Hudaydah
 Yangquan
 Akure
 Denver
 Osasco
 Kikolo
 Maianga
+Alvaro Obregon
 Aihara
 Evaton
 Valenzuela
+Muzaffarabad
 Okayama
 Aguascalientes
 General Santos
 Zhumadian
+Moradabad
 Sagamihara
 Qingshan
 Mississauga
@@ -749,20 +774,20 @@ Paranaque City
 Tolyatti
 Santo Domingo Oeste
 Santo Domingo Este
-Battagram
+Battagram City
+Dharavi
 Suez
 Changzhi
 Agadir
-Edogawe
+Edogawa City
 Sarajevo
 Balikpapan
-Adachi
+Adachi City
 Changning
 Bauchi
 Shizuoka
 Tunis
 Zhangjiakou
-Washington
 Nashville
 Fuxin
 Changsha
@@ -772,8 +797,8 @@ Hlaingthaya
 Beira
 Hongkou
 Zaragoza
-Sevilla
-Baise
+Seville
+Baise City
 Pontianak
 Situbondo
 Agege
@@ -786,10 +811,13 @@ Cotonou
 El Paso
 Gorakhpur
 Guadalupe
+Wroclaw
 Denpasar
 Guntur
 Katsina
 Sanmenxia
+Ezhou
+Madinat an Nasr
 Camama
 Tabuk
 Kitwe
@@ -802,7 +830,7 @@ Zagreb
 Leshan
 Vancouver
 Rizhao
-Helsinki
+Helsingfors
 Cheonan
 Dongcun
 Banjarmasin
@@ -815,27 +843,32 @@ Puyang
 Soacha
 Boston
 Tlalnepantla
+Jajmau
 Portland
 Calumbo
 Tlaquepaque
 Frankfurt am Main
-Macau
+Macao
 Palermo
 Izhevsk
 Colombo
 Amravati
 Lingyuan
 Detroit
-Mingguang
 Osogbo
+Mingguang
+Funabashi
 Bikaner
+Jaboatao dos Guararapes
 Hoji ya Henda
 Las Vegas
 New South Memphis
 Hwaseong-si
 Gold Coast
+Lodz
 Jeonju
 Chongming
+Al Ahmadi
 Cuenca
 Chisinau
 Likasi
@@ -844,7 +877,7 @@ Hebi
 Comilla
 Tshikapa
 Chunian
-Kochi
+Ernakulam
 Memphis
 Jingmen
 Barnaul
@@ -866,25 +899,27 @@ Jiaozhou
 Suizhou
 Villa Nueva
 Khabarovsk
+Culaba
 Arusha
 Feira de Santana
+Las Pinas
 Chizhou
 Stuttgart
 Cuttack
-Borivli
+Borivali
 Chiclayo
 Yaroslavl
 Gothenburg
 Kawaguchi
 Bukit Rahman Putra
-Jhang Sadr
+Jhang Sadar
 Bhavnagar
 Benoni
 Vladivostok
-Tuxtla
-Kryvyy Rih
+Kryvyi Rih
 Sanming
 Islamabad
+Sangli
 Jamnagar
 Lubango
 Pokhara
@@ -902,14 +937,16 @@ Mukalla
 Rasht
 Mar del Plata
 Essen
+Al Mahallah al Kubra
 Shekhupura
 Yingkou
 Zhangzhou
 Reynosa
+Thuan An
 Dortmund
-Suginami
+Suginami City
 Baltimore
-Itabashi
+tabashi City
 New Kingston
 Pelentong
 Cimahi
@@ -919,11 +956,14 @@ Genoa
 Malacca
 Nha Trang
 Kerman
+Urmia
+Bahcelievler
 Tanta
 Jammu
 Iskandar Puteri
 Calamba
 Tlalpan
+Herat
 Dongsheng
 Gujrat
 Tomsk
@@ -943,12 +983,15 @@ Xinmin
 Dresden
 Orenburg
 Albuquerque
+Bokaro
 Asmara
 Sukkur
 Milwaukee
+Cho Lon
 Wenchang
 Ile-Ife
 Gombe
+Hamhung
 Kemerovo
 Nasiriyah
 Bloemfontein
@@ -959,17 +1002,19 @@ Chuxiong
 Balbala
 Huaihua
 Sishui
-Muntinlupa
+City of Muntinlupa
+Binh Thanh
 Zahedan
-Banqiao
+Banqiao District
 Nanded
 Kozhikode
 Ulanqab
-Cabinda
 Ajegunle
+Cabinda
 Pristina
 Jiamusi
 Korla
+Kolhapur
 Porto Velho
 Kuantan
 Sevastopol
@@ -981,7 +1026,7 @@ Owerri
 Kota Kuala Muda
 Sungai Petani
 Xinzhou
-Kalaburagi
+Kalaburgi
 Tucson
 Selayang Baru Utara
 Vilnius
@@ -993,25 +1038,32 @@ Juiz de Fora
 Calabar
 Oujda
 Novokuznetsk
+Ryazan
 Sahiwal
 Sahiwal
 Mersin
+Nilufer
 Leeds
-Aqsu
+Poznan
+Aksu
 Ebute Ikorodu
 Ananindeua
-Tanggu
+Taku
 Pasir Gudang
 Astrakhan
 Okara
 Nansana
-Kimhae
-Ar Raqqah
+Gimhae
+Raqqa
+Cuauhtemoc
 Shangluo
 Himeji
+Ibague
 Antwerp
-Assiut
+Asyut
+Hamadan
 Qionghai
+Aparecida de Goiania
 Cangzhou
 Mohammadpur
 Surakarta
@@ -1020,7 +1072,10 @@ San Salvador
 Beihai
 Van
 Sacramento
+Thu GJuc
 Penza
+Mazari Sharif
+Kandahar
 Hengshui
 Dehradun
 Erode
@@ -1032,7 +1087,7 @@ Qui Nhon
 Al Fayyum
 Durgapur
 Utsunomiya
-Victoria de Durango
+Durango
 Belford Roxo
 Lisbon
 Rahim Yar Khan
@@ -1042,7 +1097,7 @@ Loni
 Siliguri
 Nuremberg
 Ujjain
-Hannover
+Hanover
 Edinburgh
 Xianning
 Toulouse
@@ -1056,38 +1111,47 @@ Heroica Matamoros
 Makati City
 Buda
 Tonghua
-Naberezhnyye Chelny
+Naberezhnye Chelny
 Lipetsk
 Kikwit
+Santa Catherina
 Banan
 Newcastle
-Tuen Mun
+Tuenmen
 Zhangye
 Kirov
 Kashgar
 Mukim Pulai
+Najran
+Karol Bagh
 Zhoukou
 Leipzig
 Pingliang
 Kalininskiy
 Duisburg
+Asansol
+Arak
+Maipu
+Homyel
 Aktobe
 Kota Kinabalu
-Talatona
 Kampung Larkin Lama
 Kota Damansara
 Saminaka
 Jalalpur Pirwala
+Talatona
 Mangaluru
 Zhucheng
 Santa Marta
 Matsudo
+Hathazari
 Lapu-Lapu City
-Karagandy
+Karaganda
 Loudi
 Liverpool
 Ichikawa
-Sha Tin
+Bandarban
+Shatin
 Dera Ghazi Khan
 Hecun
 Higashiosaka
@@ -1097,22 +1161,27 @@ Pohang
 Shanwei
 Ruiru
 Valledupar
-Belagavi
+Belgaum
 Ajman
 Jianshui
 Sancaktepe
 Port Sudan
 Toluca
+Ciudad Lopez Mateos
+Al Khusus
 Jeju City
+Gdansk
 Miami
 Omaha
 Nishinomiya
 Masina
+Saharanpur
 Vellore
 Donghe
 Kurashiki
 Campos dos Goytacazes
 Angeles City
+Bhatpara
 Jijiga
 Tula
 Najaf
@@ -1121,15 +1190,19 @@ Imus
 Xichang
 Malegaon
 Zaoyang
+Sao Jose do Rio Preto
 Caxias do Sul
+Karabaglar
 Okene
 Uijeongbu-si
 Bristol
 East London
+Chengguan Qu
 Yazd
-Hargeysa
+Hargeisa
 Jincheng
 Hongjiang
+Modinagar
 Taoyuan
 Eldoret
 Kansas City
@@ -1140,7 +1213,7 @@ Vereeniging
 The Hague
 Long Beach
 Gaya
-Iloilo
+Iloilo City
 Shouguang
 Jingdezhen
 Murcia
@@ -1151,70 +1224,83 @@ Marikina City
 Kenitra
 Seeb
 Cilegon
-Mykolayiv
+Mykolaiv
 Fukuyama
 Staten Island
 Nanping
 Pereira
-Ciudad Apodaca
+Apodaca
+Sao Joao de Meriti
 Ambattur
 Kanazawa
 Gonder
-Mandaluyong City
+Mandaluyong
 Mixco
-Longshan
+Liaoyuan
 Ikare
 Nova Vida
 Maracay
 Tamale
 Heyuan
+Di An
 Kira
 Esna
-Huangshan
+Huangshan City
+Hama
 Jalgaon
 Kurnool
 Yola
 Tieling
+Rach Gia
 Amagasaki
 Manado
 Santo Domingo de los Colorados
+Tartus
+Nazret
 Colorado Springs
 Huancayo
-Al Hillah
+Hillah
 Mbandaka
+Nampo
 Malanje
-Ciudad General Escobedo
+General Escobedo
 Bacolod City
 Virginia Beach
 Wafangdian
 Mansilingan
 Kahama
 Hsinchu
-Katsushika
+Katsushika-ku
+Ramgundam
 Batman
 Yongji
 Lishui
 Udaipur
 Warder
-Wenshan City
 Eslamshahr
 Juba
+Muratpasa
+Wenshan City
+Bac Giang
+Sanliurfa
 Kursk
 Maheshtala
 Constantine
+Patiala
 Boksburg
 Basuo
 Campina Grande
 Ensenada
 Xochimilco
 Shyamnagar
+Dasmarinas
 Zhangjiajie
 Mataram
 Korhogo
 Piracicaba
 Fujisawa
 Bissau
-Zhongxiang
+Anlu
 Sandakan
 Mawlamyine
 Laval
@@ -1227,6 +1313,7 @@ Macheng
 Ado-Ekiti
 Manizales
 Masan
+Buon Ma Thuot
 Stavropol
 Shuozhou
 Kashiwa
@@ -1239,7 +1326,7 @@ Sham Shui Po
 Machida
 Venustiano Carranza
 Zagazig
-Vinnytsya
+Vinnytsia
 Ismailia
 Ningde
 Akola
@@ -1250,7 +1337,7 @@ Veracruz
 East Jerusalem
 Bryansk
 Maltepe
-Sumgayit
+Sumqayit
 Tando Bago
 Kuala Terengganu
 Toyota
@@ -1259,10 +1346,12 @@ Al Kharj
 Wong Tai Sin
 Minna
 Mandaluyong
-Rajpur Sonarpur
+Xalapa
+Sonarpur Rajpur
 Bratislava
 Taman Petaling
-Shinagawa
+Shinagawa City
+Al-Hasakah
 Luxor
 London
 Awasa
@@ -1272,7 +1361,7 @@ Daloa
 Barra da Tijuca
 Dingxi
 Bamenda
-Tver
+Thai Nguyen
 Boa Vista
 Rio Branco
 Oakland
@@ -1283,17 +1372,22 @@ Kowloon City
 Santos
 Tirana
 Petrolina
+Maua
 San Juan
-Alor Setar
+Alor Star
 Tongchuan
 Pasay
 Nuevo Laredo
 Toyama
+Zurich
+Beylikduzu
+Viet Tri
 Azcapotzalco
 Tampa
 Bunamwaya
 Magnitogorsk
 Tulsa
+Jhansi
 Tseung Kwan O
 Kampung Kangkar Teberau
 Koumassi
@@ -1302,15 +1396,17 @@ Wandsbek
 Minneapolis
 Jayapura
 Thoothukudi
-Ballari
+Ardabil
+Bellary
 Chaoyang
 Gaza
 Yokosuka
 Kom Ombo
 Saltivka
 Nagasaki
-Gujangbagh
-Zhijiang
+Hotan
+Tonala
+Chikiang
 Panama City
 Uvira
 Hirakata
@@ -1330,12 +1426,14 @@ Miyazaki
 Lekki
 Antofagasta
 Wah Cantt
+Bhagalpur
 Agartala
-Dayrah
-West Jerusalem
 Bida
+West Jerusalem
+Deira
 Bunia
 Antakya
+Quan Muoi
 Sunshine Coast
 Kisumu
 Luhansk
@@ -1343,6 +1441,7 @@ Bengkulu
 Barinas
 Hancheng
 Wichita
+Al Hoceima
 Szczecin
 Delmas
 Liaozhong
@@ -1351,9 +1450,9 @@ Bologna
 Sejong
 Cazenga
 Samsun
-Tallinn
+Revel
 Tanga
-El Obeid
+Al-Ubayyid
 Lobito
 Saurimo
 Bauru
@@ -1361,26 +1460,31 @@ Bello
 Pasto
 Gaomi
 Santa Fe
+San-Pedro
 Makurdi
 Palu
-Takoradi
-Samut Prakan
+Takoradze
+Mueang Samut Prakan
 Arlington
 Khamis Mushait
 Ambato
+Carapicuiba
 Ojo de Agua
 Windhoek
 Abomey-Calavi
 Bochum
 Suita
+Benito Juarez
 Chak Jhumra
 Chongzuo
+Grajau
 Okazaki
 Xico
 Iztacalco
+Kakinada
 Betim
 Las Palmas de Gran Canaria
-Cotabato
+Cotabato City
 Bawshar
 Latur
 Tanzhou
@@ -1390,13 +1494,15 @@ Irapuato
 Ichinomiya
 Brno
 Krugersdorp
+Panihati
 Shibganj
 Caucaia
 Iquitos
-Toyohashi
+Toyohashi-shi
 Hechuan
+Petionville
 Utrecht
-Rajamahendravaram
+Rajahmundry
 Cariacica
 Yogyakarta
 Dhule
@@ -1412,6 +1518,7 @@ Bakersfield
 Xuanhua
 Emalahleni
 Bafoussam
+Thu Dau Mot
 Takasaki
 Seremban
 Miguel Hidalgo
@@ -1419,10 +1526,11 @@ Nagano
 Tawau
 Cardiff
 Dachang
+GJong GJa
 Chitungwiza
-Fenghuang
 Umuahia
-Puerto La Cruz
+Fenghuang
+Puerto Cruz
 Bharatpur
 Itaquaquecetuba
 Natore
@@ -1432,13 +1540,14 @@ Cascavel
 Canberra
 Avellaneda
 Praia Grande
-Nara-shi
+Nara
 Florence
 Ahilyanagar
-Kollam
-Huanggang
+Quilon
+Hwangchow
 Bradford
 Sukabumi
+Bilaspur
 Malabon
 Franca
 Cleveland
@@ -1448,28 +1557,30 @@ Yenagoa
 Gboko
 Samba
 Olinda
-Pyeongtaek
+Pyeongtaek-si
 Petare
+Ben Cat
 Anqiu
 Alanya
 Larkana
-Al Qadarif
+Gedaref
 Hrodna
 Cibinong
 Nawabshah
 New Orleans
 Keelung
 Jizhou
-Manukau City
+Manukau
 Maradi
 Burewala
+Atasehir
 Blumenau
 Nanqiao
 Mingora
 Wuppertal
 Ulan-Ude
-Huocheng
 Ijebu Ode
+Huocheng County
 Maseru
 Bhilwara
 Aurora
@@ -1479,6 +1590,7 @@ Taraz
 Yangsan
 Dniprovskyi
 San Jose del Monte
+Abu al-Kahsib
 Gwangmyeong
 Zanjan
 Neiva
@@ -1489,11 +1601,12 @@ Bacoor
 Uberaba
 Wakayama
 Brahmapur
-Fengshan
+Fongshan District
 Fatih
 Misratah
+Cuito
 Benito Juarez
-Kyzylorda
+Fort Perovsky
 Sinjhoro
 Kawagoe
 Takatsuki
@@ -1502,21 +1615,24 @@ Tapachula
 Lhoka
 Villahermosa
 Setapak
-Mahilyow
+Mogilev
 Bandar Abbas
 Pravyi Bereh
 Yunusobod
-Ras Al Khaimah
+Ras al-Khaimah
 Cabimas
 Kendari
 Honolulu
 Anaheim
 Tarsus
-Pengze
+Al Mahmudiyah
 Bahir Dar
+Pengze
+Punasa
 Diepsloot
 Xilinhot
 Quelimane
+Arkhangelsk
 Muzaffarnagar
 Hulunbuir
 Dumai
@@ -1531,11 +1647,12 @@ Kalemyo
 Belfast
 Long Bien
 Bilbao
-Ambon
+Ambon City
 Brest
 Chifeng
 Central Coast
 Corrientes
+Hungnam
 Avadi
 Yunlong
 Koshigaya
@@ -1543,11 +1660,10 @@ Coventry
 Belgorod
 Toamasina
 Logan City
-Kosti
 Qitaihe
 Doha
 Kadapa
-Nakano
+Nakano City
 Cirebon
 Turmero
 Tokorozawa
@@ -1564,32 +1680,40 @@ Paulista
 Obalende
 Kukatpally
 Laixi
-Dihok
+Duhok
 Kaluga
+Bac Tu Liem
 Celaya
-Serekunda
+Serrekunda
 Kafrul
-Makiyivka
+Cordelio
+Makiivka
 West Raleigh
 Cuernavaca
 Markham
-Tungi
+Sao Vicente
+Kaesong
+Tongi
 Krasnogvargeisky
 Randburg
-Safi
+Asafi
 Simferopol
 Lublin
 Pelotas
 Orlando
 Qazvin
 Asahikawa
+Kamarhati
 Tepic
+Wonju
 Wad Medani
+Quan Muoi Mot
 Nukus
 Konak
 Maebashi
-Kita
+Kita-ku
 Ciudad Victoria
+Soledad de Graciano Sanchez
 Kochi
 Bielefeld
 Blida
@@ -1605,11 +1729,15 @@ Smolensk
 Oral
 Khorramabad
 Soyapango
-Tongshan
+Xuzhou
+Guediawaye
 Plovdiv
+Wonsan
 Brent
 Pavlodar
+Chandrapur
 Canoas
+Koriyama
 Sochi
 Aksaray
 Vijayapura
@@ -1630,19 +1758,23 @@ Kluang
 Lincang
 Nottingham
 Ramiros
+Amarah
 Volzhsky
 Vaughan
 Xingyi
 Shivamogga
 Alwar
+Taubate
 Ixtapaluca
 Osh
 Portoviejo
 Villavicencio
 San Miguelito
+Shahjahanpur
 Lexington
 Tantou
 Suzano
+Junagadh
 Islington
 Ust-Kamenogorsk
 Tsuen Wan
@@ -1651,12 +1783,14 @@ Saransk
 Al Diwaniyah
 Varna
 Hafizabad
+Marne La Vallee
 Palangkaraya
 Damanhur
 Chiniot
 Reading
 Geita
 New Delhi
+Thessaloniki
 Naha
 Riverside
 Baicheng
@@ -1666,44 +1800,53 @@ Barueri
 Corpus Christi
 Thrissur
 Cherepovets
-Eloy Alfaro
 Hamburg-Nord
-Al-Kut
-Muar
+Kut
+Muar town
+Sisli
 Lexington-Fayette
 Maroua
-Kingston upon Hull
+Hull
 Preston
 Lianshan
 Denizli
 Ikeja
 New Cairo
+Al Qahirah al Jadidah
 Palmira
 Vologda
 Iligan City
 Catania
 Jardim Angela
+Nizamabad
 Cincinnati
 Percut
-Coatzacoalcos
+Port of Mexico
 Santa Ana
+Sariwon
 Botshabelo
 Butuan
+Shahriar
 Qods
+Gia Lam
 Kurgan
 Tampico
 Akowonjo
 Cabuyao
 Tabora
 Kasugai
+An Nhon
 Alimosho
+Ciudad Benito Juarez
 Mannheim
 Karawang
 Akita
-Chinju
+Tumakuru
+Jinju
 Parbhani
 Hisar
 Iksan
+Firozabad
 Palmas
 Vladikavkaz
 Port-de-Paix
@@ -1715,57 +1858,74 @@ Stockton
 Juazeiro do Norte
 Yokkaichi
 Kulti
+Tlahuac
 Sapele
+Kashan
 Kashan
 Pittsburgh
 Armenia
 Santa Catarina
 Sumbawanga
+Oryol
 Akashi
+Hai Ba Trung
 Kurume
 Graz
 Saint Paul
 Saltivskyi
+Nghi Son
+Karnal
 Changyi
 Ciudad del Este
 Rosetta
-Toshima
+Bardhaman
+Toshima City
 Kediri
 Solwezi
 Hamburg-Mitte
 Augsburg
 South Dublin
 Valladolid
-Miri
+Marabu
 Xinyi
 Mardan
 Surgut
 Swansea
 San Pablo
 Newcastle upon Tyne
+Gundupalaiyam
 Gatineau
 Yangshuo
+Binan
 Malir Cantonment
 Winejok
 Batikent
 Linqu
 Uruapan
+Patan
 Fergana
 Santol
 Kaolack
 Jember
 Aomori
+Barasat
 Mulugu
+Bihar Sharif
 Tegal
 Grozny
 Boma
+Bali
+Rampur
 Darbhanga
 Panipat
 Mwene
+Bialystok
+Sao Jose
 Rufisque
-Murmansk
+Romanov
 Tirupati
 Southend-on-Sea
+Guaruja
 Lincoln
 Phu Quoc
 Baiyin
@@ -1777,36 +1937,45 @@ Tambov
 Vigo
 Aizawl
 Banjarbaru
+Thanh Xuan
+Hofuf
 Cholula
 Gandhinagar
 Semey
+Cau Giay
 Dindigul
 Ponta Grossa
 Gaozhou
 Kamoke
 Limeira
 Thanjavur
-Kariega
+Uitenhage
 Al Mubarraz
 Resistencia
 Morioka
 Atyrau
 Xiuying
 Cileungsir
+Karimnagar
 Victoria
 Anchorage
 Dewas
-Batna
+Batna City
 Kaunas
+Sonipat
 Machala
 Wiesbaden
 Meads
 Kabwe
-Meguro
-Sumida
+Sinuiju
+Meguro City
+Sumida City
 Ibaraki
+Bac Ninh
 Ichalkaranji
 Marienthal
+Phu My
+Ceilandia
 Katowice
 Cluj-Napoca
 Gunpo
@@ -1814,13 +1983,17 @@ Songea
 Butembo
 Tacna
 Tin Shui Wai
-Savar
+Long Xuyen
+Savar Upazila
 Bathinda
 Henderson
+Jalna
 Sekondi
+Sao Goncalo
 Kyengera
 Greensboro
 Haifa
+Aarhus
 Dengzhou
 Artux
 Chuncheon
@@ -1833,14 +2006,17 @@ Minya
 Plano
 Ichihara
 Qibao
+Kirari Sulemannagar
 Cainta
 Satna
 Geelong
 Chernihiv
 Xinyuan
+Ba Vi
 Ica
 Purnia
 Newark
+Itaguei
 Gebze
 Lichinga
 Narsingdi
@@ -1853,6 +2029,7 @@ Bukhara
 Wollongong
 Volta Redonda
 Ostrava
+St Louis
 Poltava
 Efon-Alaaye
 Binjai
@@ -1865,6 +2042,7 @@ Qarshi
 Tanghe
 Coacalco
 Sincelejo
+Three Castles
 Kostroma
 Imphal
 Gagnoa
@@ -1881,10 +2059,10 @@ Yamoussoukro
 Bab Ezzouar
 Strasbourg
 Saugor
-Neihu
+Neihu District
 Tsu
 Xingning
-Linxia Chengguanzhen
+Linxia
 Khmelnytskyi
 Kushinagar
 Saddiqabad
@@ -1892,39 +2070,50 @@ Loja
 Tai Po
 Isfara
 Luena
+Taboao da Serra
 Istaravshan
 Turpan
 Rourkela
 Yao
+Bani Suwayf
 Imperatriz
-Baguio
+Nagar Naluakot
+Baguio City
+Al Rayyan
 Polokwane
 Ljubljana
-Deir ez-Zor
+Jalalabad
+Dayr az Zawr
 Santa Maria
 Parnamirim
 Hafar Al-Batin
+Kakogawa
+Quan Sau
 Capao Redondo
 Mito
 Derby
 Dessie
+Ha Long
 Gelsenkirchen
 Longling County
-Cherkasy
+Cherkassy
 Malolos
 Southampton
 Kapar
-Ghulja
+Yining
+Eimsbuettel
 Merlo
 Yeosu
 Durg
 Fuling
 Mokpo
+Birgunj
 Yoshkar-Ola
 Russeifa
 Banda Aceh
+Shibin al Kawm
 Mirpur Khas
-Sengkang New Town
+Sengkang
 Floridablanca
 Tokushima
 Sterlitamak
@@ -1937,6 +2126,8 @@ Saint-Marc
 Governador Valadares
 Eixample
 Bagerhat
+Al Zohur
+Ha Tinh
 Saskatoon
 Chengzhong
 Djelfa
@@ -1946,21 +2137,26 @@ Toledo
 Ulanhot
 Kibaha
 Hulan Ergi
-Tampines Estate
+Tampines
 Bordeaux
 Aachen
-Gent
+Ghent
+Cite Soleil
 Mantampay
+Ratlam
 Nogales
-El Daein
-Donghai
 Dezful
-Gunsan
+Donghai
+Kunsanpo
+Mossoro
+Ranipet
+Brahmanbaria
 Porto-Novo
 Chernivtsi
 Jersey City
 Manta
 Reno
+Begoua
 Riobamba
 Sivas
 Dourados
@@ -1970,13 +2166,17 @@ Pasarkemis
 Fanling
 Chiayi City
 Dongtai
+Fuchu
 Jurong Town
+Maragheh
+Maragheh
 Quilmes
 Fukui-shi
 Lal Bahadur Nagar
 Bagong Silang
 Zhytomyr
 Karamay
+Sacoma
 Arrah
 Tongliao
 Bariadi
@@ -1986,40 +2186,46 @@ Yei
 Chilanzar
 Tampere
 Mahajanga
-Minato City
+Minato
 Fort Wayne
 Plymouth
-Nianbo
-Baranagar
+Haidong
+Barahanagore
 Skardu
 Marawi City
 Tampines New Town
 Embu das Artes
+Kokand
 Jardim Sao Luis
-Tacloban
+Tacloban City
+Sao Jose de Ribamar
 Changle
 Gajuwaka
 Jining
 North Shore
-Rishon LeTsiyyon
+Rishon LeZiyyon
 Hiratsuka
 Stoke-on-Trent
 Buffalo
 Verona
+Da Lat
 San Salvador de Jujuy
 Durham
 Shiqi
+Etawah
+Vitoria-Gasteiz
 Rugao
+Gomez Palacio
 Gdynia
 Cilacap
 Irvine
 Kitchener
 Suicheng
-Nada
+Danzhou
 Latina
 Los Mochis
 Bratsk
-Pachuca de Soto
+Pachuca
 Chingola
 Sumy
 Milton Keynes
@@ -2028,18 +2234,20 @@ Laredo
 Juazeiro
 Vila Flor
 Germiston
+Nunoa
 Parakou
 Isiro
 Sari
 Tarakan
 Kenema
-Oaxaca
-Mossamedes
+Oaxaca City
+Al Madinah
+Namibe
 Hobart
 Ikot Ekpene
 Woodlands
 Hanam
-Mueang Nonthaburi
+Nonthaburi
 Muridke
 Saint-Louis
 Batu Caves
@@ -2048,25 +2256,35 @@ Jurong West
 Singkawang
 Carabanchel
 Cotia
+Petah Tikva
+Margilan
 Ambarnath
+Godome
+Naihati
+Brasov
+Xuan Loc
 Richards Bay
 Qina
 Bharatpur
 Vantaa
 Porto
 Kiel
-El Fasher
+Al-Fashir
+Thies Nones
 Suihua
 Los Teques
 Santiago del Estero
 Begusarai
+Borujerd
 Qarchak
 Afyonkarahisar
 Santiago de Surco
+Maracanau
 Ota
 Thika
-San Fernando
+San Fernando City
 Menongue
+Hayy Khilda
 Jimma
 Santa Clara
 Iwo
@@ -2077,18 +2295,22 @@ Kelar
 Colonia del Valle
 Singa
 San Bernardo
+Soka
 Mzuzu
 Navotas
+Tiruvottiyur
 Cidade Ademar
 Burnaby
 Lubbock
 Palermo
+Thi Tran GJong Trieu
 Thuqbah
 Yamagata
 Guarenas
 Laferrere
 Montpellier
 Jimeta
+Gandhidham
 Beibei
 Insein
 City of Westminster
@@ -2104,51 +2326,59 @@ Americana
 Hami
 Gaborone
 Mau
-Puerto Montt
+Port Montt
 Northampton
 Juliaca
 Fuji
 Gyeongju
+Aguas Lindas de Goias
 Sinfra
 Syktyvkar
+Gorgan
 Nizhnevartovsk
 Shahkot
 Groningen
 Biratnagar
-Braunschweig
+Brunswick
 Valera
+Sikar
 Bago
 Magdeburg
 Baruta
 Puente de Vallecas
+Mage
 Trabzon
 Tri-Cities
 Jessore
-Manisa
+Magnesia ad Sipylum
 Arapiraca
 Rivne
 Padangsidempuan
 Probolinggo
-Sabzevar
-Musaffah
+Musaffah City
 Brasilandia
 Sasebo
 Angarsk
 Ramagundam
+Hapur
 Chigasaki
 Toli-Toli
+Chofu
 Berbera
 Jiyuan
 Yamato
 Man
-Bahawalnagar
+Bahawalpur
 Bahawalnagar
 Novorossiysk
 Tsukuba
 Arica
+Penalolen
 Rio Verde
 Laohekou
+Hai Duong
 Winston-Salem
+Farrukhabad
 Matsumoto
 Alappuzha
 Itapevi
@@ -2159,37 +2389,40 @@ Gucun
 Glendale
 Xiulin
 Navegantes
-Bunkyo
+Itaborai
 Klang
+Golestan
+Troieshchyna
 Almendares
-Vyhurivshchyna-Troyeshchyna
 Khimki
 Horlivka
-Nacala
+Nacala-Porto
 Obolon
-Xiantao
-Nalchik
+Sientaochen
 Hachinohe
 Sete Lagoas
 Osan
 Fuencarral
 Lille
 Neyagawa
-Ormoc
+Ormoc City
 Cabo Frio
 Magdalena Contreras
+Nagarpur
 Kasulu
 Ivano-Frankivsk
 Temuco
 Norfolk
 Krefeld
+Halle
 Sri Ganganagar
 Amarapura
+Amol
 Kilamba
-Freiburg
+Freiburg im Breisgau
 Athlone
 Batangas
-Al Jubayl
+Jubail
 Oldham
 Pathein
 Hialeah
@@ -2202,9 +2435,11 @@ Scottsdale
 Irving
 Centurion
 Qingzhou
+Pakdasht
 Kajang
 Campo Limpo
 Yuci
+Sant Marti
 Eindhoven
 Boise
 Rewa
@@ -2215,6 +2450,8 @@ Chesapeake
 Uluberiya
 Ipatinga
 Dali
+Najafabad
+Thanh Pho Ba Ria
 Georgetown
 Xiangxiang
 Kismayo
@@ -2228,12 +2465,15 @@ Nizhnekamsk
 Karur
 Lubuklinggau
 Craiova
-Yongkang
+Raichur
+Pallavaram
+Danli
+Yongkang District
 Bo
 Granada
-Ooty
+Ootacamund
 Saga
-Magugpo Poblacion
+Tagum
 Dzerzhinsk
 Pemba
 Geoje
@@ -2244,47 +2484,54 @@ Colombo
 Fremont
 Kampong Baharu Cheras Batu Sebelas
 Jiayuguan
-Abadan
 Taytay
-Shibuya
+Pho Yen
+Turkmenabat
+Shibuya City
+Son Tay
+Ninh Hoa
 Pasir Mas
 Purwokerto
-Marka
+Merca
+Pali
+Helwan
 Atani
 Mariupol
 Huanren
 Changzheng
 Kasukabe
 Windsor
+Hosur
 Spokane
 Tripoli
 Longueuil
 Ordu
 San Fernando de Apure
 Croix-des-Bouquets
-Lucena
+Lucena City
 Yishun New Town
 Vizianagaram
 Jinchang
+Sabya
 Netanya
 Ciudad Lineal
 Meycauayan
-Bexley
 Aliayabiagba
+Bexley
 Nassau
 San Lorenzo
 Rennes
 Mohammedia
 Guatire
 Tanjung Pinang
-Hougang New Town
+Hougang
 Baton Rouge
 Sosnowiec
 Diez de Octubre
-Turkistan
+Turkestan
 Klerksdorp
 Upper West Side
-Staryy Oskol
+Stary Oskol
 Ageo
 Gusau
 Neue Neustadt
@@ -2295,13 +2542,17 @@ Paya Terubong
 Richmond
 Chang-hua
 Changhua
+GJien Ban
 Takarazuka
 Regina
+Ca Mau
+Serampore
 Fendou
 Pangkalpinang
 Huanggang
 Quthbullapur
 Mubi
+Varamin
 Batu
 Somerset West
 Luton
@@ -2309,11 +2560,15 @@ Ternopil
 Bitung
 Mymensingh
 Blagoveshchensk
+Nadiad
 Kumba
-Kremenchuk
+Kremenchug
 Jingling
+Nagercoil
 Sucre
 Mutare
+Ota
+Karawalnagar
 Puerto Vallarta
 Minamirinkan
 Cork
@@ -2330,9 +2585,10 @@ Ramadi
 Paradise
 Tacoma
 Mainz
-Velikiy Novgorod
+Veliky Novgorod
 Sungai Buloh
-Puerto Princesa
+Puerto Princesa City
+Palhoca
 Xintai
 El Tigre
 Haeju
@@ -2342,52 +2598,65 @@ Jiexiu
 La Ceiba
 Tilburg
 Ba Dinh
+Murwara
 Moshi
-Kanchipuram
 Sousse
+Kanchipuram
 Soyo
+Soc Trang
 Kankan
 Shakhty
 Mbarara
-Olongapo
+Luziania
+Olongapo City
 Ibarra
 Banja Luka
 Rufisque est
+Neyshabur
+Saveh
 Wuxue
 Shevchenkivskyi
+Chi Linh
 Campeche
+Quan Ba
 Singrauli
 Fuencarral-El Pardo
 Shevchenkivskyi
+Mirzapur
 Oviedo
-Bandar Seri Alam
+Seri Alam City
 Sorong
 Messina
 Dehiwala-Mount Lavinia
-Kropyvnytskyi
+Elizabethgrad
 Kharagpur
 Kabinda
-Jacobabad
+Khangarh
 Tunduma
 Binangonan
 Oberhausen
 Chon Buri
 Santa Luzia
+Prokopyevsk
 Samambaia
 Erfurt
 Esmeraldas
 Terrassa
 Barking
 Wuhai
+Valparaiso de Goias
 Khuzdar
 Koutiala
 Eluru
+Raniganj
+Galati
 Badalona
+Mokotow
 Taiping
 Yintai
 Yamuna Nagar
 Cabo de Santo Agostinho
-Arakawa
+Arakawa City
 Jamaica
 Buenavista
 Gilgit
@@ -2411,46 +2680,56 @@ Biysk
 Novi Sad
 Jinzhou
 Jiutepec
-Longgang
+Longgang District
 Monclova
+Tan An
 Ma On Shan
 Commonwealth
 Huntsville
 Jabaquara
 Ziguinchor
 Passo Fundo
+Kulob
 Citeureup
 Centralniy
 Sa Dec
 Kure
-Shagamu
+Sagamu
 Bnei Brak
 Khouribga
 Yingtan
 Des Moines
+Cigli
 Marcory
 Gojra
 Cartagena
 Quevedo
 Oakville
 Pasuruan
+Nazarabad
 Munger
 Xilin Hot
 Jerez de la Frontera
-El Jadida
+Mazaghan
 Zitong
 Loa Janan
 Fontana
 Rancagua
 Zhubei
+Mallawi
 Cape Coast
 Bukit Mertajam
 Lipa City
+Lanus
 Luojiang
 Sepang
+Coban
+Marica
+Cao Lanh
 Isesaki
 Sabadell
-Taito
+Jaragua
+Nandyal
 Santa Cruz de Tenerife
 Panchkula
 Modesto
@@ -2460,28 +2739,28 @@ Konibodom
 Hailar
 Itaquera
 Kabankalan
-Abha
+Burhanpur
 Ternate
 Burgas
 Pskov
 Morvi
-Daliang
+Shunde
 Quilicura
 Beni Mellal
 Ashuganj City
 Sidi Bel Abbes
 Arroyo Naranjo
-Jebel Ali
 Bogra
 Kostanay
+Jebel Ali
 Richmond
 Rochester
 Banjar
-Novi Beograd
+New Belgrade
 Kanggye
 Chungju
 Anand
-Bade
+Bade District
 Oruro
 Bachuan
 La Romana
@@ -2494,6 +2773,7 @@ Gangneung
 Portsmouth
 Gandajika
 Gunan
+Phan Rang
 Ciputat
 Kasangati
 Arlington
@@ -2503,10 +2783,11 @@ Bila Tserkva
 Oxnard
 Ciampea
 Hurghada
+Mostoles
 Columbus
 Mantilla
 Dosquebradas
-Toledo
+Toledo City
 Turku
 Worcester
 Pagadian
@@ -2518,19 +2799,21 @@ Ifakara
 Sumbe
 Kon Tum
 Latacunga
+Nangloi Jat
 Kishiwada
-Yunjinghong
+Jinghong
 Mdantsane
-Bobruysk
+Babruysk
 Gorontalo
 Itaim Paulista
 Shikarpur
 Gongheyong
 Linz
+Dhangadhi
 Nanchuan
 Bishan
 Biskra
-Xizhi
+Xizhi District
 Yanghang
 Gaoping
 Trieste
@@ -2549,19 +2832,22 @@ Gimpo-si
 Lauro de Freitas
 Deoghar
 Fianarantsoa
-Atsiaman
+Chandpur
+Achiaman
 Bandundu Province
 Osmaniye
+Babol
 Cabo San Lucas
 Little Rock
 Madiun
 Iringa
 Debrecen
+Chapra
 Motijheel
 Barishal
 Richmond Hill
 Fayetteville
-Al Khums
+Qabilat al Khums
 Huntington Beach
 Favoriten
 Koronadal
@@ -2572,7 +2858,9 @@ Rengasdengklok
 Rio Claro
 Cajamarca
 Townsville
+Thanh Khe
 La Pintana
+Dashoguz
 Yonkers
 Glendale
 Dadu
@@ -2586,32 +2874,39 @@ Puri
 Morena
 Nicosia
 Brescia
+Nasim Shahr
 Nasimshahr
 Ugep
 Kamina
 Yanbu
 Nagareyama
 Charleroi
+Lang Son
 Talhar
 Nyingchi
-Yuen Long San Hui
-Yuen Long
-Sumedang
-Bandar Sunway
+Sao Jose
+Az Zawiyah
+Sale Al Jadida
+Sunway City
 Bandar Utama
 Bukit Jalil
 Chakwama
 Qadirpur Ran
 Dajal
 Severnyy
+Yuen Long San Hui
+Yuen Long
+Sumedang
 El Dibir
+Gyanpur
 Beiliu
-Sirjan
 Iquique
+Thuan Thanh
 Balakovo
 Armavir
 Yachiyo
 Saidpur
+Quan Bon
 Rawang
 Dudley
 Mushin
@@ -2620,6 +2915,7 @@ Hagen
 Salatiga
 Rio Grande
 Guacara
+Khuy
 Gliwice
 Changji
 Kodaira
@@ -2638,6 +2934,7 @@ Lengshuijiang
 Rostock
 Parma
 Sibu
+Arnavutkoey
 Itami
 Mentougou
 Bhind
@@ -2647,9 +2944,12 @@ Kassel
 Ciudad Madero
 Sawangan
 Gemena
+Bhalswa Jahangirpur
 Lushui
+Birjand
+Torun
 Jijiang
-Ahmadpur East
+Ahmedpur East
 Higashihiroshima
 Reims
 Hanfeng
@@ -2658,20 +2958,21 @@ Birmingham
 Itabuna
 Laayoune
 Khammam
+Holon
 Middelburg
 Icheon-si
-Khirdalan
-Phra Pradaeng
+Xirdalan
+Amphoe Phra Pradaeng
 Moundou
 Sambhal
-Engels
+Bhiwani
 Mocuba
 Hetauda
 Fengcheng
 Suzuka
 Hub
 La Plata
-Janakpur
+Janakpur Dham
 Kamirenjaku
 Panvel
 Peicheng
@@ -2679,14 +2980,16 @@ Maharagama
 Montgomery
 Kumagaya
 Guri-si
+Ambala
 Grand Rapids
 Prato
-Kumarapalayam
+Komarapalayam
+Butwal
 Dhirkot
 Kayes
 Bontang
 Kafr ash Shaykh
-Kuala Kubu Baharu
+Kuala Kubu Bharu
 Karuri
 Karuri
 Severodvinsk
@@ -2694,27 +2997,32 @@ Kowloon City Centre
 Matuga
 Nnewi
 Yamaguchi
+Basaksehir
 Ezhou
 Zhengding
+Bukan
 Taguatinga
 Braga
 Garhi Khairo
 Luanshya
 Padalarang
 Bang Khae
-Bago City
+Bago
 Yongchuan
 Uji
+Machilipatnam
 Hepu
 Aihui
 Hyesan
 Bayamo
 Kielce
+Naogaon
 Fuding
 Castanhal
-Cidade Tiradentes
 Zabrze
+Cidade Tiradentes
 Hamilton
+Bojnourd
 Surulere
 Humen
 Benfica
@@ -2726,30 +3034,35 @@ Zlatoust
 Mukono
 Angren
 Ciudad del Carmen
-Business Bay
+Khairpur
 Khujand
+Business Bay
 Peoria
 Ashaiman
 Tanjungbalai
 Providence
+Mahesana
 Knoxville
 Rangel
 Fuenlabrada
 Hino
 Jhelum
+Mahbubnagar
 Beipiao
 Pak Kret
-Jinshanlu
+Fallujah
+Altay
 Ise-Ekiti
 Nova Friburgo
 Guarapuava
 Kofu
 Numazu
+Joetsu
 Planaltina
 Sunrise Manor
 Sambalpur
 Syzran
-Danshui
+Tamsui
 Bytom
 Mwene-Ditu
 Panalanoy
@@ -2757,13 +3070,14 @@ Ciudad de Las Heras
 Guixi
 Odawara
 Labuan Bajo
+Anjo
 Boyeros
 George
 Tottori-shi
 Acarigua
 Sai Mai
 Yawnghwe
-Mabalacat City
+Mabalacat
 Riohacha
 Laizhou
 Grand Prairie
@@ -2773,14 +3087,17 @@ Sutton
 Shreveport
 Choa Chu Kang New Town
 Getafe
+Quan Nam
 Bhusawal
 Miraflores
 Alvorada
 Chilpancingo
 Donaustadt
 Huixing
+Kirikkale
 Batumi
 Burlington
+Pabna
 Brownsville
 Changyuan
 Cienfuegos
@@ -2793,15 +3110,16 @@ Springs
 Newport News
 Yangcheng
 Mopti
+Khuraybat as Suq
 Zawiya
-Zamora de Hidalgo
+Zamora
 Haridwar
 Ad-Damazin
 Dunhuang
 Le Havre
 Verhunskyi
 Phusro
-Poza Rica de Hidalgo
+Poza Rica
 Bilbeis
 Roxas City
 Palopo
@@ -2814,11 +3132,14 @@ Izumi
 Santa Anita - Los Ficus
 Paltan
 Ivory Park
+Al-Qamishli
 Abakan
 Pemalang
 Breda
 Langsa
+Vinh Chau
 Baishan
+Sujangarh
 Linhares
 Tachikawa
 Cergy-Pontoise
@@ -2827,32 +3148,40 @@ Mobile
 St Helens
 Fort Lauderdale
 Lembang
+Sants-Montjuic
 Oradea
 Bunda
 Skikda
 Kyivskyi
-Tirmiz
+Termez
 Singosari
 Porto Seguro
+Cua
 Sirsa
+Kamensk-Uralsky
 Cidade Dutra
 Reggio Calabria
 Dinapur Nizamat
 Santa Clarita
 Carletonville
 Metro
-Bahraigh
+Banha
+Bahraich
+Ash Shatrah
 Quarto Oggiaro
-Tsing Yi Town
+Tsing Yi
 Monywa
 Dessalines
 Mwala
+Karaikudi
 Araure
 Barra Mansa
 Sultan Pur Majra
 Zhenping
 Anda
-Petropavlovsk-Kamchatsky
+Petropavlovsk-Kamchatskiy
+Wadi Al Seer
+Fardis
 Chattanooga
 Guna
 Odense
@@ -2865,15 +3194,17 @@ Berazategui
 Shahuwadi
 Madanapalle
 Tangail
-Shulin
+Shulin District
 Edirne
 Nepean
-Pingwu County
 Kyaukpyu
 Yasenevo
+Pingwu County
+Phuc Yen
 Shivpuri
 Yangju
 Borshchahivka
+Praga Poludnie
 Pirituba
 Kasama
 Surendranagar
@@ -2881,13 +3212,16 @@ Alexandra
 Obuase
 Desnyanskyi
 Novozavodskyi
+Ibirite
 Tsentralnyi
-Legaspi
+Legazpi
+Phu Quoc
 Podolsk
 Purwakarta
-Jizzax
+Jizzakh
 Ferraz de Vasconcelos
 Ila Orangun
+Thi Tran GJai Tu
 Neyveli
 Angra dos Reis
 Qianjiang
@@ -2897,6 +3231,7 @@ Tiaret
 La Rioja
 Silchar
 Amadora
+Cuautitlan
 Ipswich
 Njeru
 Toliara
@@ -2912,14 +3247,19 @@ Potchefstroom
 Santa Rosa
 Ciudad Camilo Cienfuegos
 Sambizanga
+Proddatur
 Sittwe
 Dundo
 Basel
 Meiktila
 Gulu
 Nijmegen
+Idku
 Uppsala
 Hugli
+Hashtsal
+Braganca Paulista
+Teresopolis
 Santa Ana
 Eugene
 Nador
@@ -2929,14 +3269,15 @@ Almere Stad
 Burgos
 Gijang
 Lander
+Saint-Etienne
 Amroha
 Narashino
-Zhenzhou
+Icheng Ku
 Tempe
 Xindi
 Oceanside
 Bella Vista
-Fengcheng
+Changshohein
 Salem
 Wigan
 Garden Grove
@@ -2945,10 +3286,13 @@ Oshawa
 Siverek
 Rancho Cucamonga
 Cape Coral
+Tan Chau
 Teluknaga
 Jiutai
+Chhindwara
 Itu
 Senador Canedo
+Khanaqin
 Naga
 Tomakomai
 Tambaram
@@ -2958,6 +3302,7 @@ Pamulang
 Hitachi
 Timon
 Bhetia
+Pathankot
 Tando Adam
 Badlapur
 Cikupa
@@ -2966,20 +3311,24 @@ Latkrabang
 Sakura
 Ube
 Daule
+Bayji
 Cuddalore
 Santander
 Tlemcen
 Shimla
+Shahin Shahr
 Croydon
 Myeik
 East New York
+Khan Yunis
+Dharan
 Albacete
 Bata
 Kamakura
 Chicoloapan
 Gadag-Betageri
-Licheng
 Izumo
+Licheng
 Pindamonhangaba
 Gadag
 Ongata Rongai
@@ -2993,19 +3342,25 @@ Walsall
 Herne
 Lyublino
 Mansfield
+Reggio Emilia
+Castellon
 Barreiras
+Keng Tung
 Sioux Falls
 Prizren
 Dongling
 Ungaran
 Urayasu
+Long Khanh
 Dagupan
 Ontario
-Watthana
+Vadhana
+Veraval
 Navsari
 Imabari
 Mansa
 Fort Collins
+Bao Loc
 Kulim
 Oshodi
 Ramat Gan
@@ -3013,12 +3368,15 @@ Bahadurgarh
 Haldia
 Temirtau
 East Helsinki
+Parnaiba
 Carolina
+Raiganj
+Malayer
 Springfield
 Sunderland
 Takaoka
-Baranovichi
 Malda
+Baranovichi
 Guadalupe
 Nishio
 San Luis
@@ -3029,28 +3387,39 @@ Yuen Long Kau Hui
 Jaunpur
 Khlong Sam Wa
 Harburg
+Chuo City
 Mufulira
 Deoli
 Jaffna
 Arad
 Chetumal
+Bharuch
 San Miguel
 Hirosaki
 Pilsen
 Chalco
 Toulon
 Vila Andrade
+Hoshiarpur
 Calabozo
+Jabalia
+Cuauhtemoc
 Araraquara
 Yopal
+Ituzaingo
 Piranshahr
+Mahabad
 Florencia
+Tay Ho
 Moratuwa
 Angers
 Ilford
 Hasilpur
 Rio das Ostras
+Horta-Guinardo
 Rutchenkivskyi
+Dong Xoai
+Jamalpur
 Kushiro
 Berezniki
 Awka
@@ -3058,9 +3427,10 @@ Volgodonsk
 Hollywood
 Oyama
 Ijero-Ekiti
+Jind
 Miass
 Fortechnyi
-Tuguegarao
+Tuguegarao City
 Kumbakonam
 Plumbon
 Darmstadt
@@ -3080,7 +3450,7 @@ Fatehpur
 Calama
 Nou Barris
 Nepalgunj
-Ocumare del Tuy
+Ocumare
 Niiza
 Greater Sudbury
 Khobar
@@ -3088,40 +3458,47 @@ Songcheng
 Deer Valley
 Bang Khun Thian
 Murfreesboro
-Bushehr
 Dar Bouazza
 Tonk
 Saqqez
+Tam Ky
+Goelbasi
 Francisco Morato
 Bima
 Mu-se
-Udupi
 Shahrud
+Udupi
 Banjaran
 Thenali
 Mthatha
 Hengshan
 Slough
 Bocoio
+Neukoelln
 Port Saint Lucie
+Sitapur
 Alandur
 Zenica
 Lajeado
 Solingen
 Itapetininga
 Corona
+Hawalli
 Musoma
 Inisa
 Nazran
 Ilagan
 Port-Gentil
+Bhadravati
 Hadano
+Santana de Parnaiba
 Piraeus
 Vapi
 Bournemouth
 Pedreira
-Sidon
+Saida
 Caxias
+Ibri
 Jomvu
 Garissa
 Moga
@@ -3130,13 +3507,18 @@ Piedecuesta
 Tongzhou
 Ludwigshafen am Rhein
 Lat Krabang
+Salalah
+Bueyuekcekmece
+Raj-Nandgaon
+Aydin
 Envigado
 Itapecerica da Serra
-Al-Junaynah
+Geneina
 Anbu
 McKinney
 Mostaganem
 Chirchiq
+Bandar-e Mahshahr
 Floridsdorf
 Leverkusen
 Pandi
@@ -3150,16 +3532,22 @@ Suleja
 Pouso Alegre
 Taza
 Oxford
+Al Matariyah
 Kunduz
 Fengcheng
+Trang Bang
+Unnao
 Hortaleza
 Budaun
+Ogaki
 Newport
 Coquimbo
-Baubau
+Bau-Bau
+GJuc Trong
 Blitar
 Alagoinhas
 KwaDukuza
+Miyakonojo
 Madhyamgram
 Lancaster
 Rubtsovsk
@@ -3180,13 +3568,19 @@ Ban Khlong Prawet
 La Gi
 Anderlecht
 Mytishchi
+Delegacion Cuajimalpa de Morelos
 Hebron
 Camaragibe
+Mogi Guacu
 Mejicanos
+Thanh pho Tra Vinh
 Parepare
+Jamuria
 Koudougou
 Nyzhnodniprovsk
 Taunggyi
+Dhamar
+Ash Sharqat
 Dubai Investments Park
 Dijon
 Salavat
@@ -3198,32 +3592,39 @@ Cary
 Skudai
 Tahoua
 Alexandria
-Tuxtepec
+San Juan Bautista Tuxtepec
 Puthia
-Newton
-Zhicheng
+Surrey Newton
+Chihkiang
 Ang Mo Kio New Town
 Limuru
+San Miguel del Padron
 Tarija
 Patos de Minas
 Oldenburg
 Matsusaka
 Catamarca
 Tochigi
+Khoroshevo-Mnevniki
 Bibirevo
 Bordj Bou Arreridj
+Dila
 Jaigaon
 Atibaia
+Batala
 Grenoble
+Samarra
 Tempe Junction
 Palmdale
 George Town
 El Achir
 Hayward
 Orai
+Thot Not
 Gweru
 Abaetetuba
 Centro Habana
+Panguila
 Bukit Batok New Town
 Chom Thong
 Sunggal
@@ -3243,9 +3644,9 @@ Ussuriysk
 Arif Wala
 Nanpiao
 Livorno
-Harar
 Tiraspol
-Enfield Town
+Harar
+Enfield
 Westonaria
 Lizhi
 Hitachi-Naka
@@ -3253,36 +3654,51 @@ Saharsa
 Qalyub
 Escuintla
 Marbella
+Heraclea
 Batu Pahat
 Sitiawan
 Mariveles
 San Pablo de las Salinas
 Lampang
 York
+Bac Lieu
 Juja
+Fes al Bali
+Al Miqdadiyah
 Katsuta
 Malabo
 Vidisha
+Tuy Hoa
 Yizhou
 Xinqiao
 Sunnyvale
 Tema
 Yichun
-San Martin Texmelucan de Labastida
-Zemun
+GJuc Pho
+San Martin Texmelucan
+Ar Ramtha
+Hanumangarh
+Sao Mateus
+Semlin
 Telford
 Kisi
+Nilopolis
 Villa Canales
 Guyong
 Settat
 Brusque
+Paco do Lumiar
 Jampur
 Port Louis
 Kawanishi
+Thanesar
+Al Hawamidiyah
 Hassan
+Tetuan de las Victorias
 Lianghu
-Kishangarh
 Birendranagar
+Kishangarh
+Dalupura
 Guangshui
 Saint-Denis
 Lyubertsy
@@ -3290,11 +3706,13 @@ Bumba
 Rudrapur
 La Serena
 Miskolc
+Abu Kabir
 Kitengela
 Frisco
 Zhaodong
 Wujiaqu
 Shomolu
+Janzur
 Xai-Xai
 Springfield
 Nalgonda
@@ -3302,28 +3720,35 @@ Katabi
 Gwangyang
 Kovrov
 Noda
+San Cristobal
 East Chattanooga
 Limassol
 Kariya
 Pasadena
+Mit Ghamr
 Sanshui
 Jackson
 Parelheiros
 Enschede
 Boshan
+Hazaribagh
 Yangchun
 Souk Ahras
-Musanze
+Ruhengeri
+Medinipur
 Andong
+Balurghat
 Pomona
 Valle de La Pascua
 Kreuzberg
 Chincha Alta
 Cairns
+Faizabad
+Thi Tran Thuan Chau
 Dinapore
 Dingzhou
 Kansas City
-As Samawah
+Samawah
 Porbandar
 Pengpu
 Wazirabad
@@ -3335,66 +3760,80 @@ Simele
 Neuss
 Chenghua
 Songnim-ni
+Banda
+Can Giuoc
 Balvanera
 Longfeng
 Beining
 Strogino
+Gonbad-e Kavus
 Etwatwa
 Higashimurayama
 Garanhuns
+New West
 Hindupur
-Amsterdam Nieuw-West
 Stavanger
 Bintulu
 Poole
+Akhmim
 Kohat
 Regensburg
 Layyah
 Girga
 Koforidua
 Bukit Merah Estate
+Beawar
 Sykhiv
 Shujaabad
 Escondido
+Suwaylih
 Erzincan
 Zarichnyi
-La Laguna
 Kokshetau
 Eminabad
 Anantnag
-Badajoz
+Kukichuo
+Badajos
 Serilingampalle
 Malatia-Sebastia
 Talcahuano
+Chillan
 Jaranwala
+Ky Anh
 Nong Khaem
 Piedras Negras
+Kiziltepe
 Astoria
 Musashino
 Balashikha
 Raigarh
 Gloucester
 Vryheid
-Malkajgiri
 Gimcheon
 Bercham
 Setia Alam
-Bandar Tasik Puteri
+Puteri Lake City
 Tordher
 Zhulebino
 Dili
+Malkajgiri
+Shantipur
 Chishtian
 Playa del Carmen
 Santa Rita
 Split
+Ursynow
 Hollywood
-Madrid Centro
+Madrid City Center
 Iguatemi
 Harunabad
+Shunan
 Agadez
 Burnley
+Rehovot
 Watampone
 Sabha
+Disuq
 Cagliari
 Borough Park
 Harrow
@@ -3402,9 +3841,10 @@ Berrechid
 Queimados
 Tambacounda
 Huddersfield
+Arabi
 Kerch
 Saguenay
-Prenzlauer Berg
+Prenzlauer Berg Bezirk
 Fazenda Rio Grande
 Komaki
 Marvdasht
@@ -3416,6 +3856,7 @@ Yonago
 Ruqi
 Rimini
 Coquitlam
+Al Dawahi
 Arar
 Valencia
 Moreno
@@ -3423,15 +3864,17 @@ Tama
 Rockford
 Kalaban Koro
 Dundee
+Barakpur
 Sao Rafael
 Sujiatun
-Astanajapura
 Xebat
-Ciudad Delicias
+Astanajapura
+Delicias
 Siguiri
-Mbanza Kongo
+Mbanza Congo
 East Hampton
 Honggang
+Sarria-Sant Gervasi
 Kiambu
 Clermont-Ferrand
 Joliet
@@ -3442,13 +3885,19 @@ Savannah
 Paterson
 Salamanca
 Kolomna
+Hajipur
+Rafsanjan
+Hoa Thanh
 Mestre
+As Salimiyah
 Bridgeport
 Shevchenko
-Kuntsevo
+Kuntsevo District
 Kragujevac
 Aktau
-Nusantara
+Nusantara Capital City
+Balcon de la Lisa
+Sasaram
 Bohuniya
 Iruma
 Renca
@@ -3457,8 +3906,9 @@ Naperville
 Manama
 Colima
 Bhimavaram
-Nakhodka
-Debre Birhan
+Larissa
+Langouwai
+Debre Berhan
 Cacuaco
 Slobidskyi
 Aix-en-Provence
@@ -3466,14 +3916,18 @@ Cam Ranh
 Jalalpur Jattan
 Matanzas
 Beed
+Khasnahzan
 Taozhou
 Saint-Quentin-en-Yvelines
 Bandar Bukit Raja
 Blackburn
+Rosemont-La Petite-Patrie
 Colina
+Burari
 Nouadhibou
 Puerto Plata
 Urdaneta
+Chamberi
 Krishnanagar
 Xinji
 Jutiapa
@@ -3483,8 +3937,10 @@ Cambridge
 Kampung Pasir Gudang Baru
 Kampung Sungai Glugur
 Dibrugarh
+Medea
 Taishan
 El Eulma
+Gia Rai
 Abohar
 Tiruvannamalai
 Teixeira de Freitas
@@ -3494,7 +3950,7 @@ Botucatu
 Fujieda
 Spanish Town
 Blackpool
-Urganch
+Urgench
 Bukoba
 Kaithal
 Ingombota
@@ -3502,8 +3958,10 @@ Brest
 Basildon
 Franco da Rocha
 Salamanca
+Villeray-Saint-Michel-Parc-Extension
 Mesquite
 Ashikaga
+Lam Ha District
 Acheng
 Kelowna
 Umarkot
@@ -3514,18 +3972,21 @@ Campo Largo
 Hailin
 Amsterdam-Zuid
 Tsuchiura
+Elektrostal
 Balasore
+Feng-Chieh
 Kampong Pasir Ris
 Huelva
 Nemyshlyanskyi
 Navoiy
 Syracuse
-Ashkelon
+Ashqelon
 Pinetown
-Teshi Old Town
+Teshie
+Biryulevo
 Orekhovo-Borisovo
 Kusatsu
-Amsterdam-West
+Amsterdam West
 Nanjin
 Guelph
 Qianjiang
@@ -3535,6 +3996,7 @@ Khemisset
 Torrance
 San Jose
 Ladysmith
+Levis
 Cachoeirinha
 Heidelberg
 Fresnillo
@@ -3542,20 +4004,25 @@ Touggourt
 Shillong
 Surprise
 Norwich
+Tinh Bien
 Moriguchi
 Amiens
+Cai Lay
+Rewari
 Basirhat City
 Aalborg
 La Trinidad
 Timika
 Pyatigorsk
 Mbanza-Ngungu
+Mercier-Hochelaga-Maisonneuve
 Okinawa
 Middlesbrough
 Shahrisabz
 Moro
 Sant Andreu
 Rybnik
+Saida
 Metairie Terrace
 Tuzla
 Kovpakivskyi
@@ -3563,6 +4030,7 @@ eMbalenhle
 Trindade
 Khanpur
 Columbia
+Nawabganj
 Inezgane
 Puerto Cortez
 Pasadena
@@ -3571,6 +4039,7 @@ Paderborn
 Chhatarpur
 Kimberley
 Alto Hospicio
+Samalut
 Chertanovo Yuzhnoye
 Jieshou
 Maykop
@@ -3580,20 +4049,23 @@ Mojokerto
 Masai
 Punto Fijo
 Myingyan
+Kamalshahr
 Mandsaur
 Zheleznodorozhnyy
 Chas
 Jahrom
 Tours
+Palanpur
 Bondoukou
 Chichicastenango
 Tarragona
 Cachoeirinha
 Tobruk
-Abbotsford
+Abbotsford British Columbia
 Circoiscrizione II
 Bolton
 Yushu
+Fukayacho
 Usera
 Limoges
 Cangaiba
@@ -3602,19 +4074,20 @@ Asaka
 Ghazni
 Orange
 Wola
-Sanhe
+Fengtuhein
+Ilam
 Shimotoda
 Comodoro Rivadavia
 Kampung Sungai Ara
 Fullerton
 Killeen
-Norilsk
 Lleida
 Coimbra
 Mtwara
 Manjhand
-Beni
+New Beni
 Norzagaray
+Qeladize
 Vila Curuca
 Nigel
 Shengavit
@@ -3622,24 +4095,33 @@ Catacamas
 Buea
 Shuizhai
 McAllen
+Lakhimpur
 Ishinomaki
 Mpumalanga
-Mian Channun
+Mian Channu
+Ji Parana
 Zaanstad
 Kabin Buri
 Kuwana
 Ayacucho
+Torbat-e Heydariyeh
+Chamartin
+Saham
 Shanhaiguan
+Peristeri
 Amersfoort
 Darwin
 Jeongeup
 Bellevue
-Korolev
+Korolyov
+Valsad
 Shinyanga
 Sollentuna
+Al Hindiyah
 Yaizu
 Payakumbuh
 Damoh
+Asela
 Haldwani
 Irewe
 Batang
@@ -3647,11 +4129,14 @@ Gbongan
 Gama
 Siem Reap
 Anaco
-Purwodadi
+Purwodadi Grobogan
 Koga
 Yuepu
+Habra
 Sidoarjo
 Kyivskyi
+Sabah Al Salem
+Plaza de la Revolucion
 Lausanne
 Choloma
 Barcarena
@@ -3671,11 +4156,14 @@ Liuzhi
 Altamira
 Naga
 Fuyu
+Wudan
 Vespasiano
 Whitby
 Metairie
 Chaohu
+Kolar
 Bizerte
+Tariba
 Ejigbo
 Santa Cruz do Sul
 Ksar El Kebir
@@ -3690,7 +4178,9 @@ Araruama
 Praia
 Resende
 Liangping
+Kerdasa
 Ponce
+Doilungdeqen
 Jieshi
 Hejiang
 Pasir Puteh
@@ -3699,18 +4189,23 @@ Xiayang
 Nor Nork
 Dixinn
 Bhisho
+Freguesia do O
 Subang
 Madhurampur Dehri
 Negombo
+Heraklion
 Hampton
 Wuyishan
 Miramar
 Jiashan
 Jiagedaqi
-Rangkasbitung
+Bilqas
 Odintsovo
+Rangkasbitung
 Foggia
 Antsiranana
+Kanchrapara
+San Juan Sacatepequez
 Minoh
 Funtua
 Dawei
@@ -3718,75 +4213,100 @@ Igboho
 Gunungsitoli
 Apeldoorn
 Cidade Lider
+Marivan
+Phu Ly
 Divo
 Huinong
 Ebina
 Larache
 Varginha
 Van Nuys
+Bush
 Mlolongo
 Guarapari
+Tuong Mai
 West Valley City
 Kisarazu
 Gejiu
+Bacau
 Saaba
 Mingaladon
+Dimapur
 Sasolburg
 Cheras
-Tasek Glugor
+Tasek Gelugor
 Osorno
 Amsterdam-Oost
 Araras
-Tumxuk
+Tumushuke
 Kushtia
 Pitalito
 Baliuag
+Hoan Kiem
 Kajansi
 Isahaya
 Dayton
+Cam Pha Mines
 Petapa
+Maler Kotla
 Buguma
 Itaituba
 Ahuntsic-Cartierville
+Prome
 Shiqiao
-Pyay
 Rabak
+Tay Ninh
 Le Vieux-Longueuil
 Tyre
 Kutaisi
+Andimeshk
+Siwan
 Madrid
 Angono
 Cartago
+Shahreza
 Hinthada
 Apucarana
 Baturaja
 Inazawa
 Rodriguez
 Kalol
+Miandoab
 Laghouat
 Nevinnomyssk
 San Mateo
-San Juan
+Tahta
+San Juan City
 Sibiu
 Olathe
 El Geneina Fort
 Ikirun
 Shenglilu
+Leogane
 Vila Jacui
 Adiwerna
+Cameta
 Al Qurnah
 Abakaliki
+Vitoria de Santo Antao
 Marianao
 Warren
 Cizre
 Circoiscrizione VIII
+Bankura
 Ebetsu
 Anyama
 Jiawang
 Singaraja
-Barysaw
+Patan
+Borisov
+Dong Hoi
 Randfontein
 Pervouralsk
+Gonda City
+Hamad Town
+Ome
+Sinnuris
 Votorantim
 Milagro
 Thornton
@@ -3795,29 +4315,33 @@ Olmaliq
 Okrika
 High Wycombe
 Carrollton
-Talisay
+Talisay City
 Gao
 Dhaulpur
 Tarime
-Kentron
+Kentron District
 Milton
 Narita
 Franceville
 Puqi
+Tondabayashi
+Sandacho
+Gondia
 Dunedin
 Kislovodsk
 Kyauktan
-Schaerbeek
+Schaarbeek
 Hoofddorp
 Machiques
 Palakkad
 Silifke
 Charleston
-Langley
+Langley City
 Midland
 Fujinomiya
 Mingala Tangnyunt
 Innsbruck
+Braganca
 Kingston
 Wugang
 Gloucester
@@ -3830,13 +4354,16 @@ Dimitrovgrad
 Zhalantun
 Bettiah
 Maijdi
+Sao Felix do Xingu
 Sapucaia do Sul
 Kombolcha
 Muricay
 Sterling Heights
 Surat Thani
 Ferrara
+Quan GJuc Thinh
 Isidro Casanova
+Omuta
 Villa Mercedes
 Fuji
 Palwal
@@ -3850,31 +4377,40 @@ Kadoma
 Majie
 Bhakkar
 Rio Pequeno
-Jijel
+Kashmar
+Jijelli
 Martapura
 Villeurbanne
+Hai Chau
 Limbe
+Raniganj
 Hepo
 Iranshahr
+Soubre
 Onomichi
 Denton
 Etah
+Pilibhit
 Shangzhi
+KhTZ Settlement
 Lashio
-Rayon KhTZ
 Novomoskovsk
 Matsubara
 Abengourou
+Al Bab
 Shuangcheng
-Exeter
 Circoiscrizione III
+Exeter
 Ho
 Narowal
+Lao Cai
 Al Ajaylat
 Udon Thani
+Baharkah
 Bayan Lepas
 Petrogradka
 Rajapalayam
+Jiroft
 Cedar Rapids
 Dongyang
 Nantou
@@ -3886,6 +4422,7 @@ Jiazi
 Foumban
 Roseville
 Rawson
+Sidi Husayn
 Kati
 Seri Kembangan
 Kembangan
@@ -3896,21 +4433,27 @@ Sennar
 Masaya
 Visalia
 Nankana Sahib
-Dongxing
-Tottenham
+Caala
+Sonargaon
 Aley
+Tottenham
 San Martin
 Tychy
 Ramenki
+Dongxing
+Zuglo
 Cambridge
 Mardin
 Pingxiang
 Zwolle
 Baidoa
+Sam Son
+Santo Antonio
 Salford
 Mandi Bahauddin
-Tokat
+Eudoxia
 Erebuni
+O Mon
 Gapan
 Deoria
 Bayambang
@@ -3918,6 +4461,7 @@ Mianwali
 Coral Springs
 Sherbrooke
 Jardim Helena
+Sabara
 Acilia-Castel Fusano-Ostia Antica
 Charlottenburg
 Thousand Oaks
@@ -3930,19 +4474,24 @@ Shahr-e Kord
 Malambo
 Iwakuni
 Leiyang
+Bialoleka
 Cadiz
 Carnot
 Bat Yam
-Zacatecas
+Zacatecas City
 Elizabeth
 Zyablikovo
 Daur
+Bingoel
 Copacabana
+Satkhira
 Parung
 Palo Negro
 Stamford
 Idlib
 Moanda
+Sinah
+Osaki
 Magelang
 Concord
 Leiria
@@ -3950,15 +4499,22 @@ Puno
 Kamyshin
 Shuanglonghu
 Nimach
+Kafr ad Dawwar
+Aguas Claras
+Bosque Saude
 Novocheboksarsk
 Lugazi
+Thanh pho Song Cong
 Rosario
-Khardah
+Khardaha
 Sakakah
 Khenifra
+Al Manaqil
 Rustavi
 Jose Bonifacio
 Manzanillo
+Yavatmal
+Halisahar
 Serpukhov
 Rionegro
 Shache
@@ -3969,16 +4525,20 @@ Norman
 Mosquera
 Orekhovo-Borisovo Severnoye
 Ivanovskoye
+Buon Ho
+Chu
 Seto
 Alhambra
-Newcastle under Lyme
+Titagarh
+Newcastle-under-Lyme
 Opole
 Worcester
+Elblag
 Gaojing
 Sirajganj
 Siguatepeque
-Yevlakh
 Mykilska Borshchahivka
+Yevlakh
 Al Manzalah
 Wau
 Songnan
@@ -3989,6 +4549,7 @@ Chiang Mai
 Lafia
 Jiangyou
 Cikampek
+Mustafabad
 Tengyue
 Shajing
 Jinfeng
@@ -3997,6 +4558,8 @@ Kent
 Pakokku
 Murom
 Daska Kalan
+Sertaozinho
+Hathras
 Pulong Santa Cruz
 Klaten
 Khasavyurt
@@ -4019,30 +4582,40 @@ Jombang
 Maxixe
 Nakhon Ratchasima
 Chinandega
+Al Jadid
 Iizuka
 Hua Hin
 San Carlos del Zulia
 Vilkhivskyi
+Rafah
 Ampang
 Guntakal
+Aral
 Santa Clara
 Pithampur
 Paseh
+Mothihari
 Koganei
 Retiro
+Nossa Senhora de Fatima
 Sunset Park
 Topeka
+Orleans
 Huicheng
 Puerto Ayacucho
 Gashua
 Les Cayes
 Salerno
 Savannakhet
+Menouf
 Watford
+Guara
 Giresun
 Xiazhen
+Chaeryong-ni
 Kastamonu
 Kanhangad
+Ajloun
 Derince
 Sukawati
 Jagdalpur
@@ -4063,11 +4636,13 @@ Ban Samae Dam
 Shahecheng
 Kumbo
 Ottawa South
-Willemstad
 Dokri
 Tyoply Stan
+Az Zulfi
+Willemstad
 Sultan Kudarat
 Bet Shemesh
+Jagadhri
 Huixquilucan
 Arapongas
 Semnan
@@ -4079,19 +4654,25 @@ Ciudad Valles
 Ouahigouya
 Poblacion
 Kashihara-shi
+Ashmun
 Leeuwarden
 Monza
 New Mirpur City
+Chia
 Olanchito
 Koreatown
+Targowek
 Lecheng
 Nancun
 Marand
+As Sinbillawayn
 Crawley
 Rudnyy
+Itaguai
 Bemowo
 Metz
 Jiupu
+Darjeeling
 Baoshan
 Butanta
 Thaton
@@ -4099,6 +4680,7 @@ Kurichchi
 Lumajang
 Ise
 Hagonoy
+Samandag
 Caraguatatuba
 Birigui
 Pinsk
@@ -4122,16 +4704,18 @@ Dos Hermanas
 Ajapnyak
 Tabuk
 Tabuk
-Dam Dam
+Dum Dum
 Hoima
 Wuda
 Az Zubayr
 Beppu
+Hardoi
+Behbahan
 Itatiba
 Huangzhou
 Sheepshead Bay
-Puruliya
 Ubon Ratchathani
+Puruliya
 Virginia
 Brits
 Recklinghausen
@@ -4140,8 +4724,9 @@ Cherkessk
 Haveli Lakha
 Maastricht
 Amherst
+Shahr-e Sadra
 Victorville
-Burton upon Trent
+Burton-on-Trent
 Calumpit
 Lat Phrao
 Livoberezhnyi
@@ -4149,25 +4734,30 @@ Titiwangsa
 Phasi Charoen
 Veshnyaki
 Presnenskiy
+Zabol
 Kaya
 Xiangcheng
 Dharmavaram
 Gokalpur
+Adigrat
 Kotamobagu
 Carora
 Vallejo
 Bhadreswar
+Dorud
 Bern
 San Pedro de la Paz
-Nagaon
+Nowgong
 Lahti
 Vejalpur
 Longshui
-Siracusa
+Syracuse
 Mubende
 Stara Zagora
 Ondjiva
 Alberton
+Gracia
+Chikkamagaluru
 Ekibastuz
 Algeciras
 Lafayette
@@ -4176,13 +4766,16 @@ Chico
 Bhadrak
 North Stamford
 Bergamo
-Ruse
+Rustcuk
 Sawai Madhopur
+Chon Thanh
+Ambikapur
+Eunapolis
 Apalit
 Hartford
 Bukittinggi
-Dolisie
 Zyuzino
+Dolisie
 Ejido
 Berkeley
 Nova Lima
@@ -4193,13 +4786,15 @@ Uruguaiana
 Ikoma
 Heilbronn
 El Mourouj
+Tuz Khurmatu
 Trento
 Shahdad Kot
 Catchiungo
 Ingolstadt
 Toa Payoh New Town
 Lichuan
-Bukit Bintang
+Star Hill
+La Concepcion
 Ulm
 Mandoli
 San Carlos
@@ -4207,11 +4802,15 @@ Allentown
 Satara
 Charsadda
 Fernando de la Mora
+Churu
 Perugia
+Gangapur
 Zhujing
+Bo GJe
 Guelma
-International City
+Dubai International City
 Dubai Marina
+Nabatiye et Tahta
 Zhaoyuan
 Rustaq
 Solntsevo
@@ -4229,8 +4828,9 @@ Kwekwe
 Malindi
 Ban I Chang
 Rize
+Almirante Tamandare
 Palm Bay
-Ann
+Ann Town
 Leiden
 Thon Buri
 Ajax
@@ -4240,40 +4840,51 @@ Pescara
 Modakeke
 Nobeoka
 Silang
-Amanfrom
+Amanfro
 Marituba
+Mohammad Shahr
 Paulo Afonso
+Izeh
 Nazilli
+Daito
+Hoa Cuong
 Lira
 Pforzheim
 Salihli
-Arabkir
 Port Dickson
+Arabkir
 Berkane
 Catanduva
 Dordrecht
 Battambang
 Offenbach
 Kitami
+Vinh Yen
 Madhavaram
 Cagua
 Fujairah
 Mandimba
+Reykjavik
 Dohad
-Cheltenham
 Huaraz
+Cheltenham
 Santa Coloma de Gramenet
 Santana
 Piraquara
 Barshi
+Bac Quang
 Xunchang
+Hung Yen
 Miramar
-Bremerhaven
+Wesermunde
 Queenstown
 Nanbin
+Bandar-e Anzali
 Khlong Luang
+Adilabad
 Fargo
-Brugge
+Bruges
+Jhunjhunun
 Iguala de la Independencia
 Sarandi
 Zomba
@@ -4283,23 +4894,31 @@ Luodian
 Jetpur
 Tsentralno-Miskyi
 Uppal Kalan
+Sao Lourenco da Mata
+Maghaghah
 Pita Kotte
 Guiguinto
+Gudivada
 Aizu-Wakamatsu
 Bama
 Ilobu
 Manolo Fortich
 Itabira
+Kien An
 Jandira
+Guaratingueta
 San Rafael
 Shaoshan
+Troparevo
+Baran
 Narmadapuram
 Amreli
 Nakhon Pathom
 Kakegawa
+Manfalut
 Handa
 Wushan
-Friedrichshain
+Friedrichshain Bezirk
 Abomey
 Araguari
 Bangkok Noi
@@ -4308,12 +4927,14 @@ Raposo Tavares
 Saanich
 Ibanda
 Bairro da Penha
+Nyiregyhaza
 Sano
 Karatsu
 Achinsk
 Pudukkottai
 Shunyi
 Rotherham
+Ciudad de Villa de Alvarez
 Rouiba
 Banyuwangi
 Tebingtinggi
@@ -4329,7 +4950,7 @@ Pyin Oo Lwin
 Clearwater
 Himamaylan
 Independence
-Heroica Guaymas
+Guaymas
 Kedungwuni
 Ilebo
 Kristiansand
@@ -4337,33 +4958,42 @@ Longjing
 Kroonstad
 Remscheid
 Billings
+Moeng Yang
 Ann Arbor
+Los Banos
+Duekoue
 Higashikurume
 Rishra
 Pinhais
 Kyzyl
 Cadiz
 Passos
+Faqus
 Tacurong
+Hofu
 Gabela
 Serangoon
 Serangoon New Town
 Funza
 Merauke
+Baripada
+Konosu
 Soreang
 Smolyanskyi
 Noord
 Dinaig
 Muktsar
 El Monte
+Tubarao
 Azamgarh
 Santa Maria
 Masaka
-Taldykorgan
+Co GJo
 Moncloa-Aravaca
 Gulin
 Al Majaz
 Thung Khru
+Barnala
 Yelahanka
 Pattaya
 Chittorgarh
@@ -4380,12 +5010,14 @@ Khargone
 Mariara
 Digos
 Tshilenge
+Ain Beida
 Shahre Jadide Andisheh
+Andisheh
 Breves
 Alcobendas
 Kissidougou
-San Tung Chung Hang
 Taganskiy
+San Tung Chung Hang
 Round Rock
 Noginsk
 Tinaquillo
@@ -4396,20 +5028,28 @@ East Harlem
 Formosa
 Tandil
 Zoetermeer
+Sao Goncalo do Amarante
 Sri Jayewardenepura Kotte
 Nasushiobara
+Varzea Paulista
 Baisha
+Bani Mazar
 Taunsa
 Urasoe
 Santana
 Yelets
 Suan Luang
 Parla
+My Hao
 Anliu
+Ribeirao Pires
 Recanto das Emas
 Chunga
+Bisha
 Novo-Peredelkino
+Baidyabati
 Okigwe
+Riffa
 Uzhhorod
 Kasese
 Tianfu
@@ -4421,16 +5061,20 @@ Iriga City
 Thornhill
 Vacoas
 Beaumont
-Sanxia
+Sanxia District
 Provo
+Tucurui
+Basti
 Peoria
 Ezeiza
-Xiva
+Lasnamaee
+Khiva
 Amasya
 Mendoza
 Balkh
 Mingshui
 Vila Medeiros
+Phong GJien
 Nova Serrana
 Wang Thonglang
 Carlsbad
@@ -4440,6 +5084,8 @@ Gyumri
 Silopi
 Gangavati
 Ambur
+Tangara da Serra
+Simoes Filho
 Giridih
 Phool Nagar
 Quezon
@@ -4449,15 +5095,18 @@ Ichinoseki
 Khenchela
 Khon Kaen
 Odessa
+Catalao
 Tando Muhammad Khan
 Springfield
 Somaroboro
 Guadalajara de Buga
 Pamanukan
+Pardis
 Pleiku
 Downey
 Lower Hutt
 Yuyao
+Ranyah
 Hatsukaichi
 Tung Chung
 Salto
@@ -4466,13 +5115,16 @@ Korolyov
 Zhaozhou
 Villa Lugano
 Ochakovo-Matveyevskoye
+Punta Cardon
 Akishima
 Itacoatiara
 Chililabombwe
+Riviere-des-Prairies-Pointe-aux-Trembles
 Worthing
 Navojoa
 Offa
 Tobolsk
+Tokai
 Wardha
 Wansheng
 Pattoki
@@ -4484,12 +5136,14 @@ Songyuan
 Maba
 Fujimino
 Doncaster
+Binh Thuy
 Dumaguete
 Nippes
 Chengqiao
 Porz am Rhein
 Louga
 Elmhurst
+Hoang Mai
 Kamsar
 Yaritagua
 Shahdadpur
@@ -4498,6 +5152,7 @@ Khwisero
 Costa Mesa
 Jauharabad
 Miami Gardens
+Bagram
 Chesterfield
 North Peoria
 Shchyolkovo
@@ -4505,12 +5160,15 @@ Al Fashn
 Fairfield
 Guanabacoa
 Hammanskraal
+Oshu
 Taourirt
+Talkha
 Neili
-Vihari
-Taonan
+Vehari
 Youkaichi
+Taonan
 Kazo
+Santa Lucia Cotzumalguapa
 City of Port Phillip
 Tadepalligudem
 Haikou
@@ -4526,8 +5184,10 @@ Mengmao
 Lawang
 Bouskoura
 Satu Mare
+Itanhaem
 Kaiyuan
 Kisii
+Kazerun
 Ermelino Matarazzo
 Achalpur
 Planaltina
@@ -4537,14 +5197,16 @@ Gravesend
 Rochester
 Gondal
 Chichawatni
+Faridpur
 Apopa
 Carmona
 Laoag
 Elgin
 Dharashiv
 Xigang
+Chongfu
 Taipa
-Port Blair
+Sri Vijaya Puram
 Esuk Oron
 Atbara
 Vicenza
@@ -4552,12 +5214,17 @@ Ballarat
 Tocoa
 West Jordan
 Bagalkot
-Lomas de Zamora
 Yeoju
+Lomas de Zamora
+Douma
 Winterthur
 Novokuybyshevsk
+Bou Saada
+Abnub
+Quchan
 Manacapuru
 Kuningan
+Suriapet
 Kandy
 Zefta
 Bangaon
@@ -4573,6 +5240,7 @@ Cileunyi
 Ashoknagar Kalyangarh
 Mongu
 Mulhouse
+Al Fqih Ben Calah
 Pulilan
 Beau Bassin-Rose Hill
 Tuscaloosa
@@ -4582,6 +5250,7 @@ Mbale
 Montreuil
 Terni
 Deesa
+Nabadwip
 Maran
 Nandurbar
 Kasuga
@@ -4589,45 +5258,54 @@ Nsukka
 Nguru
 Mabopane
 Namur
+Cambe
 Encheng
 Turhal
+Go Vap
 Richardson
-Bokhtar
+Kurgan-Tyube
 Hadejia
 Zhuji
 Perpignan
 Lowell
 Lavras
+Sao Pedro da Aldeia
 East Independence
 Caen
+Acailandia
 Kyivskyi
+Borazjan
 Yenangyaung
 Gresham
 Antioch
+Paulinia
 Manzini
 Delicias
 Masindi
 Kfar Saba
+Matsuto
 Cambridge
+Sultanpur
 Delhi Cantonment
-Firozpur
 Bayugan
+Firozpur
 High Point
 Datun
 Manchester
+Baneh
 Geylang
 Kresek
-Bender
-Mbombela
+Tighina
+Nelspruit
 Rodenkirchen
 Sembawang Estate
 Orkney
-Qingnian
+Linqing
 Temecula
-Lucapa
-Mendip
 Kufa
+Lucapa
 Ressano Garcia
+Mendip
 Noyabrsk
 Sengerema
 Bataysk
@@ -4647,6 +5325,7 @@ Centennial
 Shilong
 Richmond
 Corona
+Thoi Lai
 Vilhena
 Pandit Deen Dayal Upadhyaya Nagar
 Dchira El Jihadia
@@ -4670,6 +5349,7 @@ Hulan
 Matagalpa
 Khlong Toei
 Leninsk-Kuznetsky
+Kiryu
 Handeni
 Balombo
 Thunder Bay
@@ -4682,18 +5362,24 @@ Greeley
 Boulogne-Billancourt
 Kalisz
 Baia Mare
+Warisan
 Coronel Fabriciano
 Mascara
 Maranguape
 Uromi
 Katumba
+Mong Cai
 Vila Maria
 Kanpur Cantonment
 Komatsu
 West Covina
 Enterprise
+Bansbaria
+Giron
+Baghlan
 Hanjia
 Trincomalee
+La Cite-Limoilou
 Santiago
 Taibai
 Vedado
@@ -4709,11 +5395,17 @@ Birnin Kebbi
 Santa Cruz
 Novobavarskyi
 Everett
+En Nahud
+Ullyul
 Rijeka
 Douliu
+Luis Eduardo Magalhaes
 Catbalogan
 College Station
+Salt
 Mishima
+Baia Farta
+Jalpaiguri
 Jalai Nur
 Tajimi
 Castelar
@@ -4724,13 +5416,17 @@ Novo Gama
 Dusit
 Mandurah
 Basingstoke
+Panderma
 Maidstone
 Tieli
+Umm Qasr
 Butterworth
 Shaping
+Chalus
 Koszalin
 Bolzano
 South Fulton
+Uba
 Sherpur
 Obninsk
 Circoiscrizione VI
@@ -4743,6 +5439,8 @@ Mangalagiri
 Thohoyandou
 As Suwayq
 Norwalk
+Yen Vinh
+Mitrovica
 Yevpatoriya
 Pati
 Elista
@@ -4750,6 +5448,7 @@ Dera Murad Jamali
 Taungoo
 Bedford
 Bagong Silangan
+Kangnyong
 Catia La Mar
 Boulder
 Anning
@@ -4757,24 +5456,27 @@ Ituiutaba
 Rayong
 Sirte
 Kotri
+Cheremushki
 Broken Arrow
 Daly City
 Cikarang
 Arlit
+Baharestan
+Ba GJon
 Ranebennur
 Longjiang
 Hwado
 Buhe
 Hammamet
 Pindiga
-Berdyansk
-Toufen
+Kutur-Ogly
+Toufen Township
+Mianeh
 Dakhla
 Paniqui
 Novotroitsk
 Bergisch Gladbach
 Rangamati
-Alchevsk
 Mingachevir
 Legnica
 Drammen
@@ -4791,31 +5493,39 @@ Le Plateau-Mont-Royal
 Funchal
 Kishanganj
 Yautepec
+Jatai
 Sergeli
 Azare
-Nantou
+Nantou City
 Ipojuca
 Lahad Datu
 Vila Prudente
 Subulussalam
 Paragominas
 Bukama
+Ponnani
 Tanza
 Inzai
+Bhairab Bazar
 Hindaun
+Jamalpur
+Abu Tij
 Coatepeque
 Baraki
+Robat Karim
 Sandy Springs
 Burbank
 Taling Chan
 San Justo
+Hoa Binh
 Saint-Paul
 Ourense
+Nagaur
 Riacho Fundo II
 Green Bay
 Mityana
-Jizan
-Texcoco de Mora
+Gazan
+Texcoco
 Bang Bon
 Nikopol
 Slovyansk
@@ -4835,18 +5545,22 @@ Salzgitter
 Ville-Marie
 Moratalaz
 Bhiwadi
+Bundi
 Miryalaguda
 Daxing
 Artur Alvim
 Assis
 Santa Cruz do Capibaribe
 Yezhou
-Hidalgo del Parral
+Parral
+Saijo
 Jena
 Wichita Falls
 Brantford
 Gera
+Tuyen Quang
 Ottakring
+Al Faw
 Angoche
 Depok
 Toride
@@ -4856,7 +5570,7 @@ Kamloops
 Mazabuka
 Lakeland
 Pozniaky
-Zhezqazghan
+Dzhezkazgan
 Pailou
 Lo Prado
 Tizi Ouzou
@@ -4864,38 +5578,42 @@ Pulandian
 Helsingborg
 Abreu e Lima
 Kot Addu
+Bouafle
 Kara
 Clovis
 Kafue
+Campo Mourao
 Salaqi
 Kalulushi
 Lewisville
 Oued Zem
 Weldiya
 Izmaylovo
+Kiselyovsk
+Soyibug
 Jishu
 El Kelaa des Srarhna
 Ourinhos
-Ad-Damir
+Al-Damir
+Jagtial
 Woking
 Roorkee
 Yuxi
 Lincoln
+Poa
 Bashan
 Nkpor
 Sangla Hill
 Tongren
 Tyler
-Male
 El Cajon
 Mandaqui
 Piacenza
 Gardez
-Zhanaozen
 Gangu Chengguanzhen
-Teziutlan
 Kolda
 Vila Matilde
+Udgir
 San Mateo
 Viseu
 Nagda
@@ -4907,6 +5625,7 @@ Itabaiana
 Francistown
 Isehara
 Queluz
+Betul
 Chikushino-shi
 Akademicheskoe
 Turgutlu
@@ -4914,12 +5633,14 @@ Lida
 Taitung
 Kalynivskyi
 San
+Jahanabad
 Lethbridge
 Cursino
 Velikiye Luki
 Kashipur
 Rialto
 West Bromwich
+Ghazipur
 Tanjung Pandan
 Ikere-Ekiti
 Hildesheim
@@ -4927,20 +5648,23 @@ Kharian
 Bendigo
 Rantauprapat
 Chumakivskyi
-Nkayi
 Amaravati
+Nkayi
 Bogorodskoye
+Parsabad
+Lahan
 Liberec
 Nagapattinam
-Qurayyat
-Buxar
+Gurayat
 Portmore
+Buxar
 Santa Rosa
 Palma Soriano
 Pushkino
+Khushab
 Lafiagi
 Caieiras
-Xincheng
+Kucha
 Pasrur
 Belawan
 Pano Aqil
@@ -4951,10 +5675,12 @@ Tivaouane
 Entebbe
 Davenport
 Darnah
+Dayrut
 Whalley
 Edison
 Skhidni Kvartaly
-La Vega
+Kangson
+Shahzadpur
 Tulancingo
 Perdizes
 Yono
@@ -4968,16 +5694,19 @@ Sabanalarga
 Jishou
 Ngong
 Sebeta
+Artyom
 Tsuyama
 Limerick
+Aurangabad
 Lampa
 Sungai Penuh
 Ukhta
 Japeri
 Nakhon Si Thammarat
 Putatan
-Shuifu
 Kani
+Shuifu
+Onojo
 Kot Radha Kishan
 Al Jumayl
 Shchukino
@@ -4985,10 +5714,13 @@ Brateyevo
 Maldonado
 Venlo
 Novara
+Shushtar
 Wilmersdorf
 Al-Musayab
+Por do Sol
 Parintins
 Hedong
+Hinganghat
 Zonguldak
 Kawachi-Nagano
 Eastbourne
@@ -5015,39 +5747,49 @@ Isulan
 Itaim Bibi
 Pavlohrad
 Simmering
+Mustafakemalpasa
 Burayu
+Chilakalurupet
 Malappuram
+Ebolowa
 Dartmouth
 Orihuela
 Kallang
 Sangju
 Perling
 Albany
+Sao Cristovao
 Medina Estates
 Chakwal
+Nga Bay
 Gillingham
+Suruc
 Huacheng
+Hong Ngu
 Daoukro
 Tokuyama
+Tima
 Donghae City
 Standerton
 Kanoya
 Mokopane
 Dikirnis
 New Bedford
+Lahijan
 Leuven
 Mezhdurechensk
+Banswara
 Jolo
 Ryazanskiy
+Novyye Cheremushki
 Elbasan
 Pechersk
 Ijok
 Vista
 Davie
-Errachidia
+Ksar es-Souk
 Twifu Praso
 Red Deer
-Solikamsk
 El Progreso
 Chirmiri
 Chikusei
@@ -5056,20 +5798,29 @@ Arezzo
 Calasiao
 Glazov
 Rosarito
+Kallithea
 Ahar
+Juan Diaz
+Yen Bai
 Grogol
+Nahiyat al Iskandariyah
 Puerto Barrios
 Bakwa
 Chinatown
+Itarsi
 Votuporanga
 Si Maha Phot
+Ha Tien
 Oleksiyivka
+Masjed Soleyman
 Los Rastrojos
 Vasco da Gama
 Barakaldo
 Oleksandrivskyi
 Ermelo
+Klagenfurt
 Linxi
+Tiebo
 Gangtok
 Datia
 Sakado
@@ -5080,36 +5831,45 @@ Chust
 Kalmunai
 Udine
 Xinzhai
+Phagwara
 Izumisano
 Trier
 Ginowan
+Inda Silase
 Negara
+Cacapava
+Qasr Bin Ghashir
 Renala Khurd
 Punta Cana
 Roanoke
-Yanjia
-Kangding
-Suifenhe
-Sino-Singapore Tianjin Eco-city
-Alamar
-Becontree
-Sumedang Utara
-Jaffa
-Airoli
+Alasia
+Shahrak-e Pardisan
+Pyongsong
 Colonia Lindavista
+Yanjia
 Sentul
 Seri Manjung
 Bandar Mahkota Cheras
-Alasia
 Raja Jang
 Model Town
+Kangding
+Becontree
 Subotica
 Nyagatare
-Sabt Alalayah
+Sabt Al Alaya
+Sumedang Utara
+Suifenhe
+Jaffa
 Sakiet ez Zit
+Sino-Singapore Tianjin Eco-city
+Alamar
+Airoli
+Yarmouk
+Jaramana
 Qincheng
 Luckeesarai
 Menghuan
+Hagere Hiywet
 San Angelo
 Kambove
 Bislig
@@ -5122,13 +5882,17 @@ Niagara Falls
 Andria
 Tucupita
 Clinton Township
+Shikohabad
 Villa de Cura
 San Chaung
 Wangkui
 Columbia
 Zelenodolsk
+Al Qusiyah
 Dschang
 Tucuruvi
+Hwasong
+Myonggan-dong
 Dhahran
 Santiago de Compostela
 Roubaix
@@ -5136,22 +5900,27 @@ Manbij
 Olomouc
 Novoshakhtinsk
 Erie
+Kasganj
 Hualien City
 Meihekou
 Santander de Quilichao
 Xinle
+Acharnes
 Qubo Saeed Khan
 Mafinga
 Taman Melawati
+Minya al Qamh
 Bang Rak
 Burao
 Bam
 Manavgat
 Guercif
+Khambhat
 Tourcoing
 Kandhkot
 Saku
-Bhola
+Srodmiescie
+Bhola District
 Talara
 Riberalta
 Linghe
@@ -5161,7 +5930,7 @@ Kohima
 Richmond Hill
 Choma
 Xingcheng
-Paoy Paet
+Poipet
 Pandharpur
 Kapurthala Town
 Itoshima
@@ -5171,7 +5940,7 @@ Saint-Laurent
 Zwickau
 Circoiscrizione IV
 Kontagora
-Kaiserslautern
+K-Town
 Alief
 Soma
 Thimphu
@@ -5179,15 +5948,25 @@ Bocaue
 Votkinsk
 Caldas Novas
 Spring Hill
+Sao Sebastiao
+Tatuape
 Renqiu
 Mahuva
+Cardenas
 Bridgetown
 Compton
 Serov
+Habbouch
+Phong GJien
 Xinshi
+Vinh Thanh
+Landstrasse
 League City
 Flint
 Silvassa
+Al Qatif
+Konan
+Balangir
 Lagos de Moreno
 Chengzihe
 Thayetmyo
@@ -5195,18 +5974,25 @@ Penzing
 Xishan
 Allen
 Barika
+Ain Oussera
 Balashov
 Arsi Negele
 Dukuhturi
 Iguatu
+Fasa
 Saint-Jean-sur-Richelieu
+Nawada
 Lugo
 Bhilai Charoda
+Minab
+Daraa
+Shamli
 Chitose
 Yeyuan
 Trelew
 Kamyanets-Podilskyi
 Zheleznogorsk
+Kahta
 Santa Cruz de Yojoa
 Dorchester
 Erdenet
@@ -5216,10 +6002,15 @@ Namalombwe
 Asan
 Catarman
 Jharsuguda
+Go Cong
 Guanhu
+Itauna
 Tha Raeng
+Sadatpur Gujran
 Meidling
+Oulad Teima
 Jiudian
+Gambela
 Chalisgaon
 Rochdale
 Aguachica
@@ -5237,10 +6028,12 @@ Deventer
 Villa Alemana
 Brikama
 Bayeux
-Tellicherry
+Thalassery
 Zhukovsky
+Nakhchivan
 Kameoka
 Mission Viejo
+Para de Minas
 Cesena
 Manjeri
 Munakata
@@ -5269,7 +6062,6 @@ Wabu
 Ventura
 Khurarianwala
 Houzhen
-Dogonbadan
 Sumber
 Highlands Ranch
 Lawton
@@ -5280,7 +6072,9 @@ Jaworzno
 Zhudong
 Gongguan
 Pouytenga
-Soligorsk
+Esteli
+Salihorsk
+Nghia Do
 Monkayo
 South Gate
 Jounieh
@@ -5289,43 +6083,57 @@ Ceyhan
 Birgaon
 Shibata
 Stellenbosch
+Barmer
 Maribor
 Portsmouth
 Muroran
 Limpio
 Saint-Denis
+Khost
 Sparks
 Erechim
 Nanxi
 General Trias
+Puth Kalan
 Japekrom
 Ramenskoye
 Ouislane
 Hemel Hempstead
+Kuniyamuttur
 Bang Na
+Sardarshahr
+Sanand
+Sahibganj
+Ash-Shaykh Zayid
 Tema New Town
-Lubu
+Luk Po
 Shimada
+Ciudad Rio Bravo
 Jinsha
 Psie Pole
 Paramagudi
+Shkoder
 Zerakpur
 Las Rozas de Madrid
 Yuma
+Paranavai
 Ducheng
 Cipolletti
 Kamisu
 Burdur
 Shenjiamen
-San Carlos de Bariloche
+Omura
+Bariloche
 Inhambane
 La Habana Vieja
-Novopolotsk
+Navapolatsk
 Tiruchengode
 Amozoc de Mota
 Brockton
 Owendo
 Mons
+Huong Thuy
+Yotsukaido
 Boli
 Gafsa
 Xiaoshan
@@ -5335,6 +6143,7 @@ San Fernando
 Dearborn
 Federal Way
 Closepet
+Emmiganur
 Labuan
 Lindi
 Daanbantayan
@@ -5342,7 +6151,7 @@ Vaniyambadi
 Delft
 Kovilpatti
 Asheville
-Zaxo
+Zakho
 Ushirombo
 Aqaba
 Catumbela
@@ -5355,9 +6164,13 @@ Ozerki
 Novogireyevo
 Vostochnoe Degunino
 Rawad
+Cerete
 Roquetas de Mar
 Spokane Valley
 Kanuma
+Salamiyah
+Parli
+Binh Minh
 Alkmaar
 Tiko
 Wuchang
@@ -5368,36 +6181,46 @@ Behshahr
 Hanamaki
 Tiflet
 Fordham
+Biba
+Sanjo
 Nemby
 Livonia
 Al Qurayn
 Mainpuri
+Jacana
+Khamgaon
 Anusawari
 Roswell
 Aksum
+Makrana
 Yonezawa
 Orem
 Allinagaram
 Dunhou
-Bayan Hot
+Bayanhot
 Tsentralno-Miskyi
 Ximeicun
 Yuzivskyi
 Azumino
 Daxi
-Novyy Urengoy
+Novy Urengoy
 Boryeong
 Yilan
+Awsim
+Gjakova
 Ruwa
+Song Cau
 Pendang
 Chomedey
 Paracatu
 Fall River
+Cacem
 Gudiyatham
 Zhongduo
 Hayes
 Ashiya
 Lawrence
+Dhar
 Gambat
 Gesundbrunnen
 The Woodlands
@@ -5405,6 +6228,7 @@ Zheleznogorsk
 Bandar Kinrara
 Fangcheng
 West Albany
+Khuong GJinh
 Bohicon
 Daotian
 Yakima
@@ -5413,10 +6237,12 @@ Yunnanyi
 Shuangliao
 Mogi Mirim
 Lajeado
+Garcia
 Quincy
 Aflou
 Yala
-Dipolog
+Dipolog City
+Al-Qasim
 Baraut
 Zhaoyuan
 Michurinsk
@@ -5435,23 +6261,28 @@ Lere
 La Spezia
 Carson
 Barletta
+Modiin
 Tangwu
 Boca Raton
 Jiayue
 Santa Monica
-Kalibo
+Kalibo Town
 Rubio
+Praga Polnoc
 Kalyani
 Changping
 Inagi
+Obu
 Galle
 Stilfontein
 Doddaballapura
 Heerlen
-Ozamiz City
+Ozamiz
 Lorca
+Itajuba
 Qonce
 Jinja
+Noumea
 Kitakami
 Heho
 Kalaw
@@ -5461,14 +6292,17 @@ La Marsa
 Kineshma
 Negage
 Bafra
+Chirala
 Wukari
 Krasnogorsk
 San Marcos
-Pushkin
+Tsarskoye Selo
 Hastings
 Moa
 Lianzhou
 Sunyani
+Malacatan
+Avare
 Boyle Heights
 Magadan
 Banco Filipino Homes
@@ -5489,13 +6323,16 @@ Rahlstedt
 Semenyih
 Maizuru
 Selong
+Concepcion
 Lynn
 Ratchaburi
 Pamekasan
 Clementi Housing Estate
 Sendai
-Esslingen
+Al Harithah
+Esslingen am Neckar
 Darlington
+Mugla
 Bang Phlat
 Pandeglang
 Miami Beach
@@ -5520,12 +6357,16 @@ Nasinu
 Duitama
 Muan
 Danjiangkou
+Kot Kapura
 Kabirwala
+Ercis
 Bugulma
 El Shorouk
 Sassari
 Kilosa
+Manhuacu
 Caringin
+Bhandara
 Santa Barbara
 Ubatuba
 Iserlohn
@@ -5535,31 +6376,40 @@ Higashi-Matsuyama
 Cuamba
 Stevenage
 Pickering
+Sao Joao da Boa Vista
 Cidade Ocidental
 Zhongshu
+Shagadam
 Southport
 Huazhou
+Phu Tho
 Ratingen
 Porto Amboim
 Soran
 Redding
 Xingren
-Grahamstown
+Cardenas
+Makhanda
 Banga
 Longquan
+Kalamaria
 Yatou
 Tanfang
 Kars
+Patrocinio
 Surallah
 Lodja
 Tartu
 Sablayan
+Molarband
 Pergamino
 Marl
 Bagaha
 Macon
+Bach Mai
 Jirapa
 Rayachoti
+Al Minshah
 Daisen
 Nakonde
 Bethlehem
@@ -5572,9 +6422,10 @@ Gaoyou
 Kunjah
 Myitkyina
 Lqoliaa
-Yulinshi
 Chauk
+Yulin
 Al Badrashayn
+Thakhek
 Chinhoyi
 Namyangju
 Imizu
@@ -5589,13 +6440,16 @@ Bohodukhivskyi
 Greenville
 Tongren
 Saquarema
+Koerfez
 Mihara
+Eslamabad-e Gharb
 Chester
+Mohammadiyeh
 Retalhuleu
-Araripina
 Nanaimo
+Araripina
 Ziway
-Palmerston North
+Palmy
 Kuznetsk
 Tual
 Xihe
@@ -5603,10 +6457,11 @@ Guliston
 San Juan Bautista
 Cubal
 Kadayanallur
-Phra Khanong
+Prakanong
 Valparai
 Masvingo
-Duobao
+Abu Qurqas
+Topaowan
 Kirovo-Chepetsk
 Berdsk
 Bougouni
@@ -5620,19 +6475,20 @@ Prosperidad
 El Khroub
 Alabel
 Wajir
-Marudi
+Claudetown
 New Plymouth
+Kavali
 Edmond
 Wembley
 Airdrie
 San Vicente
-Dubai Silicon Oasis
+Kanata
 Cela
+Alvand
 Cafunfo
 Quissecula
-Kanata
 Roha
-Alvand
+Silicon Oasis
 Chinatown
 Luomen
 Fort-de-France
@@ -5641,33 +6497,41 @@ Isieke
 Huaidian
 Mancherial
 Dinga
+Kwail-up
 Ponte Rasa
 Mogok
 Nampa
 Saphan Sung
 Point Pedro
+Butajira
 Avignon
 Gatchina
 Baisha
 Grays
-Msaken
+Masakin
 Itapeva
 Masasi
+Caceres
 Calauan
+Avaniyapuram
 Nyaunglebin
 Trenton
+Koka
 Sangyoung
 Miaohang
 Maitland
 Sandy Hills
 Aricanduva
+Muradnagar
 Tuggeranong
 Ankleshwar
 Circoiscrizione VII
-Fujin
 Yoff
+Fujin
 Kadiri
 Granada
+Nikaia
+Tan Binh
 Katwa
 Mulongo
 Lankaran
@@ -5675,24 +6539,32 @@ Huaicheng
 Shahdol
 Shrirampur
 Kwangyang
-Houmt Souk
+Aligoodarz
+Undok
+Djerba
+Miragoane
+Giessen
 Polangui
 Hongseong
+Mahoba
 Guidonia Montecelio
 Micheng
 Lorena
 Mudon
 Lucheng
 Hede
+Kuhdasht
 Chengxiang
 Cruzeiro do Sul
+Biyala
 Harrogate
 Banjar
 Bibir Hat
 Sambava
 Gantang
+Biryulevo Zapadnoye
 Kholodna Hora
-Nusaybin
+Nisibis
 Cicurug
 Nandajie
 Lengshuitan
@@ -5703,25 +6575,29 @@ Iga
 Sao Domingos
 Talavera de la Reina
 Hartlepool
+Heraclea
+Fusagasuga
 Mangaldan
 Newton
 Nuneaton
 Toms River
+Ramgarh
 Habiganj
 Wangqing
-Rafaela
 Carmel
+Rafaela
 Xiazhuang
 Contai
 Khan Na Yao
-Hanau am Main
+Hanau
 Montero
+Sangrur
 Chosica
 Val Dor
 Campo di Marte
 Alaghsas
 Thul
-Centro
+city center
 Gengqing
 Pardubice
 Linjiacun
@@ -5737,12 +6613,15 @@ Honghe
 Hawthorne
 Montepuez
 Nirmal
+Fulad Shahr
 Al Bahah
 Fukuroi
-Bhimdatta
+Mahendranagar
 Klangenan
 Mobara
 Ben Arous
+Quixada
+Cienaga
 Le Kram
 Hastings
 Ifo
@@ -5753,8 +6632,10 @@ North Vancouver
 Suffolk
 Sugar Land
 Livermore
-Lidu
+Litu
 Kozan
+Neyyattinkara
+Tanda
 Bais
 Mogoditshane
 Nowshera Kalan
@@ -5764,35 +6645,38 @@ Arayat
 Nashua
 Yuzhou
 Qorveh
-Yingge
+Samannud
+Yingge District
 Wakiso
 Idiofa
-Gusong
 Kolar
+Gusong
 Yozgat
 Al-Tabqa
 Reading
 Jhumri Telaiya
 Amsterdam-Zuidoost
 Redditch
-Surigao
+Surigao City
 Perus
 Balkanabat
 Yeysk
 Tagaytay
+Orang
 Arecibo
 Hanchuan
-Aruppukkottai
 Takasago
+Aruppukkottai
 Maumere
 Buzuluk
 Dapitan
 Concord
+Faridkot
 Tiefu
 Maco
 San Antonio
 Velbert
-Kadugli
+Kaduqli
 Qiongshan
 Madgaon
 Gitarama
@@ -5805,18 +6689,23 @@ Enchanted Hills
 Taroudant
 Shevchenkivskyi
 Santa Fe
-Sandy
+Sandy City
 Xujiang
 Settsu
 Wonosari
 Patnos
 Whittier
+Velampalaiyam
+Thuong Cat
 Ben Gardane
 Bantayan
 Midrand
 Maghnia
 Canarsie
-Bishan New Town
+Jamui
+Maladzyechna
+Bishan
+Glyfada
 Lisovyi Masyv
 Igede-Ekiti
 Kirkland
@@ -5825,6 +6714,7 @@ Mishan
 Lund
 Nenjiang
 Sefrou
+Anjar
 Menifee
 Fulham
 Londonderry County Borough
@@ -5832,12 +6722,12 @@ Paralakhemundi
 Brindisi
 Newport Beach
 Tracy
-Ad Douiem
+Ad Duwaym
 Citrus Heights
 Norton
 Bend
-Lerik
 Gubkin
+Lerik
 Vavoua
 Brigittenau
 Effium
@@ -5845,56 +6735,73 @@ Jharia
 Hacienda Santa Fe
 Kongolo
 Ban Mai
+Son Tra
 Menglang
+Ad Dawadimi
 Campana
+Montreal-Nord
 Louis Trichardt
+Karaikal
 Canton
 Caguas
+Kamthi
 Lehigh Acres
+Hansi
 Greenburgh
 Kasoa
 Shizilu
 Batticaloa
+Asnieres-sur-Seine
 Nanterre
 Gbawe
 Tumaco
-Chaykovskiy
+Chaykovsky
 Rat Burana
 Atlixco
-Ixelles
+Ixelles-Elsene
 Mayiladuthurai
 Podilskyi
 Jiangshan
+Hualpen
 Paraiso
+Vinh Tuy
 Gotemba
+Abu an Numrus
 Bojonegoro
 Zhaogezhuang
 Toledo
+Al Farwaniyah
 Anakapalle
-Victorias
+Victorias City
 Hamakita
 Idanre
+Apartado
 Bloomington
 West Town
-Amsterdam-Centrum
+Amsterdam City Centre
 Anlong
-Tagbilaran City
+City of Tagbilaran
 Puli
 Navegantes
 Germantown
 Kitanagoya
 Le Sud-Ouest
+Gyoda
 Clifton
 Nitra
 Miaoli
-Qamdo
+Chamdo
+Cai Rang
 Kampung Manjoi
 Dunkirk
 Bangkalan
+Chigorodo
 Kasihan
 Viacha
 Maduravoyal
+Ibshaway
 Kashiwazaki
+Sarni
 Grimsby
 Nanfeng
 Ama
@@ -5907,29 +6814,36 @@ Volos
 Gbarnga
 Potiskum
 Ar Rumaylah
+Tajrish
 Lianozovo
 Babushkin
 Novi Pazar
 Melilla
 Poitiers
-Dausa
 Kepong
+Dausa
 Keffi
-Coari
 Galway
+Coari
 Bukit Timah
+Usolye-Sibirskoye
 Cacoal
 Lichterfelde
+Panevezys
 Zhonggulou
+Paradip
 Heidelberg
 Makoko
 Flensburg
 Longnan
 Peterborough
 Agua Rasa
+Ryugasaki
 Treviso
 Helong
 Near North Side
+Tecoman
+Penaflor
 Obruchevo
 Adwa
 Esmeraldas
@@ -5938,20 +6852,24 @@ Arauca
 El Bayadh
 Mukachevo
 Krasnaya Glinka
+Redencao
 Yokote
 Alhambra
 Svetlanovskiy
 Bangil
+GJinh Cong
 Nanding
 Birni N Konni
 Moriyama
 Ogden
+Soc Son
 Lakang
 Versailles
 Guozhen
 Voznesenskyi
 Sandnes
 Khalifah A City
+Tarut
 Los Reyes Acaquilpan
 Maun
 Santo Amaro
@@ -5963,6 +6881,7 @@ Sekimachi
 Dengzhou
 Wedding
 Mehestan
+Egorievsk
 Goiana
 Courbevoie
 Bellingham
@@ -5971,35 +6890,45 @@ Essaouira
 Makeni
 Iwamizawa
 Hingoli
+Gia Nghia
+Munoz
 Monte Chingolo
 Puerto Maldonado
-Mohammed Bin Zayed City
+Santa Ines
 Sintang
 Rukban
 Damansara Damai
 Vwawa
+Mohammed Bin Zayed City
 Repentigny
+Unai
 Guanambi
 Sathon
+Baruni
 Hoover
 Jeypore
 Como
+Nea Liosia
 Madaripur
 Ciudad Mante
 Konotop
+Ijui
 Pato Branco
 Rivera
 Komae
 Laojunmiao
 Cottbus
+Tuxpam de Rodriguez Cano
+Seropedica
 Chiguayante
 Epe
 El Ejido
 Nakatsu
+Al-Manakh
 Melbourne
 Gamboru
 Dien Bien Phu
-Tlaxcala
+Tlaxcala City
 Akhisar
 Danbury
 Sumenep
@@ -6008,20 +6937,24 @@ Katunayaka
 Yeongju
 Dacheng
 Mianyang
-Bijnor
 Tanjay
+Bijnor
 St Albans
 Fnidek
 Dhoraji
 East Norwalk
 Gununo
+Areka
 Edinburg
+Virappanchathiram
 Sunrise
 Salina Cruz
 Dundee
 Carrao
 Wilhelmshaven
+Qus
 Ogaminana
+Akcapinar
 Kasserine
 Chita
 Karakol
@@ -6030,8 +6963,10 @@ Mackay
 Dazhong
 Ettadhamen
 Suceava
+Heroica Zitacuaro
 Liaolan
-Trinidad
+Balaghat
+La Santisima Trinidad
 Phuthaditjhaba
 Jinxiang
 Yurga
@@ -6048,65 +6983,84 @@ Kampung Sungai Kajang
 Feni
 Udhampur
 Wanju
+Najibabad
 Wako
 Binonga
 Reinickendorf
 Degan
+Xiannue
+Baghestan
 Ayase
+Idaiyarpalaiyam
 Higashiyamato
 Cicero
-Darhan
+Darkhan
 Yinma
 Hemet
 Chiclana de la Frontera
 Cianorte
 Pinheiro
+Ocotlan
 Fredrikstad
 Sliven
 Jardim Paulista
 South Shields
-Derry
+Londonderry
 Hilversum
 Lingdong
 Nanzhang Chengguanzhen
 Hamma Bouziane
+Al Qanatir al Khayriyah
 San Pedro
+GJong Ngac
 Ahwatukee Foothills
 Kisilevsk
 Busto Arsizio
+Sabratah
+Yangpyeong
 Ungsang
+Joao Monlevade
 Johns Creek
-La Piedad de Cabadas
+La Piedad
 Mission
+Yamatokoriyama
 Troy
 Marilao
 Buena Park
 Xucheng
 Ihiala
 Harihar
+Chilla Soroda Bangar
 Kapiri Mposhi
 Carpina
 Fort Abbas
 Sirsilla
 Moju
 Ceuta
+Sinwon-up
 Pori
 Owariasahi
 Margahayukencana
 Wensu
+Al Kharjah
+Al-Kharijah
 Bulacan
+San Jose de Guanipa
 Picos
 Amakusa
 Echizen
 Kimitsu
 Galesong
 Bambari
+Mar del Tuyu
 San Fernando
+Kamigyo-ku
 Mid-City
 Ningyang
 Bingerville
 Lodwar
 Karauli
+Mansa
 Uccle
 David
 Jinshi
@@ -6122,16 +7076,19 @@ Sioux City
 Yacuiba
 Pontevedra
 Muhanga
+Shirvan
 Marj Al Hamam
 Sobradinho II
 Ochota
 La Villa del Rosario
+Shikokuchuo
 Atlantis
 Aoxi
 Liping
 Pau
 Rutshuru
 Kelo
+An Hai
 Sidi Kacem
 Algorta
 Halifax
@@ -6143,6 +7100,7 @@ Cruzeiro
 Dali Old Town
 Sinhyeon
 Xindian
+San Martin
 Saint-Hubert
 Jangipur
 Ecunna
@@ -6151,10 +7109,11 @@ Anzhero-Sudzhensk
 Sahand
 Lake Forest
 Arcoverde
-Pernik
 Qiaoguan
+Pernik
 Manono
 Merced
+Minyat an Nasr
 Sant Boi de Llobregat
 Bagamoyo
 Cukai
@@ -6162,26 +7121,33 @@ Parit Sulung
 Nangong
 Mbalmayo
 Sabaneta
+Limao
 Troitsk
+Madaba
+Matay
 Hengelo
 Reef Al Fujairah City
 Nizip
 Nakhon Sawan
 Colombes
+Laksham
 Longview
 Les Corts
 Gobindgarh
 Dondo
 Maple Ridge
 Caldas
+Omihachiman
 Atambua
 Anguo
 Quixeramobim
 Fatsa
+Tres Rios
 Azov
 Pagbilao
 Bryan
 Ipoti
+Tanashicho
 Shiwan
 Edmonton
 Westland
@@ -6196,35 +7162,44 @@ Le Tampon
 Ratodero
 Saunda
 Akiruno
+Brena
 Moema
 Maraimalainagar
 Huaiyang
 Coslada
 Ashoknagar
 Sesto San Giovanni
+Macaiba
 Gwangju
-Agboville
 Villingen-Schwenningen
+Agboville
 Tamanghasset
 Kaspiysk
 Lucca
-Babamba
 Phulwari Sharif
+Babamba
 Tangping
 Ar Rass
 Mhow
 Warwick
-Luzern
+Lucerne
+Al Khankah
 Kasongo
 Lakewood
 Guider
-Naqadeh
+Salmas
+Irgalem
+An Khe
+Naghadeh
+Sao Sebastiao
+Timoteo
 Scunthorpe
 Tiznit
 Muntilan
 Uman
 Pacatuba
 Yan Nawa
+Remedios de Escalada de San Martin
 Beauport
 Yudong
 Malout
@@ -6233,9 +7208,9 @@ Bulungu
 Balqash
 Guaynabo
 Farmington Hills
+Sarishabari
 Fatehjang
 San Tan Valley
-Mount Pleasant
 Athi River
 Lagoa Santa
 Lambayong
@@ -6243,7 +7218,7 @@ Konstanz
 Tatebayashi
 Mweka
 Konin
-Nangen
+Namwon
 Changning
 Vijalpor
 Pozzuoli
@@ -6255,22 +7230,25 @@ Xiugu
 Himatnagar
 Lalupon
 Pilar
+Al Hurshah
 Worms
 Cranston
 Ozersk
 Tallaght
-Rockhampton
 Moabit
+Rockhampton
 San Timoteo
 Yessentuki
+Sao Miguel
 Vitry-sur-Seine
 Largo
+Naeso
 Santa Cecilia
 Diyarb Najm
 Dholka
 Feicheng
-Mooca
 Aveiro
+Mooca
 Ravenna
 Shanting
 Rouissat
@@ -6286,14 +7264,18 @@ Junlian
 Lecce
 South Suffolk
 Avondale
+Atakpame
 Berestovskyi
 Curvelo
 Lai Vung
 Mijas
+Gueiguee
 Bargarh
 Nianzhuang
 Aulnay-sous-Bois
+Tepeji del Rio de Ocampo
 Kharghar
+Kotari
 Chatham
 Varese
 Tustin
@@ -6304,15 +7286,20 @@ Khemis Miliana
 Ambalantota
 Bakhmut
 Bani Yas City
+Agua Rasa
 Yingjiang
 Elbistan
 Kondoa
 Serrinha
 Mountain View
 Napa
+Kairana
 Brajarajnagar
+Hanno
+Bonab
 Loushanguan
 Somerville
+Kamareddi
 Baoying
 Giugliano in Campania
 Kedungwaru
@@ -6324,22 +7311,27 @@ Palwancha
 Chapadinha
 Serpong
 Meru
+Piotrkow Trybunalski
 Purmerend
+Kungirot
 Alahabad
 Nyeri
 Cachoeira do Sul
 Xichang
+Gamagori
+Manmad
 Srikalahasti
 Huanglou
 Dushan
-Kanyama
+Kaniama
 Vorkuta
+Sangmelima
 El Cafetal
-Rikaze
-Sha Tin Wai
 Hajiawa
 Khewra
+Sha Tin Wai
 Fili
+Cung Kiem
 Ughelli
 Dorsten
 Stockton-on-Tees
@@ -6348,19 +7340,22 @@ Parma
 Miabi
 Drobeta-Turnu Severin
 New Rochelle
+San Jose Pinula
 Paco
+Kottagudem
 Lynchburg
 Lelystad
 Medford
+Telemaco Borba
 Zrenjanin
 Deerfield Beach
 Songlou
 Bella Vista
 San Francisco
 Lerdo
-Taixing
-Genteng
+Taishing
 Kidapawan
+Genteng
 Bolenge
 Amstelveen
 Sathorn
@@ -6373,7 +7368,9 @@ Khrustalnyi
 Kafanchan
 Edfu
 Pleasanton
+Saint-Leonard
 Tangjiazhuang
+Sao Roque
 Shadrinsk
 Willowdale
 Talagang
@@ -6384,7 +7381,8 @@ Bang Sue subdistrict
 Zarzis
 Phuket
 Kahna Nau
-Polotsk
+Polatsk
+Nawabganj
 Gedangan
 Cyberjaya
 Yanta
@@ -6393,7 +7391,9 @@ Bwizibwera
 Brooklyn Park
 Gueckedou
 Gokak
+Ceara-Mirim
 Mamou
+Tikamgarh
 Zhuangyuan
 Ikom
 Arakkonam
@@ -6401,56 +7401,65 @@ Wuyang
 Kashihara
 Xiongzhou
 Chaigou
+Bumahen
+Matao
 Ponorogo
+Araria
 Agulu
 Netrakona
 Goodyear
 Kaambooni
-Alfenas
 Catanzaro
+Alfenas
 Prince George
 Mossel Bay
 Nakatsugawa
 New Westminster
 Kennewick
-Marburg an der Lahn
+Marburg
 Russas
+Cam Le
 Xinzhou
 Shitanjing
 Coffs Harbour
 Chiang Rai
 Deurne
 Sagaing
+Koch Bihar
 Mooka
 Tumen
 Natori-shi
 Armant
 Kharakvasla
-Thanhlyin
+Syriam
 Isiolo
 Vyborg
 Alameda
 Palencia
 Curepipe
+Danane
 Arona
 Waliso
 Tupi
 Qinggang
 Hengbei
+Honjo
 Bhadohi
 Torrent
 Circoiscrizione I
 Lins
 Carlisle
 Bellflower
+Kobanya
 Yishan
+Katoya
 Youhao
 Joensuu
-Medininagar
+Daltonganj
+Washim
 Reutov
 Bagbera
 Savarkundla
-Bandar-e Emam Khomeyni
 Toyooka
 Putatan
 Chino Hills
@@ -6458,16 +7467,21 @@ Bang Kruai
 Denov
 Bloomington
 Basoda
+Santa Cruz del Quiche
 Daura
+Al Hayy
 Bamban
 Pingyi
 Southall
 Wulong
-Valvedditturai
+Valvettithurai
 Rheinhausen
 Linping
 Huai Khwang
+Sirs al Layyanah
 San Juan
+Ilioupoli
+Zahle
 Daet
 Daugavpils
 Blue Mountains
@@ -6480,9 +7494,9 @@ Kouvola
 Donggongon
 Szombathely
 Xixiang
-Matala
 Alekseyevka
 Kuacjok
+Matala
 Tanuku
 Gurdaspur
 Castrop-Rauxel
@@ -6494,6 +7508,7 @@ Tome
 Springdale
 Edattala
 Shap Pat Heung
+Jardim Botanico
 Huankou
 Ciranjang-hilir
 Linkou
@@ -6501,6 +7516,7 @@ Nchelenge
 Racine
 Ipiales
 Roosendaal
+Hakkari
 Ukunda
 Bauang
 Jaboticabal
@@ -6511,8 +7527,10 @@ Huangmei
 Campo Limpo Paulista
 Numan
 Hammond
+Itay al Barud
 Milpitas
 Ouarzazate
+UEnye
 Bodhan
 Songling
 Bogenhausen
@@ -6523,12 +7541,13 @@ Mechelen
 Santa Rosa
 Lisburn
 Bagong Barrio
-Kambar
+Qambar
 Barracas
 Nazareth
 Mazatenango
 Khomeyn
 Shulan
+Balrampur
 Tsubame
 Mandela
 Suva
@@ -6537,46 +7556,61 @@ Gebiley
 Quatre Bornes
 Fukuchiyama
 Mungyeong
+Baramula
 Paisley
+KeurMedoune
 Agua Prieta
+Caninde
 Pesaro
-Cozumel
+Kanasin
+San Miguel de Cozumel
 Baicheng
 Lod
 Wawer
+As Suwayrah
 Akihabara
 Siedlce
 Damiao
 South Surrey
 Santa Cruz de Barahona
 Gary
+Susa
 Putney
 Karwar
 Ovalle
 Kunitachi
 Scranton
-Mafikeng
+Surman
+Mahikeng
 Coyah
 Pok Fu Lam
 Voskresensk
+Keratsini
 Baldwin Park
+Dhulian
+Yen Hoa
 Hunchun
 Nabari
 Kagoro
 Auburn
 Rabkavi-Banhatti
 Yalta
-Dubai Festival City
+Les Rivieres
 Hassi Bahbah
+Dubai Festival City
 Zahir Pir
+Mawana
 Tsurusaki
+Jozsefvaros
 Khlong Chan
-Sarqant
+Sarkand
 Shirpur
 Kiserian
 Pirassununga
+Valenca
 Puerto Padre
 Budge Budge
+Arraijan
 La Rochelle
 Kundla
 Itapetinga
@@ -6594,18 +7628,22 @@ Kannauj
 Zhaodun
 Luxembourg
 Yenakiyeve
+Giang Vo
+Pancsova
 Fenghua
 Khajoori Khas
 Rueil-Malmaison
 Neelankarai
+Nagina
 Caledon
 Juhaynah
 Biruaca
 Vinhedo
 Pharr
+Tiangua
 Fuorigrotta
 Fylde
-Badagara
+Vatakara
 Fazilka
 Rheine
 Hujra Shah Muqim
@@ -6614,11 +7652,13 @@ Bunbury
 Shiki
 Upland
 Crewe
+Vicosa
 Oss
-Yaxing
 Yuktae-dong
+Yaxing
 Dangkao
 Ciudad Satelite
+Fuenfhaus
 Antibes
 Yangliuqing
 Stoney Creek
@@ -6632,6 +7672,7 @@ Electronic City Phase I
 Aira
 Qiuji
 Baytown
+Santana do Livramento
 Furukawa
 Latina
 Zhlobin
@@ -6640,9 +7681,11 @@ Babahoyo
 Midyat
 Lae
 Matara
+Nahavand
 Manresa
 Ramla
 Tuban
+Thanh Liet
 Sakon Nakhon
 Ratnagiri
 Mbabane
@@ -6655,14 +7698,16 @@ San Ramon
 Camden
 Bracknell
 Shibukawa
-Oleksandriya
+Oleksandriia
 Konnagar
+Sherbin
+Yurihonjo
 Lake Charles
 Chintamani
 Kalamazoo
 Shouxian
 Paharpur
-Brick
+Bricktown
 Nagornyy
 Kebomas
 Cinisello Balsamo
@@ -6679,7 +7724,11 @@ Ciudad Choluteca
 Pammal
 Karangsembung
 Buchanan
-Sankt Gallen
+Mashtul as Suq
+Sindhnur
+Saint Gallen
+Santo Antonio do Descoberto
+Rolandia
 Kamensk-Shakhtinsky
 Belovo
 Takefu
@@ -6689,22 +7738,26 @@ Madhubani
 Kageleke
 Kotido
 Turbat
+Bodinayakkanur
 Kanjia
 Yinzhu
 Khadki
 Battersea
 Chekhov
 Souk El Arbaa
-Battaramulla South
+Battaramulla
 Warabi
 Sapiranga
+Ibiuna
 Kita
 Gare
 Kryukiv
+Dhrangadhra
 Al Karama
 Tezpur
 Osijek
 Lapa
+Pila
 Evanston
 Kanaker-Zeytun
 Gladbeck
@@ -6712,6 +7765,8 @@ Ode
 Miki
 Manteca
 Schiedam
+Raanana
+Doebling
 Srivilliputhur
 Anhanguera
 Bariq
@@ -6720,33 +7775,39 @@ Chaoyang
 Dawbon
 Benipur
 Kai
+Ekpe
 East Kilbride
 Wyoming
 Kampong Chhnang
 Trujillo Alto
 Shangmei
 Igbo-Ukwu
+Paloncha
 Loveland
 Rundu
 Cheektowaga
 Hove
+Concordia
+Crateus
 Fuyu
 Virac
 Kings Bridge
 Pedro Juan Caballero
 Bismarck
+Basyun
 Okegawa
 Kumanovo
 Katano
 Gela
-Barra do Dande
 Feriana
 Katoro
 Tekstylnyk
+Barra do Dande
+Cu Chi
 Sukagawa
 Spijkenisse
 Aprilia
-Xinying
+Xinying District
 Perris
 Haninge
 Maozhou
@@ -6756,12 +7817,14 @@ Arnsberg
 Topi
 Molepolole
 Tura
+Gudur
 Albany
 El Tocuyo
+Hihya
 Huilong
 Keren
-Ubud
 Yotsuya
+Ubud
 Nam Cheong
 Beidao
 Troisdorf
@@ -6776,15 +7839,20 @@ Kowloon West End
 Alicia
 Schaumburg
 Am Timan
+Evosmos
 Parque Do Carmo
 Changnyeong
 Mirpur Mathelo
+Gobernador Galvez
 Vedado del Cotorro
+Joyo
 Longgang
 Asbest
 Narnaul
+Sunamganj
 Cannes
 Gastonia
+Irece
 Hyosha
 Brownsville
 Balotra
@@ -6797,7 +7865,10 @@ Shancheng
 Bilecik
 Zhangzhai
 Calais
+Izumiotsu
 Nanma
+Meagui
+Itsa
 Huicheng
 Asti
 Foumbot
@@ -6805,28 +7876,35 @@ Tatsuno
 Bolingbrook
 Yadgir
 Bosaso
+Ramhormoz
 Kilifi
 Harda
 Yuanshang
 Ragusa
 Silao de la Victoria
 Iowa City
-Pilkhua
-Seosan
+Pilkhuwa
+Seosan City
 Tosu
+Chalandri
 Suixi
+Eusebio
 Layton
 Missouri City
 Appleton
 Igbara-Odo
 Zhangzhuang
+Ambajogai
+Meshgin Shahr
 Shelby
 Fuentes del Valle
 Imerintsiatosika
+Kapas Herd
 Bafia
 Gucheng Chengguanzhen
 Xianshuigu
 Zaraza
+Oriximina
 Fort Myers
 Inuyama
 Bela
@@ -6836,6 +7914,7 @@ Wattenscheid
 Bocholt
 Yunyang
 Casoria
+Msalatah
 Jonesboro
 Majene
 Kortrijk
@@ -6844,26 +7923,31 @@ Sipalay
 Gbadolite
 Rabkavi
 Pistoia
-Chimbas
 Gandia
+Chimbas
 South Lawndale
 Prilep
 Ozubulu
 Vlaardingen
 Ifrane
+Kyotanabe
 Bundaberg
 Aku
 Huayuan
+Goianesia
 Lanxi
 Logan Square
 Oudtshoorn
 Drohobych
 Detmold
+Bawana
+Buraimi
 Kasama
 Genhe
 Gresik
 Birobidzhan
 Oyan
+Shahabad
 Chokolivka
 Walvis Bay
 Don Carlos
@@ -6873,15 +7957,20 @@ Luocheng
 Kabanjahe
 Rapid City
 Necochea
+Chandpur
+Cao Bang
 Bat Khela
 Jega
 Warner Robins
+Cosmopolis
 Heguan
 Solok
+Kasipalaiyam
 Rochester Hills
 Viana
 Chibuto
 Canary Wharf
+Sikandrabad
 Asaba
 Chilca
 Cloverdale
@@ -6897,7 +7986,7 @@ Kadiyivka
 Tatvan
 General Roca
 Kawit
-Peterhof
+Petrodvorets
 Shostka
 Pierrefonds-Roxboro
 Pacajus
@@ -6906,12 +7995,16 @@ Dazaifu
 Southfield
 Richard-Toll
 Pattukkottai
+Negele
+Nea Smyrni
+Tamiyah
+Joypur Hat
 Ishioka
 Gaspar
 Majalengka
-Pusad
 Berdychiv
-Sihanoukville
+Pusad
+Kampong Saom
 Ratchathewi
 Alegrete
 Jatibarang
@@ -6920,12 +8013,13 @@ Shixing
 Jurong East
 Dongdu
 Balanga
-San Juan de la Maguana
+San Juan
 Bayreuth
 Oyem
+Rabigh
 Lappeenranta
-Saint George
 Padre Las Casas
+Rosh HaAyin
 Caserta
 Dachnoye
 Bethal
@@ -6940,28 +8034,36 @@ Paine
 Almelo
 Thaba Nchu
 Selva Alegre
+Huong Tra
 Huangchuan
 Georgiyevsk
-Daytona Beach
+Daytona
 Yelabuga
 Franklin
 Naro-Fominsk
-Port Area
+Port District
 Sitrah
 Wusu
 Nutana Sector
+Tala
 Lanxi
+Guamuchil
+Tailandia
 Miyang
 Taliparamba
-Steglitz
+Steglitz Bezirk
 Hekinan
 Jiangzhuang
-Beichengqu
+Fengzhen
 Gongju
 Arua
 Candeias
+Socopo
+Sangareddi
 Shumen
 Venado Tuerto
+Palghar
+Marousi
 Kalima
 Bangkok Yai
 Xinzhi
@@ -6973,25 +8075,32 @@ Temple
 Licheng
 Sobradinho
 Adelaide Hills
-Guanajuato
+Guanajuato City
 Cascavel
 Suva Reka
 West Ridge
+Rades
+Chiryu
+Ash Shafa
 Apple Valley
 Sagay
 Sarnia
 Kyosai
 Payyanur
+Otawara
 Casa Nova
+Nizwa
 Zhoucheng
 Sakrand
 Itapira
+Thi Tran Mao Khe
 Mariano Roque Alonso
 Rio do Sul
-Larnaca
+Saujana Utama City
 Purley
-Bandar Saujana Utama
+Al Lith
 Bromma
+Larnaca
 Lynwood
 La Paz
 Waukesha
@@ -7000,8 +8109,9 @@ Gouda
 Sheopur
 Channapatna
 Bothaville
+Ararangua
 Antalaha
-Caidian
+Tsaitien
 Busia
 Canton
 Guildford
@@ -7009,18 +8119,23 @@ Koyilandy
 Mbouda
 Afikpo
 Landshut
+Santa Lucia
 Gulfport
 Panzos
 Sunzha
-Castro
+Santa Isabel do Para
 Livyi Bereh
+Castro
 Saint John
+Sao Sebastiao do Paraiso
+Faridpur
 Tando Jam
 Birkhadem
 Zaandam
 Shakhtarsk
 Nyvky
 Esbjerg
+Manikganj
 Bouar
 Migori
 Barauni
@@ -7028,6 +8143,7 @@ Yawata
 Apomu
 Minami-Alps
 Xiuyan
+Darayya
 Delgado
 Pawtucket
 Chernogorsk
@@ -7037,6 +8153,8 @@ Rock Hill
 Khanabad
 Sragen
 Luohuang
+Madinat as Sadat
+Takestan
 Campo Formoso
 Fuengirola
 Solana
@@ -7068,15 +8186,20 @@ Winneba
 Szolnok
 Changtu
 Ban Ko Sire
+Vaxjo
 Huashan
+Ilidza
 El Pueblito
 Flower Mound
 Stargard
 Cremona
+Rayagada
 Serendah
 Anlu
 Guasave
+Fernandopolis
 Yilan
+Zahirabad
 Sur
 Linjiang
 Carpi
@@ -7086,7 +8209,9 @@ Grazhdanka
 Ratangarh
 Lafayette
 Moanda
+Thakurgaon
 Hala
+Markapur
 Passaic
 Billstedt
 Guiping
@@ -7098,43 +8223,56 @@ Kalamassery
 Sougueur
 Redlands
 Orita-Eruwa
+Zografos
 Missoula
 Rancho Cordova
+Farshut
 Celle
 Prymorskyi
 Bolpur
 Panjim
+Ranaghat
 Horizonte
 Tanabe
 Doba
+Hongwon
 Aubervilliers
 Indaial
 Wilmington
+Al Ghanayim
 Kuandian
 Gwadar
+Kien Hung
 Musashimurayama
 Shenzhen City Centre
 Vila Nova de Gaia
+Ain Temouchent
 Uwajima
 Ejura
 Poyang
-Yongfeng
 Lahraouyine
+Yongfeng
 Kopeysk
 Eha Amufu
+Fatehabad
+Bapatla
 Gongchangling
 Beypore
 Bir el Ater
 Jimo
 Malumfashi
+Co GJo
+Janauba
 Koppal
 Buenavista
+Al Qanayat
 Pala
 Tongyeong
-Badvel
 Antanifotsy
+Badvel
 Dialakorodji
 Sherwood Park
+Dadri
 Kurortnyy
 Chingford
 Samar
@@ -7144,6 +8282,7 @@ Pabianice
 Altamura
 Berekum
 Suratgarh
+Santa Maria Chimalhuacan
 Mariano
 Auraiya
 Lamezia Terme
@@ -7169,8 +8308,10 @@ Jiangyan
 Maidenhead
 Shiguai
 Faro
+Maebaru-chuo
 Eniwa
 Flagstaff
+Ritto
 Chivacoa
 Farroupilha
 Anan
@@ -7181,7 +8322,10 @@ Brumado
 Alphen aan den Rijn
 Kadirli
 Goya
+Chau GJoc
 Phaya Thai
+Darius-town
+Sirvan
 Schweizer-Reneke
 Adler
 Dimbokro
@@ -7194,66 +8338,85 @@ Chapayevsk
 Stafford
 Mauban
 Tsurugashima
+Nallur
 Taungdwingyi
 Inaruwa
 Indang
 Muncie
 Mineiros
+Grajau
 Cahama
 Bamberg
-Uxbridge
-Baikonur
+Khalis
+Aivali
 Rabwah
+Baikonur
+Uxbridge
 Fordon
 Vikindu
 Mira Mesa
 Woodland Hills
+Linh GJam
 Raha
+Duyen Hai
 Weston
 Imola
+Aigaleo
 Izmayil
 Mengcheng Chengguanzhen
+San Joaquin
 Abhar
 Xinhe
 Moquegua
 Shima
 Chamrajnagar
 Mertoyudan
+Consolacion del Sur
+Mithepur
 Vaasa
 Segamat
+Rajbiraj
 Ciro
 Vidradnyi
 Bondowoso
 Satpayev
 Santa Cruz de Mara
+Mangrol
 Kahror Pakka
 Kladno
 Kaura Namoda
 Basavakalyan
 Planeta Rica
+Asosa
 Las Piedras
 Pul Pehlad
 Tacarigua
 Bairro Parque Nossa Senhora do Carmo
+Khash
 Fengping
 Brossard
+Chaibasa
 Dougnane
 Tournai
 Yokota
 Linares
 Rhondda
 Karonga
+Biguacu
 Frederick
 Fuefuki
 Frontera
 Minamiarupusu
 Villa Carlos Paz
 Pasco
+Mobarakeh
 Thanlyin
 Dobrich
 Chengxian Chengguanzhen
 Pittsburg
 Luquembo
+Nui Thanh
+Sayyan
 Tripunittura
 Bongabon
 Gujar Khan
@@ -7267,6 +8430,7 @@ Kampung Baru Balakong
 Toyoake
 Bitola
 Ambovombe
+Shajapur
 Anseong
 Xuantan
 Jiehu
@@ -7282,28 +8446,35 @@ Linjiang
 Hunedoara
 Las Cumbres
 Khlong Kum
+Sunam
 Tantou
+Bhawanipatna
+Soja
 Mindelo
-Ostend
 Nganjuk
+Ostend
 Sint-Niklaas
 Chicoutimi
 Calauag
 Xiaoshi
 Ziauddin Pur
+Lencois Paulista
 Magalang
-Jamkhandi
+Ihnasya al Madinah
 Bogale
+Jamkhandi
+Gueines
 Royal Tunbridge Wells
 Walnut Creek
+Ad Dilinjat
 Darnytskyi Masyv
 Koson
 Cantaura
 Granada
 Inongo
 Hoorn
-Basmat
 Libon
+Basmat
 Assen
 Chulucanas
 Tuymazy
@@ -7313,6 +8484,7 @@ Cordova
 Moriya
 Yachimata
 Cabedelo
+Venancio Aires
 Ponferrada
 Itapecuru Mirim
 Jinjiang
@@ -7331,9 +8503,10 @@ Conroe
 Borisoglebsk
 Obonoma
 Dothan
-Sosnovyy Bor
+Sosnovy Bor
 Feodosiya
-Aschaffenburg
+A-Burg
+Chinchina
 Ouricuri
 Tsuruga
 Northridge
@@ -7341,32 +8514,43 @@ Waterloo
 Tanauan
 Pengcheng
 Wenjiang
+Al Balyana
 Rivas-Vaciamadrid
-Sheki
 Nakivale Refugee Camp
 Maple Grove
 Baranoa
 Shima
 Aparri
+Bisalpur
+Peruibe
 Ninghai
 Framingham
 San Isidro
+Ico
 Sabae
+Al Fahahil
 Saldanha
 Adrar
 Issia
-Dolgoprudnyy
+Dolgoprudny
 Formiga
+Soeke
 Altagracia de Orituco
+Nghia Lo
 Attili
 Wimbledon
 Ina
 Redondo Beach
 Corby
+Ain Harrouda
+Notre-Dame-de-Grace
+Langarud
 Guiglo
+Cadereyta Jimenez
 Majadahonda
 Bossier City
 Cumbum
+Moron
 Neubrandenburg
 Artemisa
 Valle de Santiago
@@ -7375,22 +8559,29 @@ Bir el Djir
 Bungoma
 Macenta
 Amparo
-Munnar
 Dorogomilovo
 Balanbale
+Munnar
 Panipat Taraf Makhdum Zadgan
 Cadereyta
 Bourges
 Yorba Linda
+Nabha
+Mustamaee
 Chaihe
 Budyonnovsk
+Bihat
 Minggang
 Tangzhai
 Xunyang
 Barberton
+Samastipur
 Calbayog City
 Belogorsk
 Hashima
+Karanja
+Campina
+Strovolos
 Yanghe
 Gode
 San Mateo Atenco
@@ -7398,66 +8589,81 @@ Angat
 Woodbury
 San Fernando
 Tanjung Selor
+Conceicao do Coite
 Dongfeng
 Roman
+Sitamarhi
 Blagoevgrad
 Deva
 Kamuli
 Huamak
+Rajsamand
 Kaga
 Tamano
 Quillota
 Eau Claire
 Kesklinn
-Saraburi
+Changwat Sara Buri
 Ishim
 Zhenlai
-Velsen-Zuid
+Velsen
 Waldorf
-Dessau
 La Carlota
+Malkapur
 Santo Domingo Tehuantepec
 Shuangfengqiao
 Forest Hills
 Apac
+Damghan
 Mococa
 Hwadae
 Songjianghe
 Ede
 Davis
 Subic
+Sirnak
 Tsushima
 Yan Besar
+Palang
+Modasa
 Glen Burnie
 Arenella
+Banepa
 Agbor
 Camarillo
 Jaisalmer
 Luorong
+Tome-Acu
 Kovel
 Victoria
 Trapani
 Paignton
 Rosales
+Lueeyang Chengguanzhen
 Tejen
 Gaithersburg
 Babati
 Shorkot
 Wenling
 Chaguanas
+Buldana
 Montemorelos
+Omidiyeh
 Huajing
 Ezza-Ohu
+Dhenkanal
 Ixtapa-Zihuatanejo
 Rossendale
 Fuqing
+Urun-Islampur
 Caohe
 Eskilstuna
 Jacksonville
 Kiyosu
 Kostyantynivka
 Gaoliu
-City of Isabela
+Gopalganj
+Isabela
 Breu Branco
 Bongaigaon
 Xinzhou
@@ -7476,8 +8682,12 @@ Tabatinga
 Tianliu
 Minchinabad
 Lushar
+OEdemis
+Koepenick
 Wanggou
 Fengkou
+Nea Ionia
+Haveri
 Dolores Hidalgo
 Shajing Town
 Kenner
@@ -7487,6 +8697,7 @@ Washington
 Jackson Heights
 Saint-Nazaire
 Fukutsu
+Przemysl
 Estepona
 Nunukan
 Mannargudi
@@ -7495,22 +8706,28 @@ Nizhyn
 Rockville
 Liuhe
 Jackson
+Embu-Guacu
+Targoviste
 Lincoln Park
 Kashima-shi
+Abu al Matamir
 Yuba City
 Hanyin Chengguanzhen
 Tataouine
+Jhalawar
 Solna
 Aleksin
 Portland
+Sidi Aissa
 Palo Alto
 Saiki
 Wacheng Neighborhood
 Tarn Taran
-General Pico
 Neuwied
+General Pico
 Ferrol
 Casas Adobes
+Phuc Loi
 Bajos de Haina
 Point Cook
 Marysville
@@ -7520,9 +8737,12 @@ Unna
 Shaozhuang
 Dambulla
 Trang
+Sayhat
+Tepi
 Parnas
+Bakikhanov
 Korabelna Storona
-Chiyoda
+Chiyoda City
 Karlskrona
 Dinalupihan
 Bellampalli
@@ -7533,6 +8753,7 @@ Lishi
 La Mohammedia
 Chengyang
 Aluche
+Jidd Hafs
 Sanchazi
 Fort McMurray
 Kurihara
@@ -7543,25 +8764,31 @@ Aflao
 Qaraqash
 Barbil
 Taihe
-Koratla
 North Little Rock
+Koratla
 Lianyuan
 Goba
 Stalowa Wola
 Mansehra
 Sokaraja
+Camaqua
 Smila
 Bayside
 Bununka Kunda
 Wuxi
+Vicalvaro
 Folkestone
 Qipan
 Plauen
-Napier
+Napier City
+San Antonio del Tachira
+Rishikesh
 Kungur
 Kituku
 Castelldefels
+Goyerkata
 Klintsy
+Togane
 Tangxiang
 Neryungri
 Huinan
@@ -7574,7 +8801,8 @@ Beimeng
 Leninogorsk
 Cataguases
 Bergen op Zoom
-Delray Beach
+Del Ray Beach
+Algueirao
 Loures
 Sosnovka
 Rajin
@@ -7590,6 +8818,8 @@ Castellammare di Stabia
 Cheria
 Kasungu
 Qionghu
+Azaz
+Thai Hoa
 Camucuio
 Gamping Lor
 Nikki
@@ -7607,52 +8837,62 @@ Xiaolingwei
 Ambilobe
 Johnson City
 Kitamoto
-Gwa
+Gwa Twon
+Turayf
 Calapan
 Johor Jaya
 Kherson
 Ganshui
 Dale City
-Namyang-nodongjagu
-Silvan
+Miepherkeim
 Salgueiro
 Lesosibirsk
 Cedar Park
-Jablah
+Jableh
 Waterfront Communities-The Island
+Niitsu
 Lahat
 Tanabe
 Rotorua
+Durame
 Yaoji
 Qiantang
 Mengyin
 Parkchester
+Palin
 Lichtenburg
 Atascocita
 Jietou
 Saint Cloud
 Ellicott City
 Xiangcheng
+Palasa
 Bayiji
 Finchley
 Laguna Niguel
 Polewali
 Chegutu
 Saint Charles
+Uniao dos Palmares
 Harlingen
 Shangkou
 Polevskoy
 Pavia
 Ligezhuang
 Mitoyo
+Gohana
 Pulivendla
+Tu Son
 Wrexham
+Quweisna
 Chengalpattu
 Dashitou
 Rovaniemi
 San Ildefonso
 San Miguel
 Huanghua
+Kedzierzyn-Kozle
+Ipixuna do Para
 Tulcea
 Qingyang
 Wadgaon Kolhati
@@ -7660,9 +8900,14 @@ Babu
 Souq Sebt Oulad Nemma
 Barreirinhas
 Chivilcoy
-Wufeng
+Ladnun
+Ioannina
+Tupa
+Wufeng District
 Fleetwood
 Bom Jesus da Lapa
+Nurabad
+Coroata
 Korba
 Basirpur
 Yebaishou
@@ -7670,18 +8915,26 @@ Huaiyuan Chengguanzhen
 San Clemente
 West Lynchburg
 Iganga
+Al Mansurah
 Middletown
+Buram
+Dar Kulayb
 Afgooye
 Torremolinos
 Sattahip
-Sokhumi
+Sukhumi
 Supaul
-Ellesmere Port Town
 Narok
+Ellesmere Port
 Fort Garry South
+Firuzabad
 Framingham Center
 Xincheng
+Itapoa
 Colmar
+Aran Bidgol
+Tendo
+Baqershahr
 Torquay
 Bianzhuang
 Pankow
@@ -7690,14 +8943,16 @@ Ban Khoan
 Tultepec
 Suyangshan
 Kumertau
+Gangarampur
 Ramanathapuram
 Herten
-Jagraon
 Schenectady
+Jagraon
 Perai
 Urgut Shahri
 Sinnar
 Hepingjie
+Salama
 Bairro Militar
 Kopargaon
 Skhirate
@@ -7707,13 +8962,16 @@ Liuxin
 Capelle aan den IJssel
 Gushikawa
 Caoqiao
+Manhica
+Alipur Duar
 Belize City
-Lala Musa
+Lalamusa
 Slavyansk-na-Kubani
 Longshan
 Craigieburn
 Irpin
 Villa de Vallecas
+Januaria
 Fengrun
 Pinheiros
 Cheyenne
@@ -7724,56 +8982,68 @@ Ambarawa
 Ouezzane
 Kalush
 Villasis
+Estancia
 Broomfield
 Ames
 Park Slope
 Shawnee
 Mecheria
+Maues
 Kunyang
 Bezerros
-Ganda
-Patuakhali
 Cricklewood
+Bazar-e Yakawlang
+Patuakhali
 Wrzeszcz
 King Faisal Military City
+Bazarak
 Reseda
+Ganda
 Guildford
 Pampatar
 Conway
 Embu
+Sumusta al Waqf
 Tianzhuang
 Villa del Rosario
 East Orange
 Khulm
 Gitega
 Sodegaura
+Boditi
 Busia
 Oas
 Kolonnawa
-Azul
 Loughborough
+Azul
 Herford
-Lingao
 Hita
+Lingao
 Portage Park
+Igarape Miri
 Tongaat
 Skokie
 Shikang
 Massa
 Grevenbroich
+Cair
 Tecate
 Valverde
+Dishna
 Rechytsa
 Khatauli
 Weimar
 Bertioga
+Hwawon
 Fenggang
+Viraraghavapuram
 Ahlat
 Asahi
-West Bloomfield Township
+West Bloomfield
 Tamarac
 Yendi
 Siuri
+Raipur
 Itaberaba
 Meulaboh
 Dondo
@@ -7797,8 +9067,10 @@ Haskovo
 Puerto Madryn
 Fujioka
 Muncar
+Bina
 Koboko
-Taman Senawang Indah
+Senawang
+Palitana
 Changli
 Yanagawa
 Afragola
@@ -7817,61 +9089,77 @@ Waterlooville
 Yangzhou
 Sandefjord
 Imaichi
+Rossosh
 Montenegro
 Maison Blanche
 Gimbi
-Sheptytskyi
+Chervonohrad
 Tamana
 Mansfield
+Halol
 Taloqan
 Ongjin
 Punta Alta
 Tuapse
+Kodar
 Alba Iulia
 Kerpen
 Skanes
 Santa Cruz
 Pico Rivera
+Bangarda Chhota
 Tshela
 Madera
 Vacaria
 Qinggang
 Uga
 Fria
+Tadepalle
 Koulikoro
 Tirupattur
 Janesville
-Surubim
 Ali Mendjeli
+Surubim
 Boryspil
 West Des Moines
 Villa Elisa
 Aleksandrov
+Narutocho-mitsuishi
 Santiago
 Sibi
 Molina de Segura
+Ihnasiyah
 Mutengene
 Chinnachowk
 Bishnupur
 Paterna
+Amur
+Palaio Faliro
 Kotlovka
 Polomolok
 Ensenada
 Baheri
 Nawalgarh
+Paranoa
 Montebello
+Anaiyur
 Camocim
 Kunnamkulam
 Tulangan Utara
 Bognor Regis
 Ambanja
+Colon
+Raghogarh
 San Antonio de Los Altos
+Tohana
 Kangar
 Valence
 Newtownabbey
 Cosenza
 Quimper
 Pateros
+San Pedro de Copan
+Thanh Pho Uong Bi
 Dengbu
 Pindi Gheb
 Piripiri
@@ -7885,6 +9173,7 @@ Magong
 Mpika
 Georgetown
 Mangai
+As Safirah
 Lulou
 Hull
 Bongor
@@ -7893,10 +9182,11 @@ Jatani
 Alpharetta
 Fujiidera
 Arni
-Genk
 Shimodate
+Genk
 Yambol
 Kilju
+Chik Ballapur
 Lorain
 Baihecun
 Bowling Green
@@ -7904,6 +9194,7 @@ Nong Khai
 Guanyin
 Flatlands
 Dundalk
+Capao da Canoa
 New Halfa
 Dormagen
 Zarechnyy
@@ -7924,9 +9215,10 @@ North Bergen
 Zayed City
 Pittwater
 Most
+Korydallos
 Great Yarmouth
 Buin
-El Prat de Llobregat
+el Prat de Llobregat
 Nanlong
 Mitcham
 Dhubri
@@ -7937,6 +9229,7 @@ Borsad
 Feltham
 Siddharthanagar
 Garbsen
+Zagne
 Pavlovo
 Margate
 Githunguri
@@ -7946,58 +9239,72 @@ Xiazhuang
 Mercedes
 West Hartford
 Kelaa Kebira
+Ojima
 Mila
 Padre Hurtado
+Pohja-Tallinn
 Cajazeiras
 Buduburam
 Gorno-Altaysk
 Changcheng
 Shanwang
 Lugano
+Kusadasi
+Gadwal
 Tetovo
 Hod HaSharon
 Godean
 Rogers
 Medicine Hat
+Lushnje
+Qurayyat
 Fredericton
+Acarau
+Piduguralla
 Melipilla
-Novaya Balakhna
-Collado-Villalba
+Balakhna
+Collado Villalba
 Botou
 Orion
 Uiwang
 Vaslui
 Carol City
 Pubal
+Agnibilekrou
 Liuku
 Los Andes
 Florida
+Kelibia
 Baoqing
 Urla
-Horad Zhodzina
+Zhodzina
 Nkwerre
 Mong Kok
+Al Bajur
 Shizhai
 Halton Hills
 Portel
 Encinitas
 Sheikhpura
 Jinggou
+Mahdasht
 Auchi
 Graaff Reinet
 Campo Bom
 Sirsi
+Nipani
 Sorgun
 Fanlou
 Nasugbu
-Brighouse-City Centre
+Richmond-Brighouse
 Pueblo Nuevo
-Kannur
+Cannanore
 East Village
+Tagajo-shi
 Butare
 Trnava
-Randers
 Moknine
+Randers
 Qingshuping
 Caltanissetta
 Ashford
@@ -8005,13 +9312,15 @@ Haverhill
 Changle
 Sumbawa Besar
 Pesqueira
+Bari
 Jupiter
 Nokha
+Santa Lucia
 Dovzhansk
 Buynaksk
 Tiquipaya
 Semporna
-Krasnoturinsk
+Cubuk
 Council Bluffs
 Phitsanulok
 Belebey
@@ -8030,14 +9339,17 @@ Pingnan
 Acton
 Phalia
 Kosong
-Ntoum
+Nkan
 Shiroi
 North Miami
-Pervomaysk
+Pervomaisk
 Noisy-le-Grand
 Fochville
+Renukoot
 Mohammadia
 Hamilton
+Deqen
+San Francisco Tesistan
 Songyang
 Grao de Murviedro
 Yucheng
@@ -8053,16 +9365,16 @@ Kogon Shahri
 Carazinho
 Nagari
 Abepura
-Sopron
 Rzhev
+Sopron
 Coon Rapids
 Berat
 Holosiyiv
 Shulyavka
 Asaka
 Levallois-Perret
-Escada
 Huaral
+Escada
 Inhulets
 Boituva
 Viareggio
@@ -8076,7 +9388,10 @@ Shuangyang
 Nianzishan
 La Habra
 Blaine
+Dabwali
+Sibsagar
 Asakusa
+Narwana
 Yangambi
 Tikhvin
 Sagua la Grande
@@ -8084,6 +9399,7 @@ Auburn
 Minglanilla
 Okha
 Kiffa
+Lar
 Floriano
 Sanghar
 Korogwe
@@ -8091,15 +9407,21 @@ Downtown Vancouver
 Nova Odessa
 Bin Xian
 Kempas
+Angyalfoeld
+Meshkin Dasht
 Nani Daman
-Smederevo
 gorod Solnetchnogorsk
+Erzsebetvaros
+Mizan Teferi
+Smederevo
 Irun
 Lake Elsinore
-Zhaobaoshan
 Hushitai
+Zhaobaoshan
 Petrodvorets
+Kuchaman
 Miyoshi
+Nimbahera
 Labinsk
 Tenkodogo
 Zhangji
@@ -8113,6 +9435,7 @@ Fengyi
 Nandu
 Pisco
 Siddhapur
+Bamyan
 Longfeng
 Taoluo
 Bassar
@@ -8120,28 +9443,39 @@ Moca
 Zamora
 Iskitim
 Kiryat Gat
-Svetlogorsk
+Svyetlahorsk
+Sao Miguel dos Campos
 Diphu
 Attur
+Daraw
 Beni Enzar
 Revda
+Long My
+Koshi
 Lobnya
 Yingshang Chengguanzhen
+San Andres Tuxtla
 Tempelhof
 Carmichael
 Songkhla
 Kokstad
 Kampong Cham
 Scarborough
+Rayadrug
 Xiangzhou
 Yamato-Takada
 Morada Nova
+Rath
 Ngozi
 Al Shamkhah City
+Lakshmipur
+Yangiyul
 Yongning
 Wesel
+Penapolis
 Vyksa
 Cortazar
+Trikala
 Kolea
 Kolding
 Extremoz
@@ -8152,21 +9486,25 @@ Ueno-ebisumachi
 Sibay
 Faqirwali
 Lishu
-Oroqen Zizhiqi
+Alihe
+Beja
 Taylor
 Alcoy
 Cayenne
 Hasuda
 Gaya
 Xianju
+As Saff
 Malaybalay
 Mora
 Porirua
+Vriddhachalam
 Korosten
 Karlstad
 Nieuwegein
 Burnsville
 Tamba
+Barh
 Jianguang
 Monterey Park
 Widnes
@@ -8177,10 +9515,13 @@ Issy-les-Moulineaux
 Dongning
 Aketi
 Dashi
+Vicosa do Ceara
 Stryi
 Mdiq
+Abu Hummus
 Castro Valley
 Mariana
+Shahada
 Tunasan
 Sig
 San Salvador Tizatlalli
@@ -8189,6 +9530,7 @@ Savona
 Mushie
 Irvington
 Sindelfingen
+Vyronas
 Mojo
 Neuilly-sur-Seine
 Tianchang
@@ -8205,8 +9547,10 @@ Gaalkacyo
 Apatity
 Chichibu
 Kesennuma
+Caico
 Runcorn
 Udumalaippettai
+Dembi Dolo
 Utica
 Gubat
 Dar Naim
@@ -8231,19 +9575,26 @@ Bangor
 Ban Tha Kham
 Itoman
 Felege Neway
+Villa Poeta Jose Galvez Barrenechea
 Stupino
+Fier-Cifci
+Neka
 Parit
-Kampong Sidam
+Sidam
 Granollers
 Fano
 Financial District
-Wanparti
+Tiptur
+Sahaswan
 Zeist
+Wanparti
 Sidi Bennour
 Anuradhapura
+Tarnowskie Gory
 Xiema
 Buluan
 Grosseto
+Kirikhan
 Soroti
 Yanliang
 Tahe
@@ -8254,10 +9605,13 @@ San Miguel
 Uyovu
 Norfolk County
 Sirhind
+Dayr Mawas
+Joso
 Erdaojiang
 Aisai
 Terre Haute
 Kolomyia
+Bardoli
 Tartagal
 Vineland
 West Hollywood
@@ -8267,18 +9621,21 @@ Tianpeng
 Troyes
 Kertosono
 North Delta
+Stodulky
 Monte Mor
+Sarandi
 Xixiang
 Beckenham
 Yazman
 Seraing
-San Marcos
 Chicacao
+San Marcos
 El Wak
 Republica
 Gilgil
 Upper Gilgil
 Shuya
+Shchyokino
 Ban Lam Luk Ka
 Towada
 San Marcos
@@ -8287,19 +9644,19 @@ Yaowan
 Brentwood
 Farnborough
 Bor
-Givatayim
+Arambagh
 Lakeville
 Mujiayingzi
 West Allis
 Yame
 Poonamalle
 Tynemouth
-Akim Oda
 Dubna
+Akim Oda
 Ibitinga
 Redmond
-Motril
 Kinokawa
+Motril
 Keonjhargarh
 Dingjia
 Mene Grande
@@ -8308,8 +9665,8 @@ Canoga Park
 Cupertino
 Bhadravati
 Ualog
-Langzhong
 Ciudad Hidalgo
+Langzhong
 Taylorsville
 Takaishi
 Liancheng
@@ -8318,7 +9675,7 @@ Moramanga
 Bristol
 Moore
 Gardena
-Longgang
+Longkou
 Novo Repartimento
 Petaluma
 Fethiye
@@ -8330,10 +9687,12 @@ Matera
 Midelt
 Grand Junction
 Taitou
+Swidnica
 Cruz das Almas
 Olbia
 Mangochi
-Gushu
+Tai Ping
+Sanyoonoda
 Panruti
 Al Burj
 Fenshui
@@ -8348,19 +9707,24 @@ Ilkal
 Rowlett
 Vejle
 Cogan
+Kiratpur
 Wucheng
 Cristalina
+Tahara
 Yuxia
 Trinidad
-Tahara
 Runan
 Parkent
+Vrindavan
 Douane
+Kodungallur
 Penedo
+Bandar-e Kangan
 Vavuniya
 Ech Chettia
 Rosenheim
 Nagakute
+Nedumangad
 Stroud
 Gucheng
 Bambang
@@ -8369,35 +9733,40 @@ Tczew
 Santo Amaro
 Sandaohezi
 Pokrovsk
+Hpakan
+Abyek
 Sennan
-Laascaanood
+Las Anod
 Yongbei
 Halesowen
 La Mesa
 Waterford
 Pine Hills
+Martinez de la Torre
 Kuwait City
-Melbourne City Centre
+Melbourne CBD
 Zushi
-Pavlovskiy Posad
+Pavlovsky Posad
+Hyuga
 Dazeshan
 Bela Vista
+Saravan
 Villa Vicente Guerrero
+Mbale
+Bukit Indah
 Nzagi
-Hurlingham
-Zhujiajiao
-Wuzhen
+Faruka
+Bangaon
 Gamonal
 Santutxu
-Juan-les-Pins
-Chelsea
-Bangaon
-Mbale
+Zhujiajiao
 Colonia Nativitas
 Putra Heights
 Ara Damansara
-Bukit Indah
-Faruka
+Juan-les-Pins
+Wuzhen
+Hurlingham
+Chelsea
 Sviblovo
 Ostankinskiy
 Bensonhurst
@@ -8406,6 +9775,7 @@ Rancho Penasquitos
 Valley Glen
 Vinhomes Ocean Park
 Meriden
+Dai Mo
 Narsimhapur
 Tanay
 Obando
@@ -8420,11 +9790,12 @@ Jiangkou
 Maqin County
 Limoeiro do Norte
 Yamethin
-Kathua
 Port Orange
+Kathua
 Boyolali
 Hamden
 Antony
+Jacunda
 North Lakhimpur
 Pucheng
 Lakewood
@@ -8435,20 +9806,24 @@ Bang Khae Nuea
 Masaurhi Buzurg
 Nerkunram
 Kosai
-Fountainebleau
+Fountainbleau
+Piekary Slaskie
 Itogon
 Zvishavane
-Saint Clair Shores
+Agia Paraskevi
 Metu
 Prachantakham
 Springfield
 Shegaon
+Pampan
 Mandideep
 Katiola
 Great Falls
 Ksar el Boukhari
+Sao Miguel do Guama
 Date
 Ekpoma
+Pachora
 Baimajing
 Tuanbao
 San Cristobal
@@ -8462,21 +9837,29 @@ Gobichettipalayam
 Gangoh
 Mielec
 Ferizaj
+Deir el-Balah
 Shirakawa
+Esfarayen
 Itanagar
 Drummondville
 Comitancillo
 Sonsonate
 Wenshang
+Ipira
 Huntington Park
+Meiganga
 La Roche-sur-Yon
+Tutoia
 Chikuma
 Mingshui
+Ogori
 Azrou
+Galatsi
 Lancaster
 Jaitpur
 Huiqu
-Narasapur
+As Salihiyah al Jadidah
+Narasapuram
 Cachoeiras de Macacu
 Coconut Creek
 Wendo
@@ -8488,17 +9871,25 @@ Offenburg
 Craigavon
 Aboisso
 Lamongan
+Panlongcheng Jingji Kaifaqu
+Nabaruh
 Leander
 Mikhaylovsk
+Rajgarh
+Sahagun
 Idaho Falls
 Kotlas
+Fundacion
+Veliko Tarnovo
 Tashan
 San Rafael
 Jixian
 Hezuo
 Azua
 Wanchaq
+Chalcis
 Ullal
+Abadeh
 Abadeh
 Manaoag
 Rio Bonito
@@ -8512,11 +9903,14 @@ Panna
 Dilling
 Longgu
 Yigou
+Santo Tome
 Yagoua
 Marietta
+Taua
 San Francisco
 Verkhnyaya Pyshma
-As-Suwayda
+Ferencvaros
+Suwayda
 Fairfield
 Talnakh
 Langtoucun
@@ -8526,31 +9920,39 @@ Eastvale
 Sarpsborg
 Simpang Renggam
 El Palomar
-Qiryat Ata
+Kiryat Ata
+Acara
 Royal Oak
+Minami-Soma
 Camacupa
 Slutsk
+Gola Gokarannath
 Mbera
 Zarand
+Petroupolis
 Stralsund
 Brentwood
 Juruti
 Goz Beida
 Gohad
+Golpayegan
+Torbat-e Jam
 Fraijanes
 Kitahiroshima
+Xiaoweizhai
 Mpanda
 Cruz Alta
-Xiaoweizhai
 Baki
 Cerro de Pasco
 Mikhaylovka
 Solnechnogorsk
 Villach
 Antu
+Banga
 Wani
+Ardakan
 Avan
-Menzel Bourguiba
+Ferryville
 Dubuque
 Wallasey
 Kamphaeng Phet
@@ -8565,15 +9967,19 @@ Vinto
 Kayes
 Brookline
 Novi
+Pestlorinc
+Jaguariuna
 Littlehampton
 Er Roseires
 Tokoname
 Shwegu
 Viseu
+Hanyu
+Salehieh
 Des Plaines
 Beliatta
 Kampong Dungun
-Hameln
+Hamelin
 Carrara
 Taifu
 Los Patios
@@ -8582,1419 +9988,13 @@ Carson City
 Padangpanjang
 Orland Park
 San Pedro Ayampuc
+Oume
 Mpondwe
+Nuzvid
 Frutal
+Nga Nam
 Bartlett
 Glogovac
 Beitbridge
 Guerara
 Toki
-Woodland
-Lonavla
-Loum
-Shiqiaozi
-Una
-Jidong
-Lehi
-Ouled Djellal
-Fenyi
-White Plains
-Uzlovaya
-Vasastaden
-Paombong
-Weleri
-Chonglong
-Sayama
-Xinglongshan
-Choshi
-San Pedro de Jujuy
-Fort Beaufort
-Benevento
-Arcadia
-Reston
-Friedrichshafen
-Batatais
-Finote Selam
-Barkam
-Sakurai
-Chaiyaphum
-Tongchuan
-Shibuzi
-Uttaradit
-Lixian
-Murakami
-Hongqiao
-Antsalova
-Changbai
-Zhutuo
-Sillod
-Ocala
-Kisela Voda
-Dingtao
-Clay
-Myaungmya
-Omoa
-Dongxi
-Los Dos Caminos
-Monte Alegre
-Arzew
-Central City
-Petauke
-Kanbe
-South Vineland
-Lorient
-Sanford
-Juye
-Ekangala
-Nahariyya
-Dapaong
-Felgueiras
-Serian
-Streatham
-Zgierz
-Caucasia
-Bowie
-Simpang Empat
-Port Coquitlam
-Invercargill
-Volzhsk
-Kokomo
-Sarcelles
-Jatiwangi
-Vigevano
-Kawthoung
-Pessac
-Magsaysay
-Santa Rosa de Cabal
-Baekrajan
-Wayne
-Kraaifontein
-Hardenberg
-Ivry-sur-Seine
-Kokubu-matsuki
-San Francisco El Alto
-Chikhli
-Veles
-Tabaco
-Belen
-Pianura
-Kogalym
-Bootle
-Santee
-Emin
-Ponte Nova
-Orito
-Longtan
-Shenliu
-Lop Buri
-Ksar
-Dublin
-Hagere Maryam
-Stolberg
-Moreno
-Maocun
-Santa Luzia
-Sundsvall
-Bebington
-El Hatillo
-Legnano
-Taquara
-Cergy
-Ban Pong
-Krymsk
-Huangpi
-Shanhecun
-Hernals
-Yantongshan
-Vynohradar
-Guarabira
-Cupang
-Hasanpur
-Clichy
-Na Di
-Guiren
-Chongwe
-Palm Harbor
-Santo Tomas
-Linares
-Kentau
-Marinilla
-Medford
-Kidderminster
-Myaydo
-Cheremkhovo
-Morley
-Taquaritinga
-Sherkot
-Siu Lek Yuen
-El Menia
-Minbu
-Zhongxing
-Halabja
-Talagante
-Langxiang
-Kaffrine
-Catacaos
-Garoowe
-Kota Sambas
-Coruripe
-Sankarankovil
-Kolaboui
-Midwest City
-Center City
-Nonoichi
-Margate
-Tiruvalla
-Roshanpura
-Villa Hayes
-Thanbyuzayat
-Andradina
-Andradas
-Bergama
-Vargem Grande
-Boufarik
-Chitral
-South Whittier
-Bageqi
-Tinley Park
-Hamada
-Mukandpur
-Anamur
-Suiling
-Pflugerville
-Mafraq
-Wenxing
-Unjha
-Alenquer
-Yingli
-Cristo Rey
-Tilhar
-Dehdasht
-New Brunswick
-Annaka
-Lunglei
-Jahangira
-Grand Forks
-Emmen
-Phra Phutthabat
-Colegiales
-Sokol
-Baishishan
-Fountain Valley
-Hoskote
-Hendala
-Haripur
-Minokamo
-Stourbridge
-Byasanagar
-North Hills
-Ninghai
-Manfredonia
-Anlong Veaeng
-Foligno
-Zhuzhai
-Purbalingga
-Xam Nua
-Diamond Bar
-Kitgum
-Baden-Baden
-Hattingen
-La Dolorita
-Livingston
-Umm Ruwaba
-Ushuaia
-Bobbili
-Barri de Sant Andreu
-Jinji
-Fana
-Taunton
-Fussa
-Ambalangoda
-Batac City
-Oak Lawn
-Union
-Ankeny
-Battir
-Weining
-Mettur
-Chicopee
-Sattenapalle
-San Vicent del Raspeig
-Castlereagh
-Kettering
-Morondava
-Paudalho
-Qingfu
-Jamrud
-Pirapora
-Daokou
-Okcheon
-Yashan
-Woluwe-Saint-Lambert
-Lingayen
-Masinloc
-Borovichi
-Hilden
-Wellingborough
-Mafra
-Tennala
-Aylmer
-Chakradharpur
-Irving Park
-Limoeiro
-Porto Ferreira
-Sendhwa
-Nantai
-Palmares
-Sukuta
-Balai Pungut
-Potenza
-Changleng
-Chernaya Rechka
-Saint-Michel
-Rolim de Moura
-Chino
-Mocoa
-Boudouaou
-Registro
-Mizuho
-Winterhude
-Anjangaon
-Mon Repos
-Tarneit
-Hutang
-Berwyn
-Sanchuan
-Caleta Olivia
-Manhattan
-Honiara
-Fier
-Trairi
-Sitou
-Bankra
-Mendaha
-Forest
-Dabhoi
-Zibihu
-Mutsu
-Teghra
-Baidi
-Sleman
-Gaogou
-Espinal
-Huauchinango
-Vranje
-Kirishi
-Khartsyzk
-Linghai
-Turbaco
-Dongola
-Paita
-Kendale Lakes
-Smyrna
-Dearborn Heights
-Longshi
-Hermanus
-Moncalieri
-Rhodes
-Obra
-Kobo
-Xuzhuang
-Sankt Augustin
-Ayapel
-Tiruvallur
-Mandapeta
-Kutu
-Tirur
-Porterville
-Kimilili
-Piscataway
-Kandi
-Pandak
-Ropar
-Gongyi
-Hendersonville
-Roeselare
-Melo
-Papatoetoe
-Eisen
-Dangila
-Bonga
-Kapenguria
-Ezhva
-Toumodi
-Cuneo
-Qinnan
-Barabai
-Arcot
-Liski
-Gelan
-Morningside Heights
-Zvyahel
-San Francisco
-Impasugong
-Kudamatsu
-Kuala Selangor
-Vryburg
-Bolvadin
-Dalianwan
-Changling
-Chumphon
-Mozambique
-San Rafael
-Rocky Mount
-Belem
-Corvallis
-Eschweiler
-Berrouaghia
-San Antonio
-Olympia
-Valdosta
-Bonan
-Zile
-Serowe
-Dibaya-Lubwe
-Hanford
-Kampung Bukit Baharu
-Lubao
-Hashtgerd
-My Drarga
-Zhuyi
-Yanam
-Klaeng
-Dakhla
-Rumonge
-Yongqing
-Castle Rock
-Linqiong
-Snizhne
-Greenwood
-Takizawa
-At Tall
-Amuntai
-Nuevo Casas Grandes
-Chicago Lawn
-Hempstead
-Buthidaung Town
-Wellington
-Piedade
-Raxaul
-Moonniyur
-Novato
-Kettering
-Bellevue
-Tlokweng
-Qishan
-Buriticupu
-Barrow in Furness
-Videira
-Besuki
-Aurora
-Lanshan
-Mangina
-Shoreline
-Decatur
-Luau
-Oued Rhiou
-Friedrichsfelde
-Anjiang
-San Fernando
-Xinqing
-Gapyeong
-Ksar Hellal
-Paramount
-Beledweyne
-Placetas
-Saint-Quentin
-Mpulungu
-Bisceglie
-Jaguare
-Kottayam
-Tiruttangal
-Minamiuonuma
-Bossangoa
-Artur Nogueira
-Taliwang
-Port Arthur
-Dorbod
-Sesvete
-Yutan
-Abington
-Anderson
-Wedi
-Ahu
-Torrelavega
-Hidaka
-Satte
-Djemmal
-Ahlen
-Tamiami
-Kas
-Nazarovo
-Hulu Langat
-Rubizhne
-Villa Bruzual
-Madhupur
-Pazardzhik
-Klimovsk
-South Croydon
-Towson
-Naic
-Challakere
-Bayan
-North Chicopee
-Elda
-Drean
-Licha
-Pingjin
-Uptown
-Sarasota
-Narail
-Kalasin
-Lesnoy
-Canterbury
-Rybatskoye
-Cepu
-Kaga-Bandoro
-Uritsk
-Luang Prabang
-Sharifabad
-Canoinhas
-Cuango-Luzamba
-Caxito
-Shilin
-Jinotega
-Waterloo
-Dunfermline
-Dompu
-Kavanur
-Granja
-Liguo
-Huangnihe
-Viljoenskroon
-Tallang-dong
-Cypress Hills
-West Haven
-Miyakojima
-Rosemead
-Sabinas
-Bad Salzuflen
-Cuenca
-Euskirchen
-Estancia
-Opava
-Yecheon
-Edgewater
-Jackson
-Highland
-Jelgava
-Mamoudzou
-Meerbusch
-Idappadi
-Manzhouli
-Huguo
-Liuji
-Asenovgrad
-Pozzo Strada
-Bandar Labuan
-Mount Prospect
-Liangzhai
-Huyton
-Bhamo
-Leytonstone
-Rio de Mouro
-Luputa
-Jaguaquara
-Barry
-San Josecito
-Boghni
-Niort
-Burauen
-Odivelas
-Hamura
-Colton
-San Marcos
-Encanto
-Sibonga
-Konan
-Wangji
-Boa Viagem
-Belfort
-Giurgiu
-Sihor
-Huacho
-Belorechensk
-El Banco
-San Bernardino Tlaxcalancingo
-Himimachi
-Bafang
-Deglur
-Acopiara
-Meikle Earnock
-Hamilton
-Madhepura
-Modica
-Nanzhou
-Pocatello
-Bradenton
-Pasir Ris New Town
-Pirojpur
-Swedru
-Bukit Tengah
-Margareten
-Narva
-Rogers Park
-Jinka
-Nelson
-Ain El Aouda
-Weymouth
-Sittingbourne
-Port Charlotte
-Tharyarwady
-Yunjin
-Bom Despacho
-Normal
-Ajaccio
-Eisenzicken
-Macclesfield
-Teramo
-Sidhi
-Luojing
-Zehlendorf
-Krasnokamensk
-Guapimirim
-Spring
-Presidente Franco
-Allapattah
-Okaya
-Durbanville
-Dullewala
-Pir Jo Goth
-Hietzing
-Gravesend
-Pemangkat
-Richland
-Eastleigh
-Zinacantepec
-Euless
-Sau Mau Ping
-Dhanmondi
-Kupchino
-Eldorado
-Campo Belo
-Garhchiroli
-Blue Springs
-Pakenham
-Koumra
-East Pensacola Heights
-Kalamata
-Diffa
-Jalor
-Nirgua
-Bangassou
-Cerignola
-Aranjuez
-Chilanga Township
-Kwaggafontein
-Shella
-Hacienda Heights
-Fangcun
-Palmaner
-Xihu
-Lozova
-Nuevitas
-Suzaka
-Vannes
-Kanakapura
-Schweinfurt
-Wokha
-Ozone Park
-Trani
-Sartrouville
-Druzhkivka
-Umred
-Yongjian
-Bandar-e Torkaman
-Iwade
-Maisons-Alfort
-Ribeira do Pombal
-Huesca
-Xiazhuang
-Beberibe
-Barbosa
-Timashyovsk
-Saint-Louis
-Lagoa da Prata
-Mingcun
-Severomorsk
-Pandamaran
-Barra
-Siena
-Mondlo
-Domodedovo
-Briarwood
-Eger
-Pallichal
-Jacona de Plancarte
-Lingcheng
-Cathedral City
-Meaux
-Lakewood
-Kericho
-Portici
-Kotharia
-Ottapalam
-Kurihama
-Elyria
-Mongo
-Pulheim
-Jardines de la Silla
-Starachowice
-Markala
-Pensacola
-Wheaton
-Kintampo
-Mercedes
-Assi Bou Nif
-Commerce City
-Santiago Teyahualco
-Begampur
-Charikar
-Arao
-Jinding
-Blois
-Smethwick
-Safaga
-Hoboken
-Watsonville
-Kongoussi
-Gaddi Annaram
-Coatepec
-Dumraon
-Miyoshi
-Anapa
-El Kef
-Pamplona
-Nerupperichchal
-Ercolano
-Goshogawara
-Nihommatsu
-Lake Havasu City
-Qingxichang
-Papantla de Olarte
-Jaggaiahpet
-Hvidovre
-Jinhua
-Les Abymes
-Buguruslan
-El Viejo
-Inada
-Menemen
-Woburn
-Extrema
-Braintree
-Ilo
-Buzhuang
-Rampur Hat
-Brive-la-Gaillarde
-Chystyakove
-Klinteby Frihed
-Khanapuram Haveli
-Arles
-Little Havana
-Tuni
-Shiquan
-Revere
-Yangtun
-Weymouth
-Porto Feliz
-Chortoq
-Suphan Buri
-Beauvais
-Laxmangarh
-Zhangfeng
-Sotsmisto
-West New York
-Itabirito
-Itupiranga
-Los Polvorines
-Voi
-Chaozhou
-Yucaipa
-Ullagaram
-Porto Nacional
-Ayodhya
-Natitingou
-Montesilvano
-Sampang
-Mubarakpur
-Pathum Wan
-Yousuo
-Gilroy
-Hell-Ville
-Arsikere
-Fryazevo
-Vallecas
-Phaltan
-Kabale
-Zhaozhuang
-Poinciana
-Ashta
-Santa Isabel
-Silivri
-Cholet
-Novena
-Zawiercie
-Ar Rastan
-Sinan
-Bagheria
-Naka
-Gummersbach
-Baruipur
-Rioverde
-Tanjungagung
-Wat Tha Phra
-Oosterhout
-Banes
-Miryang
-Zaragoza
-Butterworth
-University of Texas
-Al Sajaah
-Lahbab
-Wilhelmsburg
-Khanzhonkivskyi
-Ben Jerrar
-Bitlis
-Kingsport
-Swakopmund
-Svyatoshyn
-Choudwar
-Tangzhang
-Levittown
-Alexandroupoli
-Aversa
-Waiblingen
-Nueva Guinea
-Palm Beach Gardens
-Pantin
-Velletri
-Tha Maka
-Congonhas
-Enerhodar
-Patuto
-Buseresere
-Lingwu
-Taoyuan
-Imara Daima Estate
-Verviers
-Bordj el Bahri
-Delmiro Gouveia
-Nordhorn
-Cocorote
-Port Shepstone
-Adilcevaz
-Trichardt
-Saint-Brieuc
-Konch
-Yokkaichi
-Milford
-Beisu
-Kota Tinggi
-Muadamiyat al-Sham
-Mariendorf
-Delano
-Colcapirhua
-West Sacramento
-Wulingyuan
-Malingshan
-Yartsevo
-Huntersville
-Pabbi
-Krasnokamsk
-Venkatagiri
-Ergani
-Perth Amboy
-Cuxhaven
-Sherman Oaks
-Ridder
-Shiogama
-Hualong
-Wetzlar
-Bau
-Palapye
-Boadilla del Monte
-Utrera
-Dianbu
-Southaven
-Vila Guilherme
-Brentwood
-Niono
-Imbituba
-Dabhel
-Amora
-Saint Peters
-Daxing
-Terbanggi Besar
-Puji
-Downtown DC
-Pryluky
-Lalian
-Harrisonburg
-Corroios
-Peabody
-Lautoka
-Thongwa
-Qabula
-Placentia
-Siruguppa
-Kosi
-Jette
-Lenexa
-DeSoto
-Pursat
-Pir Mahal
-Ciudad Bolivia
-Burlington
-Sironj
-Nametil
-Menden
-Montauban
-Tomiya
-South Hill
-Kyaiklat
-Tarhuna
-Albi
-Xingqiao
-Jangaon
-Esher
-Ivato
-Mithi
-Daudnagar
-Metrotown
-Hannan
-Elkhart
-Bergkamen
-Kamifukuoka
-Frechen
-La Crosse
-Chagni
-Eilat
-Dandeli
-Ramapuram
-Welland
-Plottier
-Oak Park
-Ponticelli
-Noshiro
-Songlingcun
-Florissant
-Hruzkyi
-Kalamansig
-Fryazino
-Sammamish
-Yunshan
-Kakata
-Kobryn
-Matamoros
-Hervey Bay
-Cangandala
-Pula
-Dapeng
-Victoria
-Sanzhuang
-Shiraoka
-Zarinsk
-Inhumas
-Wakefield
-Matilda Estate
-Tres Arroyos
-Mudhol
-Ban Talat Yai
-Erbaa
-Arandas
-Albany
-Zhawa
-Antratsyt
-Jitai
-Ban Lak Song
-Hoffman Estates
-Nyagan
-Sar-e Pul
-Lichtenrade
-Ad Darwa
-Tarbes
-Dobo
-Davtashen
-Albany Park
-Fontenay-sous-Bois
-Kimry
-Mouscron
-Ar Riqqah
-Ta Khmau
-Zizhuang
-Liangji
-Chake Chake
-Thodupuzha
-Methuen
-Kirumba
-Pinar del Rey
-Thomazeau
-Kariya
-Glendora
-Levoberezhnyy
-Wilmington
-Mokolo
-Huamantla
-Izumi
-Al Aaroui
-Dunstable
-Ciudad Piar
-Port Macquarie
-University Heights
-Nioro
-Kepanjen
-San Severo
-Queens Village
-Dashahe
-Roskilde
-Gjilan
-Brookhaven
-Duzhou
-Corralillo
-Levittown
-Meybod
-Secondigliano
-Palm Desert
-Zhongxin
-Devakottai
-Porvoo
-Arwal
-Louveira
-Willich
-Puertollano
-Ostuncalco
-Weimiao
-Joplin
-Blora
-Boundiali
-Mahdia
-Orhangazi
-Baljurashi
-Enid
-Palmas
-Tiu Keng Leng
-Qishan
-Lower Sackville
-Mampong
-Ijebu-Jesa
-Wanguru
-Vidnoye
-Qoryooley
-Morumbi
-Bonita Springs
-Kasba Tadla
-Irondequoit
-Zepu
-Yeonggwang
-Caldwell
-Segovia
-Minnetonka
-En Nedjma
-Mikkeli
-Bitonto
-Liuquan
-Futtsu
-Morecambe
-Pedregal
-Pinellas Park
-Tagawa
-Tijucas
-Battle Creek
-Maha Sarakham
-Khagaul
-Yeongam
-Redhill
-Barinitas
-Tachilek
-Mazara del Vallo
-Renfrew-Collingwood
-Emden
-Welwyn Garden City
-Cardona
-Sado
-Arganda
-Miura
-Zhefang
-Horsham
-Casa Grande
-Ksar Chellala
-South Shore
-Mott Haven
-Viana
-The Villages
-Grand Island
-Haabersti
-Acre
-Sanhui
-Jendouba
-Grapevine
-Clamart
-Neu-Ulm
-Bol
-Stratford
-Uriangato
-El Nido
-Rajgangpur
-Patiya
-Kentwood
-Morrinhos
-Tarma
-Nkowakowa
-Tulun
-Lingen
-Samfya
-Brejo da Madre de Deus
-Venice
-Ozar
-Coronel Oviedo
-Barreiro
-Dianzi
-Teoloyucan
-Tigard
-East Hartford
-Vazhakkala
-Nichinan
-Dartford
-Siocon
-Lakewood
-Phra Nakhon
-Kabbasin
-Apple Valley
-Plainfield
-Susono
-Qulsary
-Leesburg
-Erftstadt
-Kapchorwa
-Tirumangalam
-Bargny Ngoude
-Panlong
-Sidlaghatta
-El Bagre
-Miyako
-Leopoldina
-Parsippany
-Martin
-Musina
-Coral Gables
-Gangshang
-Khurai
-Kayna
-Reservoir
-Comal
-Guanshan
-Ivanteyevka
-The Trails of Frisco
-Hilsa
-Sidi Taibi
-Staines
-Hikari
-Datong
-Rampura Phul
-Kot Mumin
-Tadmur
-Pom Prap Sattru Phai
-The Hammocks
-Bunawan
-Ubauro
-Gostivar
-Fatwa
-Gombong
-Acayucan
-Royal Leamington Spa
-Shuijiang
-Tobias Barreto
-Metpalle
-Whangarei
-Kosonsoy
-Gurlan
-Cimitarra
-Buckeye
-Naya Gaon
-Repalle
-Teplice
-Vittoria
-Donetsk
-Tocumen
-Flagami
-Vigia
-Phra Nakhon Si Ayutthaya
-Guanzhuang
-Baijiantan
-Barranqueras
-Catalina Foothills
-Boende
-Salo
-Legionowo
-Yerba Buena
-Narbonne
-Lahr
-Monte Alto
-Padang Serai
-Belleville
-Gelendzhik
-Hinckley
-Yasu
-Aspern
-Rajanpur
-Mao
-Manaung
-Saint-Malo
-Sidikalang
-Merzifon
-Phetchabun
-Lakewood
-Adenta
-Lytkarino
-Shanji
-Sangkapura
-Suhum
-Saint Croix
-Skien
-Jaru
-Ibbenbueren
-Vila-real
-Tolga
-Kingisepp
-Herning
-Kizlyar
-Passau
-Abovyan
-El Negrito
-Clacton-on-Sea
-Gronau
-Kawalu
-Zhob
-Cumbernauld
-Khorramdarreh
-Turbo
-Pivdenna Borshchahivka
-Laval
-Kyaukse
-Amahai
-Forbesganj
-North La Crosse
-Burien
-Nithari
-Ambatondrazaka
-Tarnobrzeg
-Tafo
-Hanyuan
-Langenhagen
-Gallarate
-Willowdale East
-Havertown
-Vargem Grande Paulista
-Arjona
-San Mateo
-Bindura
-Schwerte
-Matli
-North Bay
-Tubod
-Sunabeda
-Gajraula
-Yanghe
-Logan
-Kirkcaldy
-Khagrachhari
-Barriera di Milano
-Ness Ziona
-Speyer
-Saint-Hyacinthe
-Mochudi
-Jahanian
-Modimolle
-Nanao
-Berwick
-South Peabody
-Rovigo
-Asakura
-Midori
-Rasipuram
-Saint-Gilles
-La Calera
-Ventas
-Chusovoy
-Anju
-Aliso Viejo
-Bletchley
-Villa Francisca
-Harrisburg
-Galveston
-Bhabhua
-Yeovil
-Keighley
-Mui Ne
-Mellit
-Kasaoka
-Kotka
-Poway
-Hodal
-Edina
-Monapo
-Otradnyy
-Minnetonka Mills
-Balayan
-Katanawa
-Zacapu
-Jihlava
-Fungurume
-Snezhinsk
-Nanjian
-Uiju
-Pijijiapan
-Moyobamba
-Capivari
-Heidenheim an der Brenz
-Tateyama
-Jatiroto
-Kibaigwa
-Chodov
-Dogondoutchi
-Werribee
-Naxi
-Zhenxi
-Aonla
-Ali Sabih
-Tirupparangunram
-Andulo
-Treptow
-Samara
-LOHAS Park
-Al-Hamdaniya
-Barriera di Lanzo
-Arashiyama
-Ghazieh
-Hpa-An
-Polanco
-Putrajaya
-Sri Petaling
-Taman Melati
-Kuchai Lama
-Tipitapa
-Juigalpa
-Ciudad Sandino
-Rawalakot
-Buni
-Monsanto
-Novovladykino
-Vatutino
-Vagonoremont
-Novokhovrino
-Likhobory
-Kozhukhovo
-Kozeyevo
-Akademgorodok
-Metrogorodok
-Untolovo
-Ko Samui
-Merter Keresteciler
-Utengule
-Tukuyu
-Masumbwe
-Merelani
-Bosse
-Stonecrest
-Vinhomes Smart City
-Vinhomes Times City
-Tabas
-Khagaria
-Cabiao
-Cerritos
-Rio Tinto
-Peine
-Yongxin
-Sayanogorsk
-Tarkwa
-Redford
-Marano di Napoli
-Phalodi
-San Luis de la Paz
-East Honolulu
-Doetinchem
-Troy
-Kanash
-Pordenone
-Nettuno
-Tsukubamirai
-Kabba
-Monchegorsk
-Niksar
-Whitchurch-Stouffville
-Sardhana
-Horishni Plavni
-Zaranj
-Neunkirchen
-Brejo Santo
-Nohar
-Kameyama
-Sunnyside
-Yeola
-Mbuguni
-Kerkrade
-Changdian
-Novovolynsk
-Bhaisa
-Lincoln
-Silkeborg
-Chachoengsao
-Wharton
-Whitman
-Downers Grove
-Ibiza
-Perintalmanna
-Letlhabile
-Lingotto
-Rwamwanja Refugee Camp
-Azusa
-Altrincham
-Keskin
-Labuhan Deli
-Moss
-Hadali
-Xinglou
-Perambalur
-Takashimadaira
-Wilson
-Carmen de Viboral
-Coelho Neto
-Lydenburg
-Carcassonne
-Habaswein
-Monroe
-Bridgend
-Ogawa
-Llanelli
-Morong
-Willenhall
-Huancavelica
-Vratsa
-Parker
-Mihe
-Gudalur
-La Mirada
-Bad Oeynhausen
-Maizhokunggar
-Apizaco
-Hrazdan
-Mpigi
-Leonberg
-Mankweng
-Acireale
-Mumbwa
-Kikuchi
-Majalgaon
-Daund
-Minot
