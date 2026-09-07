@@ -20,6 +20,8 @@ The end of the challenge will depend on how many people I can actually get to jo
 3. Open a PR.
 4. Wait for me to run your submission and put it on the leaderboard.
 
+The generation script can generate smaller files for testing. Run it with `-h` to see the available args.
+
 ## Benchmarking
 - The benchmarks will be run on the latest Arch Linux release, on an i7 8700k and 32GB DDR4 RAM.
   - If I upgrade my hardware before the challenge ends, I will disclose it and rerun all benchmarks on the new hardware.
