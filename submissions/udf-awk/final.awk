@@ -74,6 +74,6 @@ END {
   for (i = 1; i <= n; i++) {
     k = keys[i]
     mean = sum10[k] / (total[k] == 0 ? 1 : total[k]) / 10
-    print k ";" min[k] ";" mean ";" max[k]
+    printf "%s=%.1f/%.1f/%.1f\n", k, min[k], max[k], mean
   }
 }
