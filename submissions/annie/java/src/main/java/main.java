@@ -5,12 +5,13 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.HashMap;
 import java.util.Map;
+
 import java.util.stream.Gatherer;
 import java.util.stream.Stream;
 
 public class main {
 
-    static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException {
         String pathname = "generate/measurements1b.txt";
         if (args.length > 0) pathname = args[0];
 
