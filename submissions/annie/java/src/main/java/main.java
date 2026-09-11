@@ -11,11 +11,11 @@ import java.util.stream.Stream;
 
 public class main {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         String pathname = "generate/measurements1b.txt";
         if (args.length > 0) pathname = args[0];
 
-        try (Stream<String> reader = Files.newBufferedReader(Path.of(pathname)).lines()) {
+        try (Stream<String> reader = Files.lines(Path.of(pathname))) {
             System.out.println("running it");
 
 
@@ -103,7 +103,6 @@ class StationManager {
                 n = n * 10 + (c - '0');
             }
         }
-
         return sign * n * 0.1f;
     }
 
